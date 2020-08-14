@@ -1,0 +1,80 @@
+{
+  "uid" : "f96d9fa98610589a",
+  "name" : "推送报告",
+  "fullName" : "test_runner.TestZuser_info#test_add_report[{\n        \"appKey\": \"ab99093d26ef45c59eb1cf6bae3a1263\",\n        \"Content-Type\": \"application/json;charset=UTF-8 \"\n}-{\n    \"hosBarCode\": \"UC5VUkwuQ04vMFElTCRCUDQtSjpHM0klQkxWOg==\",\n    \"sampleTestNo\": \"10000004\",\n    \"sampleReceiveTime\": \"1593324533\",\n    \"sampleTestTime\": \"1593324533\",\n    \"sampleReportTime\": \"1593324533\",\n    \"testPeople\": \"checkname3\",\n    \"reviewPeople\": \"checkname4\",\n    \"testMethod\": \"人乳头瘤测试0628\",\n    \"sampleType\": 36,\n    \"sampleStatus\": 0,\n    \"sampleStatusShow\": \"\",\n    \"testContent\": \"人乳头瘤病毒test0628\",\n    \"testResult\": \"人乳头瘤病毒高危型感染0628\",\n    \"testItem\": ",
+  "historyId" : "9eb13de57d25c3555e7ce6fe3e286c1d",
+  "time" : {
+    "start" : 1593333808869,
+    "stop" : 1593333808924,
+    "duration" : 55
+  },
+  "status" : "failed",
+  "statusMessage" : "AssertionError: assert '成功！' in \"{'code': 300, 'message': 'sampleStatusShow不能为空！', 'data': None}\"",
+  "statusTrace" : "self = <testcase.test_runner.TestZuser_info object at 0x04BBA5B0>\ninData = '{\\n        \"appKey\": \"ab99093d26ef45c59eb1cf6bae3a1263\",\\n        \"Content-Type\": \"application/json;charset=UTF-8 \"\\n}'\ntwData = '{\\n    \"hosBarCode\": \"UC5VUkwuQ04vMFElTCRCUDQtSjpHM0klQkxWOg==\",\\n    \"sampleTestNo\": \"10000004\",\\n    \"sampleReceive...      \"subType\": \"Hpv16\",\\n            \"result\": \"阳性\",\\n            \"infectUnit\": \"92.16（11.59%）\"\\n        }\\n    ]\\n}'\nrepsData = \"{'code': 300, 'message': 'sampleStatusShow不能为空！', 'data': None}\"\n\n    @allure.story(\"推送报告信息\")\n    @allure.title(\"推送报告\")\n    @pytest.mark.user_info_select\n    @pytest.mark.parametrize('inData,twData,repsData', get_excelData('推送用户报告信息', 1, 17, 5, 6, 8))\n    def test_add_report(self, inData, twData, repsData):\n        res = api_createUserInspectionReport(inData, twData)\n>       assert res['message'] in repsData\nE       assert '成功！' in \"{'code': 300, 'message': 'sampleStatusShow不能为空！', 'data': None}\"\n\ntest_runner.py:34: AssertionError",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "story",
+    "value" : "推送报告信息"
+  }, {
+    "name" : "feature",
+    "value" : "检验所模块"
+  }, {
+    "name" : "severity",
+    "value" : "normal"
+  }, {
+    "name" : "tag",
+    "value" : "user_info_select"
+  }, {
+    "name" : "suite",
+    "value" : "test_runner"
+  }, {
+    "name" : "subSuite",
+    "value" : "TestZuser_info"
+  }, {
+    "name" : "host",
+    "value" : "DESKTOP-GDCOEPJ"
+  }, {
+    "name" : "thread",
+    "value" : "5324-MainThread"
+  }, {
+    "name" : "framework",
+    "value" : "pytest"
+  }, {
+    "name" : "language",
+    "value" : "cpython3"
+  }, {
+    "name" : "package",
+    "value" : "test_runner"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ {
+    "name" : "inData",
+    "value" : "'{\n        \"appKey\": \"ab99093d26ef45c59eb1cf6bae3a1263\",\n        \"Content-Type\": \"application/json;charset=UTF-8 \"\n}'"
+  }, {
+    "name" : "repsData",
+    "value" : "'{'code': 300, 'message': 'sampleStatusShow不能为空！', 'data': None}'"
+  }, {
+    "name" : "twData",
+    "value" : "'{\n    \"hosBarCode\": \"UC5VUkwuQ04vMFElTCRCUDQtSjpHM0klQkxWOg==\",\n    \"sampleTestNo\": \"10000004\",\n    \"sampleReceiveTime\": \"1593324533\",\n    \"sampleTestTime\": \"1593324533\",\n    \"sampleReportTime\": \"1593324533\",\n    \"testPeople\": \"checkname3\",\n    \"reviewPeople\": \"checkname4\",\n    \"testMethod\": \"人乳头瘤测试0628\",\n    \"sampleType\": 36,\n    \"sampleStatus\": 0,\n    \"sampleStatusShow\": \"\",\n    \"testContent\": \"人乳头瘤病毒test0628\",\n    \"testResult\": \"人乳头瘤病毒高危型感染0628\",\n    \"testItem\": [\n        {\n            \"subType\": \"Hpv16\",\n            \"result\": \"阳性\",\n            \"infectUnit\": \"92.16（11.59%）\"\n        },\n        {\n            \"subType\": \"Hpv16\",\n            \"result\": \"阳性\",\n            \"infectUnit\": \"92.16（11.59%）\"\n        }\n    ]\n}'"
+  } ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ {
+      "name" : "Product defects",
+      "matchedStatuses" : [ ],
+      "flaky" : false
+    } ],
+    "tags" : [ "user_info_select" ]
+  },
+  "source" : "f96d9fa98610589a.json",
+  "parameterValues" : [ "'{\n        \"appKey\": \"ab99093d26ef45c59eb1cf6bae3a1263\",\n        \"Content-Type\": \"application/json;charset=UTF-8 \"\n}'", "'{'code': 300, 'message': 'sampleStatusShow不能为空！', 'data': None}'", "'{\n    \"hosBarCode\": \"UC5VUkwuQ04vMFElTCRCUDQtSjpHM0klQkxWOg==\",\n    \"sampleTestNo\": \"10000004\",\n    \"sampleReceiveTime\": \"1593324533\",\n    \"sampleTestTime\": \"1593324533\",\n    \"sampleReportTime\": \"1593324533\",\n    \"testPeople\": \"checkname3\",\n    \"reviewPeople\": \"checkname4\",\n    \"testMethod\": \"人乳头瘤测试0628\",\n    \"sampleType\": 36,\n    \"sampleStatus\": 0,\n    \"sampleStatusShow\": \"\",\n    \"testContent\": \"人乳头瘤病毒test0628\",\n    \"testResult\": \"人乳头瘤病毒高危型感染0628\",\n    \"testItem\": [\n        {\n            \"subType\": \"Hpv16\",\n            \"result\": \"阳性\",\n            \"infectUnit\": \"92.16（11.59%）\"\n        },\n        {\n            \"subType\": \"Hpv16\",\n            \"result\": \"阳性\",\n            \"infectUnit\": \"92.16（11.59%）\"\n        }\n    ]\n}'" ]
+}

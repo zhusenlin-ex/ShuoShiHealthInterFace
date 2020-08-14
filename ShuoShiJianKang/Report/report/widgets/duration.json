@@ -1,0 +1,801 @@
+[ {
+  "uid" : "576c1ef43992947",
+  "name" : "推送报告",
+  "time" : {
+    "start" : 1595573431028,
+    "stop" : 1595573431028,
+    "duration" : 0
+  },
+  "status" : "broken",
+  "severity" : "normal"
+}, {
+  "uid" : "ed25d05e2ac52043",
+  "name" : "删除报告",
+  "time" : {
+    "start" : 1595573431354,
+    "stop" : 1595573431387,
+    "duration" : 33
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "1787e5426b972dfd",
+  "name" : "推送报告",
+  "time" : {
+    "start" : 1593333938912,
+    "stop" : 1593333938964,
+    "duration" : 52
+  },
+  "status" : "failed",
+  "severity" : "normal"
+}, {
+  "uid" : "645d85674c3abdc4",
+  "name" : "删除报告",
+  "time" : {
+    "start" : 1595573431170,
+    "stop" : 1595573431208,
+    "duration" : 38
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "58076e295a55cb0a",
+  "name" : "推送报告",
+  "time" : {
+    "start" : 1593333808676,
+    "stop" : 1593333808712,
+    "duration" : 36
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "818a6e576a8f92e2",
+  "name" : "推送报告",
+  "time" : {
+    "start" : 1593333808516,
+    "stop" : 1593333808552,
+    "duration" : 36
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "a146c5aca8b1ddbc",
+  "name" : "推送报告",
+  "time" : {
+    "start" : 1593333808955,
+    "stop" : 1593333808994,
+    "duration" : 39
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "18a3e523ad584bea",
+  "name" : "查询用户信息用例",
+  "time" : {
+    "start" : 1593333808178,
+    "stop" : 1593333808219,
+    "duration" : 41
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "ccbede20f626deb7",
+  "name" : "查询用户信息用例",
+  "time" : {
+    "start" : 1595573430797,
+    "stop" : 1595573430835,
+    "duration" : 38
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "df4645bf3181be88",
+  "name" : "删除报告",
+  "time" : {
+    "start" : 1593333809221,
+    "stop" : 1593333809264,
+    "duration" : 43
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "a6f4c8fd9f4a7064",
+  "name" : "推送报告",
+  "time" : {
+    "start" : 1595573431008,
+    "stop" : 1595573431008,
+    "duration" : 0
+  },
+  "status" : "broken",
+  "severity" : "normal"
+}, {
+  "uid" : "54c12522b05d2cb9",
+  "name" : "删除报告",
+  "time" : {
+    "start" : 1595573431247,
+    "stop" : 1595573431280,
+    "duration" : 33
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "ffa056eac8f9103d",
+  "name" : "推送报告",
+  "time" : {
+    "start" : 1593333938396,
+    "stop" : 1593333938433,
+    "duration" : 37
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "43ec301a20564b3a",
+  "name" : "推送报告",
+  "time" : {
+    "start" : 1595573431001,
+    "stop" : 1595573431001,
+    "duration" : 0
+  },
+  "status" : "broken",
+  "severity" : "normal"
+}, {
+  "uid" : "7b1f14fed3a67ccf",
+  "name" : "推送报告",
+  "time" : {
+    "start" : 1593333939039,
+    "stop" : 1593333939077,
+    "duration" : 38
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "a65523ec169169c2",
+  "name" : "删除报告",
+  "time" : {
+    "start" : 1595573431136,
+    "stop" : 1595573431167,
+    "duration" : 31
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "c4d69b2c18132202",
+  "name" : "推送报告",
+  "time" : {
+    "start" : 1593333808428,
+    "stop" : 1593333808468,
+    "duration" : 40
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "d9cfe78d6eb65b2c",
+  "name" : "推送报告",
+  "time" : {
+    "start" : 1595573431068,
+    "stop" : 1595573431068,
+    "duration" : 0
+  },
+  "status" : "broken",
+  "severity" : "normal"
+}, {
+  "uid" : "c8cc943c7489e79f",
+  "name" : "查询用户信息用例",
+  "time" : {
+    "start" : 1595573430950,
+    "stop" : 1595573430982,
+    "duration" : 32
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "356718e072288e2",
+  "name" : "推送报告",
+  "time" : {
+    "start" : 1593333808348,
+    "stop" : 1593333808384,
+    "duration" : 36
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "5a2aa94d88efa0e2",
+  "name" : "推送报告",
+  "time" : {
+    "start" : 1593333938636,
+    "stop" : 1593333938671,
+    "duration" : 35
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "2758848519c9a52f",
+  "name" : "推送报告",
+  "time" : {
+    "start" : 1593333809085,
+    "stop" : 1593333809123,
+    "duration" : 38
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "b017f67657c603c0",
+  "name" : "删除报告",
+  "time" : {
+    "start" : 1593333809361,
+    "stop" : 1593333809398,
+    "duration" : 37
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "4ad9c8ce5a8678d7",
+  "name" : "推送报告",
+  "time" : {
+    "start" : 1593333938997,
+    "stop" : 1593333939036,
+    "duration" : 39
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "755482348d1b9c30",
+  "name" : "推送报告",
+  "time" : {
+    "start" : 1595573431081,
+    "stop" : 1595573431081,
+    "duration" : 0
+  },
+  "status" : "broken",
+  "severity" : "normal"
+}, {
+  "uid" : "d2d226ae8da8c4b2",
+  "name" : "推送报告",
+  "time" : {
+    "start" : 1593333939081,
+    "stop" : 1593333939120,
+    "duration" : 39
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "127e607b49ec33fc",
+  "name" : "推送报告",
+  "time" : {
+    "start" : 1593333938436,
+    "stop" : 1593333938474,
+    "duration" : 38
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "47ef70eb29f0bccc",
+  "name" : "删除报告",
+  "time" : {
+    "start" : 1593333809401,
+    "stop" : 1593333809433,
+    "duration" : 32
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "c1bc5cb23de0a88e",
+  "name" : "推送报告",
+  "time" : {
+    "start" : 1593333808305,
+    "stop" : 1593333808345,
+    "duration" : 40
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "2a1b1f3d207e909d",
+  "name" : "推送报告",
+  "time" : {
+    "start" : 1593333808636,
+    "stop" : 1593333808672,
+    "duration" : 36
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "e12d7e98909b923a",
+  "name" : "删除报告",
+  "time" : {
+    "start" : 1595573431318,
+    "stop" : 1595573431351,
+    "duration" : 33
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "652b217f6d539bad",
+  "name" : "删除报告",
+  "time" : {
+    "start" : 1593333809180,
+    "stop" : 1593333809217,
+    "duration" : 37
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "91cec74aed526752",
+  "name" : "查询用户信息用例",
+  "time" : {
+    "start" : 1595573430914,
+    "stop" : 1595573430947,
+    "duration" : 33
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "f96d9fa98610589a",
+  "name" : "推送报告",
+  "time" : {
+    "start" : 1593333808869,
+    "stop" : 1593333808924,
+    "duration" : 55
+  },
+  "status" : "failed",
+  "severity" : "normal"
+}, {
+  "uid" : "5411d3ac77f2f103",
+  "name" : "推送报告",
+  "time" : {
+    "start" : 1593333808222,
+    "stop" : 1593333808301,
+    "duration" : 79
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "fffaf41cece393e4",
+  "name" : "推送报告",
+  "time" : {
+    "start" : 1593333938756,
+    "stop" : 1593333938792,
+    "duration" : 36
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "a5dda0aa30beddde",
+  "name" : "查询用户信息用例",
+  "time" : {
+    "start" : 1593333807936,
+    "stop" : 1593333807977,
+    "duration" : 41
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "ea786f71c323c730",
+  "name" : "推送报告",
+  "time" : {
+    "start" : 1595573431047,
+    "stop" : 1595573431047,
+    "duration" : 0
+  },
+  "status" : "broken",
+  "severity" : "normal"
+}, {
+  "uid" : "55dabc8d9e944b63",
+  "name" : "查询用户信息用例",
+  "time" : {
+    "start" : 1595573430838,
+    "stop" : 1595573430873,
+    "duration" : 35
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "706ec939eb4ed9a3",
+  "name" : "查询用户信息用例",
+  "time" : {
+    "start" : 1593333808029,
+    "stop" : 1593333808065,
+    "duration" : 36
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "cef4b2bbd14ca0c0",
+  "name" : "查询用户信息用例",
+  "time" : {
+    "start" : 1595573430723,
+    "stop" : 1595573430752,
+    "duration" : 29
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "2d777cedd2a64f82",
+  "name" : "推送报告",
+  "time" : {
+    "start" : 1593333808597,
+    "stop" : 1593333808633,
+    "duration" : 36
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "67f9c93eb04b285b",
+  "name" : "删除报告",
+  "time" : {
+    "start" : 1593333809267,
+    "stop" : 1593333809357,
+    "duration" : 90
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "340e6b711a16e95a",
+  "name" : "推送报告",
+  "time" : {
+    "start" : 1593333938477,
+    "stop" : 1593333938513,
+    "duration" : 36
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "f6283d13eaaf7aff",
+  "name" : "查询用户信息用例",
+  "time" : {
+    "start" : 1593333808068,
+    "stop" : 1593333808101,
+    "duration" : 33
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "2258d5bff9d890d",
+  "name" : "推送报告",
+  "time" : {
+    "start" : 1595573431087,
+    "stop" : 1595573431087,
+    "duration" : 0
+  },
+  "status" : "broken",
+  "severity" : "normal"
+}, {
+  "uid" : "80cb95060411d807",
+  "name" : "删除报告",
+  "time" : {
+    "start" : 1593333809127,
+    "stop" : 1593333809177,
+    "duration" : 50
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "458b5ed5feb6d7b",
+  "name" : "推送报告",
+  "time" : {
+    "start" : 1593333809039,
+    "stop" : 1593333809082,
+    "duration" : 43
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "b464028831deb711",
+  "name" : "删除报告",
+  "time" : {
+    "start" : 1595573431284,
+    "stop" : 1595573431315,
+    "duration" : 31
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "7b491456bc92c309",
+  "name" : "推送报告",
+  "time" : {
+    "start" : 1595573430994,
+    "stop" : 1595573430994,
+    "duration" : 0
+  },
+  "status" : "broken",
+  "severity" : "normal"
+}, {
+  "uid" : "e6af9b6591e531c0",
+  "name" : "删除报告",
+  "time" : {
+    "start" : 1595573431094,
+    "stop" : 1595573431130,
+    "duration" : 36
+  },
+  "status" : "failed",
+  "severity" : "normal"
+}, {
+  "uid" : "8b17e19cb4c6b983",
+  "name" : "查询用户信息用例",
+  "time" : {
+    "start" : 1595573430876,
+    "stop" : 1595573430911,
+    "duration" : 35
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "9b89230c80b33f3",
+  "name" : "推送报告",
+  "time" : {
+    "start" : 1593333938715,
+    "stop" : 1593333938753,
+    "duration" : 38
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "76625a77fb526677",
+  "name" : "推送报告",
+  "time" : {
+    "start" : 1593333938675,
+    "stop" : 1593333938712,
+    "duration" : 37
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "2743fea389595618",
+  "name" : "推送报告",
+  "time" : {
+    "start" : 1595573431054,
+    "stop" : 1595573431054,
+    "duration" : 0
+  },
+  "status" : "broken",
+  "severity" : "normal"
+}, {
+  "uid" : "4c491639e0e260cb",
+  "name" : "推送报告",
+  "time" : {
+    "start" : 1593333938516,
+    "stop" : 1593333938554,
+    "duration" : 38
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "51957de0e52991e3",
+  "name" : "删除报告",
+  "time" : {
+    "start" : 1593333809437,
+    "stop" : 1593333809468,
+    "duration" : 31
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "8abfae431169d600",
+  "name" : "查询用户信息用例",
+  "time" : {
+    "start" : 1593333808144,
+    "stop" : 1593333808175,
+    "duration" : 31
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "3ecba085b40c6365",
+  "name" : "推送报告",
+  "time" : {
+    "start" : 1593333808997,
+    "stop" : 1593333809036,
+    "duration" : 39
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "681c2d9df9e526ea",
+  "name" : "推送报告",
+  "time" : {
+    "start" : 1595573431074,
+    "stop" : 1595573431074,
+    "duration" : 0
+  },
+  "status" : "broken",
+  "severity" : "normal"
+}, {
+  "uid" : "4426fbda114df429",
+  "name" : "推送报告",
+  "time" : {
+    "start" : 1595573431021,
+    "stop" : 1595573431021,
+    "duration" : 0
+  },
+  "status" : "broken",
+  "severity" : "normal"
+}, {
+  "uid" : "31a4bf6f88bdad55",
+  "name" : "查询用户信息用例",
+  "time" : {
+    "start" : 1593333807879,
+    "stop" : 1593333807932,
+    "duration" : 53
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "cc7baaefb08f7ee7",
+  "name" : "推送报告",
+  "time" : {
+    "start" : 1593333938316,
+    "stop" : 1593333938392,
+    "duration" : 76
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "2d2adbee2001a26f",
+  "name" : "删除报告",
+  "time" : {
+    "start" : 1593333809471,
+    "stop" : 1593333809511,
+    "duration" : 40
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "9d2141bfd0f7ee3e",
+  "name" : "查询用户信息用例",
+  "time" : {
+    "start" : 1593333808104,
+    "stop" : 1593333808141,
+    "duration" : 37
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "8c7c6543c909613",
+  "name" : "推送报告",
+  "time" : {
+    "start" : 1595573430985,
+    "stop" : 1595573430985,
+    "duration" : 0
+  },
+  "status" : "broken",
+  "severity" : "normal"
+}, {
+  "uid" : "5d5a313204ec2f44",
+  "name" : "推送报告",
+  "time" : {
+    "start" : 1595573431061,
+    "stop" : 1595573431061,
+    "duration" : 0
+  },
+  "status" : "broken",
+  "severity" : "normal"
+}, {
+  "uid" : "e6b22f64ece32460",
+  "name" : "推送报告",
+  "time" : {
+    "start" : 1595573431041,
+    "stop" : 1595573431041,
+    "duration" : 0
+  },
+  "status" : "broken",
+  "severity" : "normal"
+}, {
+  "uid" : "796fbcda88614f8",
+  "name" : "推送报告",
+  "time" : {
+    "start" : 1593333808472,
+    "stop" : 1593333808513,
+    "duration" : 41
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "639e29527b2bf6f0",
+  "name" : "推送报告",
+  "time" : {
+    "start" : 1593333938595,
+    "stop" : 1593333938633,
+    "duration" : 38
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "de8de15762867522",
+  "name" : "查询用户信息用例",
+  "time" : {
+    "start" : 1595573430645,
+    "stop" : 1595573430679,
+    "duration" : 34
+  },
+  "status" : "failed",
+  "severity" : "normal"
+}, {
+  "uid" : "6cb97b71e53fc954",
+  "name" : "推送报告",
+  "time" : {
+    "start" : 1593333808555,
+    "stop" : 1593333808593,
+    "duration" : 38
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "a18cccb9bf8cad8e",
+  "name" : "推送报告",
+  "time" : {
+    "start" : 1593333939124,
+    "stop" : 1593333939161,
+    "duration" : 37
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "d46dbe24cc10ef1c",
+  "name" : "推送报告",
+  "time" : {
+    "start" : 1593333808715,
+    "stop" : 1593333808753,
+    "duration" : 38
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "2d616c3619fc2a62",
+  "name" : "推送报告",
+  "time" : {
+    "start" : 1595573431014,
+    "stop" : 1595573431014,
+    "duration" : 0
+  },
+  "status" : "broken",
+  "severity" : "normal"
+}, {
+  "uid" : "728cb3abc7fa6efd",
+  "name" : "推送报告",
+  "time" : {
+    "start" : 1595573431034,
+    "stop" : 1595573431034,
+    "duration" : 0
+  },
+  "status" : "broken",
+  "severity" : "normal"
+}, {
+  "uid" : "61846d97d0665448",
+  "name" : "查询用户信息用例",
+  "time" : {
+    "start" : 1595573430755,
+    "stop" : 1595573430793,
+    "duration" : 38
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "894eea4fa29eff9b",
+  "name" : "删除报告",
+  "time" : {
+    "start" : 1595573431210,
+    "stop" : 1595573431244,
+    "duration" : 34
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "888070ad6a88f70a",
+  "name" : "推送报告",
+  "time" : {
+    "start" : 1593333938557,
+    "stop" : 1593333938592,
+    "duration" : 35
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "6e7cbc9d63739ccb",
+  "name" : "查询用户信息用例",
+  "time" : {
+    "start" : 1593333807981,
+    "stop" : 1593333808026,
+    "duration" : 45
+  },
+  "status" : "passed",
+  "severity" : "normal"
+} ]

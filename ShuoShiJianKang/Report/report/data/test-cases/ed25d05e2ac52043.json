@@ -1,0 +1,93 @@
+{
+  "uid" : "ed25d05e2ac52043",
+  "name" : "删除报告",
+  "fullName" : "testcase.test_runner.TestZuser_info#test_delete_report",
+  "historyId" : "8a4193672a1476adc1888226d0b268f5",
+  "time" : {
+    "start" : 1595573431354,
+    "stop" : 1595573431387,
+    "duration" : 33
+  },
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "severity",
+    "value" : "normal"
+  }, {
+    "name" : "feature",
+    "value" : "接口集"
+  }, {
+    "name" : "story",
+    "value" : "删除报告信息"
+  }, {
+    "name" : "tag",
+    "value" : "user_info_select"
+  }, {
+    "name" : "parentSuite",
+    "value" : "testcase"
+  }, {
+    "name" : "suite",
+    "value" : "test_runner"
+  }, {
+    "name" : "subSuite",
+    "value" : "TestZuser_info"
+  }, {
+    "name" : "host",
+    "value" : "DESKTOP-GDCOEPJ"
+  }, {
+    "name" : "thread",
+    "value" : "14656-MainThread"
+  }, {
+    "name" : "framework",
+    "value" : "pytest"
+  }, {
+    "name" : "language",
+    "value" : "cpython3"
+  }, {
+    "name" : "package",
+    "value" : "testcase.test_runner"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ {
+    "name" : "inData",
+    "value" : "'{\"appKey\":\"ab99093d26ef45c59eb1cf6bae3a1263\"}'"
+  }, {
+    "name" : "repsData",
+    "value" : "'{'code': 300, 'message': '样本信息不存在', 'data': None}'"
+  }, {
+    "name" : "twData",
+    "value" : "'P.URL.CN/0Q%L$BP4-J:G3I%BLV:000'"
+  } ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ {
+      "uid" : "e47c8f0900c9dbdd",
+      "status" : "passed",
+      "time" : {
+        "start" : 1593333939453,
+        "stop" : 1593333939497,
+        "duration" : 44
+      }
+    }, {
+      "uid" : "4b3db1d4397cec96",
+      "status" : "passed",
+      "time" : {
+        "start" : 1593333885197,
+        "stop" : 1593333885237,
+        "duration" : 40
+      }
+    } ],
+    "categories" : [ ],
+    "tags" : [ "user_info_select" ]
+  },
+  "source" : "ed25d05e2ac52043.json",
+  "parameterValues" : [ "'{\"appKey\":\"ab99093d26ef45c59eb1cf6bae3a1263\"}'", "'{'code': 300, 'message': '样本信息不存在', 'data': None}'", "'P.URL.CN/0Q%L$BP4-J:G3I%BLV:000'" ]
+}

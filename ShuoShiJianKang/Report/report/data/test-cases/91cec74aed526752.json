@@ -1,0 +1,93 @@
+{
+  "uid" : "91cec74aed526752",
+  "name" : "查询用户信息用例",
+  "fullName" : "testcase.test_runner.TestZuser_info#test_chaxun_report",
+  "historyId" : "8aaa2a53a4f098e964a31dcdabb9ec40",
+  "time" : {
+    "start" : 1595573430914,
+    "stop" : 1595573430947,
+    "duration" : 33
+  },
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "severity",
+    "value" : "normal"
+  }, {
+    "name" : "story",
+    "value" : "01检验所查询用户信息"
+  }, {
+    "name" : "feature",
+    "value" : "接口集"
+  }, {
+    "name" : "tag",
+    "value" : "user_info_select"
+  }, {
+    "name" : "parentSuite",
+    "value" : "testcase"
+  }, {
+    "name" : "suite",
+    "value" : "test_runner"
+  }, {
+    "name" : "subSuite",
+    "value" : "TestZuser_info"
+  }, {
+    "name" : "host",
+    "value" : "DESKTOP-GDCOEPJ"
+  }, {
+    "name" : "thread",
+    "value" : "14656-MainThread"
+  }, {
+    "name" : "framework",
+    "value" : "pytest"
+  }, {
+    "name" : "language",
+    "value" : "cpython3"
+  }, {
+    "name" : "package",
+    "value" : "testcase.test_runner"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ {
+    "name" : "inData",
+    "value" : "'{ \"appKey\":\"ab99093d26ef45c59eb1cf6bae3a126\"}'"
+  }, {
+    "name" : "repsData",
+    "value" : "'{'code': 300, 'data': None, 'message': 'appkey不存在或失效，不是有效的请求'}'"
+  }, {
+    "name" : "twData",
+    "value" : "'P.URL.CN/0Q%L$BP4-J:G3I%BLV:'"
+  } ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ {
+      "uid" : "a6519e3796b392ee",
+      "status" : "passed",
+      "time" : {
+        "start" : 1593333938240,
+        "stop" : 1593333938272,
+        "duration" : 32
+      }
+    }, {
+      "uid" : "3e6a256111bd1410",
+      "status" : "passed",
+      "time" : {
+        "start" : 1593333883901,
+        "stop" : 1593333883937,
+        "duration" : 36
+      }
+    } ],
+    "categories" : [ ],
+    "tags" : [ "user_info_select" ]
+  },
+  "source" : "91cec74aed526752.json",
+  "parameterValues" : [ "'{ \"appKey\":\"ab99093d26ef45c59eb1cf6bae3a126\"}'", "'{'code': 300, 'data': None, 'message': 'appkey不存在或失效，不是有效的请求'}'", "'P.URL.CN/0Q%L$BP4-J:G3I%BLV:'" ]
+}

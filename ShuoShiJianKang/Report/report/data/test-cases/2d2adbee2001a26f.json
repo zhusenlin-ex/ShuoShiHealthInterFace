@@ -1,0 +1,74 @@
+{
+  "uid" : "2d2adbee2001a26f",
+  "name" : "删除报告",
+  "fullName" : "test_runner.TestZuser_info#test_delete_report",
+  "historyId" : "f3d1935f05f4d02c8073b05f1e292c23",
+  "time" : {
+    "start" : 1593333809471,
+    "stop" : 1593333809511,
+    "duration" : 40
+  },
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "feature",
+    "value" : "检验所模块"
+  }, {
+    "name" : "story",
+    "value" : "删除报告信息"
+  }, {
+    "name" : "severity",
+    "value" : "normal"
+  }, {
+    "name" : "tag",
+    "value" : "user_info_select"
+  }, {
+    "name" : "suite",
+    "value" : "test_runner"
+  }, {
+    "name" : "subSuite",
+    "value" : "TestZuser_info"
+  }, {
+    "name" : "host",
+    "value" : "DESKTOP-GDCOEPJ"
+  }, {
+    "name" : "thread",
+    "value" : "5324-MainThread"
+  }, {
+    "name" : "framework",
+    "value" : "pytest"
+  }, {
+    "name" : "language",
+    "value" : "cpython3"
+  }, {
+    "name" : "package",
+    "value" : "test_runner"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ {
+    "name" : "inData",
+    "value" : "'{\"appKey\":\"ab99093d26ef45c59eb1cf6bae3a1263\"}'"
+  }, {
+    "name" : "repsData",
+    "value" : "'{'code': 300, 'message': '样本信息不存在', 'data': None}'"
+  }, {
+    "name" : "twData",
+    "value" : "'P.URL.CN/0Q%L$BP4-J:G3I%BLV:000'"
+  } ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ "user_info_select" ]
+  },
+  "source" : "2d2adbee2001a26f.json",
+  "parameterValues" : [ "'{\"appKey\":\"ab99093d26ef45c59eb1cf6bae3a1263\"}'", "'{'code': 300, 'message': '样本信息不存在', 'data': None}'", "'P.URL.CN/0Q%L$BP4-J:G3I%BLV:000'" ]
+}

@@ -1,0 +1,1065 @@
+{
+  "uid" : "98d3104e051c652961429bf95fa0b5d6",
+  "name" : "suites",
+  "children" : [ {
+    "name" : "test_runner",
+    "children" : [ {
+      "name" : "TestZuser_info",
+      "children" : [ {
+        "name" : "查询用户信息用例",
+        "uid" : "31a4bf6f88bdad55",
+        "parentUid" : "bbf5616aac42e7603211d1a6d1156889",
+        "status" : "passed",
+        "time" : {
+          "start" : 1593333807879,
+          "stop" : 1593333807932,
+          "duration" : 53
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "'{\"appKey\":\"ab99093d26ef45c59eb1cf6bae3a1263\"}'", "'{'code': 200,\n 'data': {'age': 26,\n          'applyItemCode': '1001',\n          'birthDay': '1994-06-23',\n          'cardNo': '342401199406233411',\n          'id': 4,\n          'name': 'test004',\n          'phone': '15411111114',\n          'sampleCollectionTime': 1592882403,\n          'sampleProperty': None,\n          'sampleType': 36,\n          'sex': 1},\n 'message': '成功！'}'", "'P.URL.CN/0Q%L$BP4-J:G3I%BLV:'" ]
+      }, {
+        "name" : "查询用户信息用例",
+        "uid" : "a5dda0aa30beddde",
+        "parentUid" : "bbf5616aac42e7603211d1a6d1156889",
+        "status" : "passed",
+        "time" : {
+          "start" : 1593333807936,
+          "stop" : 1593333807977,
+          "duration" : 41
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "'{\"appKey\":\"ab99093d26ef45c59eb1cf6bae3a1263\"}'", "'{'code': 300, 'data': None, 'message': '医院外部条形码为空或长度异常！'}'", "''" ]
+      }, {
+        "name" : "查询用户信息用例",
+        "uid" : "6e7cbc9d63739ccb",
+        "parentUid" : "bbf5616aac42e7603211d1a6d1156889",
+        "status" : "passed",
+        "time" : {
+          "start" : 1593333807981,
+          "stop" : 1593333808026,
+          "duration" : 45
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "'{\"appKey\":\"ab99093d26ef45c59eb1cf6bae3a1263\"}'", "'{'code': 300, 'data': None, 'message': '医院外部条形码对应的样本信息不存在！'}'", "'P.URL.CN/0Q%L$BP4-J:G3I%BLV:1'" ]
+      }, {
+        "name" : "查询用户信息用例",
+        "uid" : "706ec939eb4ed9a3",
+        "parentUid" : "bbf5616aac42e7603211d1a6d1156889",
+        "status" : "passed",
+        "time" : {
+          "start" : 1593333808029,
+          "stop" : 1593333808065,
+          "duration" : 36
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "'{\"appKey\":\"\"}'", "'{'code': 300, 'data': None, 'message': 'appkey为null，不是有效的请求'}'", "'P.URL.CN/0Q%L$BP4-J:G3I%BLV:'" ]
+      }, {
+        "name" : "查询用户信息用例",
+        "uid" : "f6283d13eaaf7aff",
+        "parentUid" : "bbf5616aac42e7603211d1a6d1156889",
+        "status" : "passed",
+        "time" : {
+          "start" : 1593333808068,
+          "stop" : 1593333808101,
+          "duration" : 33
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "'{\"appKey\":\"ab99093d26ef45c59eb1cf6bae3a12631\"}'", "'{'code': 300, 'data': None, 'message': 'appkey不存在或失效，不是有效的请求'}'", "'P.URL.CN/0Q%L$BP4-J:G3I%BLV:'" ]
+      }, {
+        "name" : "查询用户信息用例",
+        "uid" : "9d2141bfd0f7ee3e",
+        "parentUid" : "bbf5616aac42e7603211d1a6d1156889",
+        "status" : "passed",
+        "time" : {
+          "start" : 1593333808104,
+          "stop" : 1593333808141,
+          "duration" : 37
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "'{\"appKey\":\"ab99093d26ef45c59eb1cf6bae3a12632\"}'", "'{'code': 300, 'data': None, 'message': 'appkey不存在或失效，不是有效的请求'}'", "'P.URL.CN/0Q%L$BP4-J:G3I%BLV:'" ]
+      }, {
+        "name" : "查询用户信息用例",
+        "uid" : "8abfae431169d600",
+        "parentUid" : "bbf5616aac42e7603211d1a6d1156889",
+        "status" : "passed",
+        "time" : {
+          "start" : 1593333808144,
+          "stop" : 1593333808175,
+          "duration" : 31
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "'{ \"appKey\":\"ab99093d26ef45c59eb1cf6bae3a126\"}'", "'{'code': 300, 'data': None, 'message': 'appkey不存在或失效，不是有效的请求'}'", "'P.URL.CN/0Q%L$BP4-J:G3I%BLV:'" ]
+      }, {
+        "name" : "查询用户信息用例",
+        "uid" : "18a3e523ad584bea",
+        "parentUid" : "bbf5616aac42e7603211d1a6d1156889",
+        "status" : "passed",
+        "time" : {
+          "start" : 1593333808178,
+          "stop" : 1593333808219,
+          "duration" : 41
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "'{\"appKey\":\"ab99093d26ef45c59eb1cf6bae3a1263\"}'", "'{'code': 300, 'data': None, 'message': '医院外部条形码对应的样本信息不存在！'}'", "'P.URL.CN/0Q%L$BP4-J:G3I%BLV:000'" ]
+      }, {
+        "name" : "推送报告",
+        "uid" : "5411d3ac77f2f103",
+        "parentUid" : "bbf5616aac42e7603211d1a6d1156889",
+        "status" : "passed",
+        "time" : {
+          "start" : 1593333808222,
+          "stop" : 1593333808301,
+          "duration" : 79
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "'{\n    \"appKey\": \"ab99093d26ef45c59eb1cf6bae3a1263\", \n    \"Content-Type\": \"application/json;charset=UTF-8 \"\n}'", "'{'code': 200, 'message': '成功！', 'data': None}'", "'{\n    \"hosBarCode\": \"UC5VUkwuQ04vMFElTCRCUDQtSjpHM0klQkxWOg==\",\n    \"sampleTestNo\": \"10000004\",\n    \"sampleReceiveTime\": \"1593324533\",\n    \"sampleTestTime\": \"1593324533\",\n    \"sampleReportTime\": \"1593324533\",\n    \"testPeople\": \"checkname3\",\n    \"reviewPeople\": \"checkname4\",\n    \"testMethod\": \"人乳头瘤测试0628\",\n    \"sampleType\": 36,\n    \"sampleStatus\": 1,\n    \"sampleStatusShow\": \"合格\",\n    \"testContent\": \"人乳头瘤病毒test0628\",\n    \"testResult\": \"人乳头瘤病毒高危型感染0628\",\n    \"testItem\": [\n        {\n            \"subType\": \"Hpv16\",\n            \"result\": \"阳性\",\n            \"infectUnit\": \"92.16（11.59%）\"\n        },\n        {\n            \"subType\": \"Hpv16\",\n            \"result\": \"阳性\",\n            \"infectUnit\": \"92.16（11.59%）\"\n        }\n    ]\n}'" ]
+      }, {
+        "name" : "推送报告",
+        "uid" : "c1bc5cb23de0a88e",
+        "parentUid" : "bbf5616aac42e7603211d1a6d1156889",
+        "status" : "passed",
+        "time" : {
+          "start" : 1593333808305,
+          "stop" : 1593333808345,
+          "duration" : 40
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "'{\n        \"appKey\": \"ab99093d26ef45c59eb1cf6bae3a1263\",\n        \"Content-Type\": \"application/json;charset=UTF-8 \"\n}'", "'{'code': 300, 'message': 'hosBarCode不能为空！', 'data': None}'", "'{\n    \"hosBarCode\": \"\",\n    \"sampleTestNo\": \"10000004\",\n    \"sampleReceiveTime\": \"1593324533\",\n    \"sampleTestTime\": \"1593324533\",\n    \"sampleReportTime\": \"1593324533\",\n    \"testPeople\": \"checkname3\",\n    \"reviewPeople\": \"checkname4\",\n    \"testMethod\": \"人乳头瘤测试0628\",\n    \"sampleType\": 36,\n    \"sampleStatus\": 1,\n    \"sampleStatusShow\": \"合格\",\n    \"testContent\": \"人乳头瘤病毒test0628\",\n    \"testResult\": \"人乳头瘤病毒高危型感染0628\",\n    \"testItem\": [\n        {\n            \"subType\": \"Hpv16\",\n            \"result\": \"阳性\",\n            \"infectUnit\": \"92.16（11.59%）\"\n        },\n        {\n            \"subType\": \"Hpv16\",\n            \"result\": \"阳性\",\n            \"infectUnit\": \"92.16（11.59%）\"\n        }\n    ]\n}'" ]
+      }, {
+        "name" : "推送报告",
+        "uid" : "356718e072288e2",
+        "parentUid" : "bbf5616aac42e7603211d1a6d1156889",
+        "status" : "passed",
+        "time" : {
+          "start" : 1593333808348,
+          "stop" : 1593333808384,
+          "duration" : 36
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "'{\n        \"appKey\": \"ab99093d26ef45c59eb1cf6bae3a1263\",\n        \"Content-Type\": \"application/json;charset=UTF-8 \"\n}'", "'{'code': 300, 'message': 'sampleTestNo不能为空！', 'data': None}'", "'{\n    \"hosBarCode\": \"UC5VUkwuQ04vMFElTCRCUDQtSjpHM0klQkxWOg==\",\n    \"sampleTestNo\": \"\",\n    \"sampleReceiveTime\": \"1593324533\",\n    \"sampleTestTime\": \"1593324533\",\n    \"sampleReportTime\": \"1593324533\",\n    \"testPeople\": \"checkname3\",\n    \"reviewPeople\": \"checkname4\",\n    \"testMethod\": \"人乳头瘤测试0628\",\n    \"sampleType\": 36,\n    \"sampleStatus\": 1,\n    \"sampleStatusShow\": \"合格\",\n    \"testContent\": \"人乳头瘤病毒test0628\",\n    \"testResult\": \"人乳头瘤病毒高危型感染0628\",\n    \"testItem\": [\n        {\n            \"subType\": \"Hpv16\",\n            \"result\": \"阳性\",\n            \"infectUnit\": \"92.16（11.59%）\"\n        },\n        {\n            \"subType\": \"Hpv16\",\n            \"result\": \"阳性\",\n            \"infectUnit\": \"92.16（11.59%）\"\n        }\n    ]\n}'" ]
+      }, {
+        "name" : "推送报告",
+        "uid" : "c4d69b2c18132202",
+        "parentUid" : "bbf5616aac42e7603211d1a6d1156889",
+        "status" : "passed",
+        "time" : {
+          "start" : 1593333808428,
+          "stop" : 1593333808468,
+          "duration" : 40
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "'{\n        \"appKey\": \"ab99093d26ef45c59eb1cf6bae3a1263\",\n        \"Content-Type\": \"application/json;charset=UTF-8 \"\n}'", "'{'code': 300, 'message': 'sampleReceiveTime不能为空！', 'data': None}'", "'{\n    \"hosBarCode\": \"UC5VUkwuQ04vMFElTCRCUDQtSjpHM0klQkxWOg==\",\n    \"sampleTestNo\": \"10000004\",\n    \"sampleReceiveTime\": \"\",\n    \"sampleTestTime\": \"1593324533\",\n    \"sampleReportTime\": \"1593324533\",\n    \"testPeople\": \"checkname3\",\n    \"reviewPeople\": \"checkname4\",\n    \"testMethod\": \"人乳头瘤测试0628\",\n    \"sampleType\": 36,\n    \"sampleStatus\": 1,\n    \"sampleStatusShow\": \"合格\",\n    \"testContent\": \"人乳头瘤病毒test0628\",\n    \"testResult\": \"人乳头瘤病毒高危型感染0628\",\n    \"testItem\": [\n        {\n            \"subType\": \"Hpv16\",\n            \"result\": \"阳性\",\n            \"infectUnit\": \"92.16（11.59%）\"\n        },\n        {\n            \"subType\": \"Hpv16\",\n            \"result\": \"阳性\",\n            \"infectUnit\": \"92.16（11.59%）\"\n        }\n    ]\n}'" ]
+      }, {
+        "name" : "推送报告",
+        "uid" : "796fbcda88614f8",
+        "parentUid" : "bbf5616aac42e7603211d1a6d1156889",
+        "status" : "passed",
+        "time" : {
+          "start" : 1593333808472,
+          "stop" : 1593333808513,
+          "duration" : 41
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "'{\n        \"appKey\": \"ab99093d26ef45c59eb1cf6bae3a1263\",\n        \"Content-Type\": \"application/json;charset=UTF-8 \"\n}'", "'{'code': 300, 'message': 'sampleTestTime不能为空！', 'data': None}'", "'{\n    \"hosBarCode\": \"UC5VUkwuQ04vMFElTCRCUDQtSjpHM0klQkxWOg==\",\n    \"sampleTestNo\": \"10000004\",\n    \"sampleReceiveTime\": \"1593324533\",\n    \"sampleTestTime\": \"\",\n    \"sampleReportTime\": \"1593324533\",\n    \"testPeople\": \"checkname3\",\n    \"reviewPeople\": \"checkname4\",\n    \"testMethod\": \"人乳头瘤测试0628\",\n    \"sampleType\": 36,\n    \"sampleStatus\": 1,\n    \"sampleStatusShow\": \"合格\",\n    \"testContent\": \"人乳头瘤病毒test0628\",\n    \"testResult\": \"人乳头瘤病毒高危型感染0628\",\n    \"testItem\": [\n        {\n            \"subType\": \"Hpv16\",\n            \"result\": \"阳性\",\n            \"infectUnit\": \"92.16（11.59%）\"\n        },\n        {\n            \"subType\": \"Hpv16\",\n            \"result\": \"阳性\",\n            \"infectUnit\": \"92.16（11.59%）\"\n        }\n    ]\n}'" ]
+      }, {
+        "name" : "推送报告",
+        "uid" : "818a6e576a8f92e2",
+        "parentUid" : "bbf5616aac42e7603211d1a6d1156889",
+        "status" : "passed",
+        "time" : {
+          "start" : 1593333808516,
+          "stop" : 1593333808552,
+          "duration" : 36
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "'{\n        \"appKey\": \"ab99093d26ef45c59eb1cf6bae3a1263\",\n        \"Content-Type\": \"application/json;charset=UTF-8 \"\n}'", "'{'code': 300, 'message': 'sampleReportTime不能为空！', 'data': None}'", "'{\n    \"hosBarCode\": \"UC5VUkwuQ04vMFElTCRCUDQtSjpHM0klQkxWOg==\",\n    \"sampleTestNo\": \"10000004\",\n    \"sampleReceiveTime\": \"1593324533\",\n    \"sampleTestTime\": \"1593324533\",\n    \"sampleReportTime\": \"\",\n    \"testPeople\": \"checkname3\",\n    \"reviewPeople\": \"checkname4\",\n    \"testMethod\": \"人乳头瘤测试0628\",\n    \"sampleType\": 36,\n    \"sampleStatus\": 1,\n    \"sampleStatusShow\": \"合格\",\n    \"testContent\": \"人乳头瘤病毒test0628\",\n    \"testResult\": \"人乳头瘤病毒高危型感染0628\",\n    \"testItem\": [\n        {\n            \"subType\": \"Hpv16\",\n            \"result\": \"阳性\",\n            \"infectUnit\": \"92.16（11.59%）\"\n        },\n        {\n            \"subType\": \"Hpv16\",\n            \"result\": \"阳性\",\n            \"infectUnit\": \"92.16（11.59%）\"\n        }\n    ]\n}'" ]
+      }, {
+        "name" : "推送报告",
+        "uid" : "6cb97b71e53fc954",
+        "parentUid" : "bbf5616aac42e7603211d1a6d1156889",
+        "status" : "passed",
+        "time" : {
+          "start" : 1593333808555,
+          "stop" : 1593333808593,
+          "duration" : 38
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "'{\n        \"appKey\": \"ab99093d26ef45c59eb1cf6bae3a1263\",\n        \"Content-Type\": \"application/json;charset=UTF-8 \"\n}'", "'{'code': 300, 'message': 'testPeople不能为空！', 'data': None}'", "'{\n    \"hosBarCode\": \"UC5VUkwuQ04vMFElTCRCUDQtSjpHM0klQkxWOg==\",\n    \"sampleTestNo\": \"10000004\",\n    \"sampleReceiveTime\": \"1593324533\",\n    \"sampleTestTime\": \"1593324533\",\n    \"sampleReportTime\": \"1593324533\",\n    \"testPeople\": \"\",\n    \"reviewPeople\": \"checkname4\",\n    \"testMethod\": \"人乳头瘤测试0628\",\n    \"sampleType\": 36,\n    \"sampleStatus\": 1,\n    \"sampleStatusShow\": \"合格\",\n    \"testContent\": \"人乳头瘤病毒test0628\",\n    \"testResult\": \"人乳头瘤病毒高危型感染0628\",\n    \"testItem\": [\n        {\n            \"subType\": \"Hpv16\",\n            \"result\": \"阳性\",\n            \"infectUnit\": \"92.16（11.59%）\"\n        },\n        {\n            \"subType\": \"Hpv16\",\n            \"result\": \"阳性\",\n            \"infectUnit\": \"92.16（11.59%）\"\n        }\n    ]\n}'" ]
+      }, {
+        "name" : "推送报告",
+        "uid" : "2d777cedd2a64f82",
+        "parentUid" : "bbf5616aac42e7603211d1a6d1156889",
+        "status" : "passed",
+        "time" : {
+          "start" : 1593333808597,
+          "stop" : 1593333808633,
+          "duration" : 36
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "'{\n        \"appKey\": \"ab99093d26ef45c59eb1cf6bae3a1263\",\n        \"Content-Type\": \"application/json;charset=UTF-8 \"\n}'", "'{'code': 300, 'message': 'reviewPeople不能为空！', 'data': None}'", "'{\n    \"hosBarCode\": \"UC5VUkwuQ04vMFElTCRCUDQtSjpHM0klQkxWOg==\",\n    \"sampleTestNo\": \"10000004\",\n    \"sampleReceiveTime\": \"1593324533\",\n    \"sampleTestTime\": \"1593324533\",\n    \"sampleReportTime\": \"1593324533\",\n    \"testPeople\": \"checkname3\",\n    \"reviewPeople\": \"\",\n    \"testMethod\": \"人乳头瘤测试0628\",\n    \"sampleType\": 36,\n    \"sampleStatus\": 1,\n    \"sampleStatusShow\": \"合格\",\n    \"testContent\": \"人乳头瘤病毒test0628\",\n    \"testResult\": \"人乳头瘤病毒高危型感染0628\",\n    \"testItem\": [\n        {\n            \"subType\": \"Hpv16\",\n            \"result\": \"阳性\",\n            \"infectUnit\": \"92.16（11.59%）\"\n        },\n        {\n            \"subType\": \"Hpv16\",\n            \"result\": \"阳性\",\n            \"infectUnit\": \"92.16（11.59%）\"\n        }\n    ]\n}'" ]
+      }, {
+        "name" : "推送报告",
+        "uid" : "2a1b1f3d207e909d",
+        "parentUid" : "bbf5616aac42e7603211d1a6d1156889",
+        "status" : "passed",
+        "time" : {
+          "start" : 1593333808636,
+          "stop" : 1593333808672,
+          "duration" : 36
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "'{\n        \"appKey\": \"ab99093d26ef45c59eb1cf6bae3a1263\",\n        \"Content-Type\": \"application/json;charset=UTF-8 \"\n}'", "'{'code': 300, 'message': 'testMethod不能为空！', 'data': None}'", "'{\n    \"hosBarCode\": \"UC5VUkwuQ04vMFElTCRCUDQtSjpHM0klQkxWOg==\",\n    \"sampleTestNo\": \"10000004\",\n    \"sampleReceiveTime\": \"1593324533\",\n    \"sampleTestTime\": \"1593324533\",\n    \"sampleReportTime\": \"1593324533\",\n    \"testPeople\": \"checkname3\",\n    \"reviewPeople\": \"checkname4\",\n    \"testMethod\": \"\",\n    \"sampleType\": 36,\n    \"sampleStatus\": 1,\n    \"sampleStatusShow\": \"合格\",\n    \"testContent\": \"人乳头瘤病毒test0628\",\n    \"testResult\": \"人乳头瘤病毒高危型感染0628\",\n    \"testItem\": [\n        {\n            \"subType\": \"Hpv16\",\n            \"result\": \"阳性\",\n            \"infectUnit\": \"92.16（11.59%）\"\n        },\n        {\n            \"subType\": \"Hpv16\",\n            \"result\": \"阳性\",\n            \"infectUnit\": \"92.16（11.59%）\"\n        }\n    ]\n}'" ]
+      }, {
+        "name" : "推送报告",
+        "uid" : "58076e295a55cb0a",
+        "parentUid" : "bbf5616aac42e7603211d1a6d1156889",
+        "status" : "passed",
+        "time" : {
+          "start" : 1593333808676,
+          "stop" : 1593333808712,
+          "duration" : 36
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "'{\n        \"appKey\": \"ab99093d26ef45c59eb1cf6bae3a1263\",\n        \"Content-Type\": \"application/json;charset=UTF-8 \"\n}'", "'{'code': 300, 'message': 'sampleType不能为空！', 'data': None}'", "'{\n    \"hosBarCode\": \"UC5VUkwuQ04vMFElTCRCUDQtSjpHM0klQkxWOg==\",\n    \"sampleTestNo\": \"10000004\",\n    \"sampleReceiveTime\": \"1593324533\",\n    \"sampleTestTime\": \"1593324533\",\n    \"sampleReportTime\": \"1593324533\",\n    \"testPeople\": \"checkname3\",\n    \"reviewPeople\": \"checkname4\",\n    \"testMethod\": \"人乳头瘤测试0628\",\n    \"sampleType\": \"\",\n    \"sampleStatus\": 1,\n    \"sampleStatusShow\": \"合格\",\n    \"testContent\": \"人乳头瘤病毒test0628\",\n    \"testResult\": \"人乳头瘤病毒高危型感染0628\",\n    \"testItem\": [\n        {\n            \"subType\": \"Hpv16\",\n            \"result\": \"阳性\",\n            \"infectUnit\": \"92.16（11.59%）\"\n        },\n        {\n            \"subType\": \"Hpv16\",\n            \"result\": \"阳性\",\n            \"infectUnit\": \"92.16（11.59%）\"\n        }\n    ]\n}'" ]
+      }, {
+        "name" : "推送报告",
+        "uid" : "d46dbe24cc10ef1c",
+        "parentUid" : "bbf5616aac42e7603211d1a6d1156889",
+        "status" : "passed",
+        "time" : {
+          "start" : 1593333808715,
+          "stop" : 1593333808753,
+          "duration" : 38
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "'{\n        \"appKey\": \"ab99093d26ef45c59eb1cf6bae3a1263\",\n        \"Content-Type\": \"application/json;charset=UTF-8 \"\n}'", "'{'code': 300, 'message': 'sampleStatus不能为空！', 'data': None}'", "'{\n    \"hosBarCode\": \"UC5VUkwuQ04vMFElTCRCUDQtSjpHM0klQkxWOg==\",\n    \"sampleTestNo\": \"10000004\",\n    \"sampleReceiveTime\": \"1593324533\",\n    \"sampleTestTime\": \"1593324533\",\n    \"sampleReportTime\": \"1593324533\",\n    \"testPeople\": \"checkname3\",\n    \"reviewPeople\": \"checkname4\",\n    \"testMethod\": \"人乳头瘤测试0628\",\n    \"sampleType\": 36,\n    \"sampleStatus\": \"\",\n    \"sampleStatusShow\": \"合格\",\n    \"testContent\": \"人乳头瘤病毒test0628\",\n    \"testResult\": \"人乳头瘤病毒高危型感染0628\",\n    \"testItem\": [\n        {\n            \"subType\": \"Hpv16\",\n            \"result\": \"阳性\",\n            \"infectUnit\": \"92.16（11.59%）\"\n        },\n        {\n            \"subType\": \"Hpv16\",\n            \"result\": \"阳性\",\n            \"infectUnit\": \"92.16（11.59%）\"\n        }\n    ]\n}'" ]
+      }, {
+        "name" : "推送报告",
+        "uid" : "f96d9fa98610589a",
+        "parentUid" : "bbf5616aac42e7603211d1a6d1156889",
+        "status" : "failed",
+        "time" : {
+          "start" : 1593333808869,
+          "stop" : 1593333808924,
+          "duration" : 55
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "'{\n        \"appKey\": \"ab99093d26ef45c59eb1cf6bae3a1263\",\n        \"Content-Type\": \"application/json;charset=UTF-8 \"\n}'", "'{'code': 300, 'message': 'sampleStatusShow不能为空！', 'data': None}'", "'{\n    \"hosBarCode\": \"UC5VUkwuQ04vMFElTCRCUDQtSjpHM0klQkxWOg==\",\n    \"sampleTestNo\": \"10000004\",\n    \"sampleReceiveTime\": \"1593324533\",\n    \"sampleTestTime\": \"1593324533\",\n    \"sampleReportTime\": \"1593324533\",\n    \"testPeople\": \"checkname3\",\n    \"reviewPeople\": \"checkname4\",\n    \"testMethod\": \"人乳头瘤测试0628\",\n    \"sampleType\": 36,\n    \"sampleStatus\": 0,\n    \"sampleStatusShow\": \"\",\n    \"testContent\": \"人乳头瘤病毒test0628\",\n    \"testResult\": \"人乳头瘤病毒高危型感染0628\",\n    \"testItem\": [\n        {\n            \"subType\": \"Hpv16\",\n            \"result\": \"阳性\",\n            \"infectUnit\": \"92.16（11.59%）\"\n        },\n        {\n            \"subType\": \"Hpv16\",\n            \"result\": \"阳性\",\n            \"infectUnit\": \"92.16（11.59%）\"\n        }\n    ]\n}'" ]
+      }, {
+        "name" : "推送报告",
+        "uid" : "a146c5aca8b1ddbc",
+        "parentUid" : "bbf5616aac42e7603211d1a6d1156889",
+        "status" : "passed",
+        "time" : {
+          "start" : 1593333808955,
+          "stop" : 1593333808994,
+          "duration" : 39
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "'{\n        \"appKey\": \"ab99093d26ef45c59eb1cf6bae3a1263\",\n        \"Content-Type\": \"application/json;charset=UTF-8 \"\n}'", "'{'code': 300, 'message': 'testContent不能为空！', 'data': None}'", "'{\n    \"hosBarCode\": \"UC5VUkwuQ04vMFElTCRCUDQtSjpHM0klQkxWOg==\",\n    \"sampleTestNo\": \"10000004\",\n    \"sampleReceiveTime\": \"1593324533\",\n    \"sampleTestTime\": \"1593324533\",\n    \"sampleReportTime\": \"1593324533\",\n    \"testPeople\": \"checkname3\",\n    \"reviewPeople\": \"checkname4\",\n    \"testMethod\": \"人乳头瘤测试0628\",\n    \"sampleType\": 36,\n    \"sampleStatus\": 1,\n    \"sampleStatusShow\": \"合格\",\n    \"testContent\": \"\",\n    \"testResult\": \"人乳头瘤病毒高危型感染0628\",\n    \"testItem\": [\n        {\n            \"subType\": \"Hpv16\",\n            \"result\": \"阳性\",\n            \"infectUnit\": \"92.16（11.59%）\"\n        },\n        {\n            \"subType\": \"Hpv16\",\n            \"result\": \"阳性\",\n            \"infectUnit\": \"92.16（11.59%）\"\n        }\n    ]\n}'" ]
+      }, {
+        "name" : "推送报告",
+        "uid" : "3ecba085b40c6365",
+        "parentUid" : "bbf5616aac42e7603211d1a6d1156889",
+        "status" : "passed",
+        "time" : {
+          "start" : 1593333808997,
+          "stop" : 1593333809036,
+          "duration" : 39
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "'{\n        \"appKey\": \"ab99093d26ef45c59eb1cf6bae3a1263\",\n        \"Content-Type\": \"application/json;charset=UTF-8 \"\n}'", "'{'code': 300, 'message': 'testResult不能为空！', 'data': None}'", "'{\n    \"hosBarCode\": \"UC5VUkwuQ04vMFElTCRCUDQtSjpHM0klQkxWOg==\",\n    \"sampleTestNo\": \"10000004\",\n    \"sampleReceiveTime\": \"1593324533\",\n    \"sampleTestTime\": \"1593324533\",\n    \"sampleReportTime\": \"1593324533\",\n    \"testPeople\": \"checkname3\",\n    \"reviewPeople\": \"checkname4\",\n    \"testMethod\": \"人乳头瘤测试0628\",\n    \"sampleType\": 36,\n    \"sampleStatus\": 1,\n    \"sampleStatusShow\": \"合格\",\n    \"testContent\": \"人乳头瘤病毒test0628\",\n    \"testResult\": \"\",\n    \"testItem\": [\n        {\n            \"subType\": \"Hpv16\",\n            \"result\": \"阳性\",\n            \"infectUnit\": \"92.16（11.59%）\"\n        },\n        {\n            \"subType\": \"Hpv16\",\n            \"result\": \"阳性\",\n            \"infectUnit\": \"92.16（11.59%）\"\n        }\n    ]\n}'" ]
+      }, {
+        "name" : "推送报告",
+        "uid" : "458b5ed5feb6d7b",
+        "parentUid" : "bbf5616aac42e7603211d1a6d1156889",
+        "status" : "passed",
+        "time" : {
+          "start" : 1593333809039,
+          "stop" : 1593333809082,
+          "duration" : 43
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "'{\n        \"appKey\": \"ab99093d26ef45c59eb1cf6bae3a1263\",\n        \"Content-Type\": \"application/json;charset=UTF-8 \"\n}'", "'{'code': 300, 'message': 'testItem不能为空！', 'data': None}'", "'{\n    \"hosBarCode\": \"UC5VUkwuQ04vMFElTCRCUDQtSjpHM0klQkxWOg==\",\n    \"sampleTestNo\": \"10000004\",\n    \"sampleReceiveTime\": \"1593324533\",\n    \"sampleTestTime\": \"1593324533\",\n    \"sampleReportTime\": \"1593324533\",\n    \"testPeople\": \"checkname3\",\n    \"reviewPeople\": \"checkname4\",\n    \"testMethod\": \"人乳头瘤测试0628\",\n    \"sampleType\": 36,\n    \"sampleStatus\": 1,\n    \"sampleStatusShow\": \"合格\",\n    \"testContent\": \"人乳头瘤病毒test0628\",\n    \"testResult\": \"人乳头瘤病毒test0628\",\n    \"testItem\":\"\"\n}'" ]
+      }, {
+        "name" : "推送报告",
+        "uid" : "2758848519c9a52f",
+        "parentUid" : "bbf5616aac42e7603211d1a6d1156889",
+        "status" : "passed",
+        "time" : {
+          "start" : 1593333809085,
+          "stop" : 1593333809123,
+          "duration" : 38
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "'{\n        \"appKey\": \"ab99093d26ef45c59eb1cf6bae3a1263\",\n        \"Content-Type\": \"application/json;charset=UTF-8 \"\n}'", "'{'code': 300, 'message': 'testItem不能为空！', 'data': None}'", "'{\n    \"hosBarCode\": \"UC5VUkwuQ04vMFElTCRCUDQtSjpHM0klQkxWOg==\",\n    \"sampleTestNo\": \"10000004\",\n    \"sampleReceiveTime\": \"1593324533\",\n    \"sampleTestTime\": \"1593324533\",\n    \"sampleReportTime\": \"1593324533\",\n    \"testPeople\": \"checkname3\",\n    \"reviewPeople\": \"checkname4\",\n    \"testMethod\": \"人乳头瘤测试0628\",\n    \"sampleType\": 36,\n    \"sampleStatus\": 1,\n    \"sampleStatusShow\": \"合格\",\n    \"testContent\": \"人乳头瘤病毒test0628\",\n    \"testResult\": \"人乳头瘤病毒test0628\",\n    \"testItem\": [\n]\n}'" ]
+      }, {
+        "name" : "删除报告",
+        "uid" : "80cb95060411d807",
+        "parentUid" : "bbf5616aac42e7603211d1a6d1156889",
+        "status" : "passed",
+        "time" : {
+          "start" : 1593333809127,
+          "stop" : 1593333809177,
+          "duration" : 50
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "'{\"appKey\":\"ab99093d26ef45c59eb1cf6bae3a1263\"}'", "'{'code': 200, 'message': '成功！', 'data': None}'", "'P.URL.CN/0Q%L$BP4-J:G3I%BLV:'" ]
+      }, {
+        "name" : "删除报告",
+        "uid" : "652b217f6d539bad",
+        "parentUid" : "bbf5616aac42e7603211d1a6d1156889",
+        "status" : "passed",
+        "time" : {
+          "start" : 1593333809180,
+          "stop" : 1593333809217,
+          "duration" : 37
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "'{\"appKey\":\"ab99093d26ef45c59eb1cf6bae3a1263\"}'", "'{'code': 300, 'message': '医院外部条形码为空或长度异常！', 'data': None}'", "''" ]
+      }, {
+        "name" : "删除报告",
+        "uid" : "df4645bf3181be88",
+        "parentUid" : "bbf5616aac42e7603211d1a6d1156889",
+        "status" : "passed",
+        "time" : {
+          "start" : 1593333809221,
+          "stop" : 1593333809264,
+          "duration" : 43
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "'{\"appKey\":\"ab99093d26ef45c59eb1cf6bae3a1263\"}'", "'{'code': 300, 'message': '样本信息不存在', 'data': None}'", "'P.URL.CN/0Q%L$BP4-J:G3I%BLV:1'" ]
+      }, {
+        "name" : "删除报告",
+        "uid" : "67f9c93eb04b285b",
+        "parentUid" : "bbf5616aac42e7603211d1a6d1156889",
+        "status" : "passed",
+        "time" : {
+          "start" : 1593333809267,
+          "stop" : 1593333809357,
+          "duration" : 90
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "'{\"appKey\":\"\"}'", "'{'code': 300, 'message': 'appkey为null，不是有效的请求', 'data': None}'", "'P.URL.CN/0Q%L$BP4-J:G3I%BLV:'" ]
+      }, {
+        "name" : "删除报告",
+        "uid" : "b017f67657c603c0",
+        "parentUid" : "bbf5616aac42e7603211d1a6d1156889",
+        "status" : "passed",
+        "time" : {
+          "start" : 1593333809361,
+          "stop" : 1593333809398,
+          "duration" : 37
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "'{\"appKey\":\"ab99093d26ef45c59eb1cf6bae3a12631\"}'", "'{'code': 300, 'message': 'appkey不存在或失效，不是有效的请求', 'data': None}'", "'P.URL.CN/0Q%L$BP4-J:G3I%BLV:'" ]
+      }, {
+        "name" : "删除报告",
+        "uid" : "47ef70eb29f0bccc",
+        "parentUid" : "bbf5616aac42e7603211d1a6d1156889",
+        "status" : "passed",
+        "time" : {
+          "start" : 1593333809401,
+          "stop" : 1593333809433,
+          "duration" : 32
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "'{\"appKey\":\"ab99093d26ef45c59eb1cf6bae3a12632\"}'", "'{'code': 300, 'message': 'appkey不存在或失效，不是有效的请求', 'data': None}'", "'P.URL.CN/0Q%L$BP4-J:G3I%BLV:'" ]
+      }, {
+        "name" : "删除报告",
+        "uid" : "51957de0e52991e3",
+        "parentUid" : "bbf5616aac42e7603211d1a6d1156889",
+        "status" : "passed",
+        "time" : {
+          "start" : 1593333809437,
+          "stop" : 1593333809468,
+          "duration" : 31
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "'{ \"appKey\":\"ab99093d26ef45c59eb1cf6bae3a126\"}'", "'{'code': 300, 'message': 'appkey不存在或失效，不是有效的请求', 'data': None}'", "'P.URL.CN/0Q%L$BP4-J:G3I%BLV:'" ]
+      }, {
+        "name" : "删除报告",
+        "uid" : "2d2adbee2001a26f",
+        "parentUid" : "bbf5616aac42e7603211d1a6d1156889",
+        "status" : "passed",
+        "time" : {
+          "start" : 1593333809471,
+          "stop" : 1593333809511,
+          "duration" : 40
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "'{\"appKey\":\"ab99093d26ef45c59eb1cf6bae3a1263\"}'", "'{'code': 300, 'message': '样本信息不存在', 'data': None}'", "'P.URL.CN/0Q%L$BP4-J:G3I%BLV:000'" ]
+      } ],
+      "uid" : "bbf5616aac42e7603211d1a6d1156889"
+    } ],
+    "uid" : "24317e82e30cea011e6b2fd076dddece"
+  }, {
+    "name" : "testcase",
+    "children" : [ {
+      "name" : "test_runner",
+      "children" : [ {
+        "name" : "TestZuser_info",
+        "children" : [ {
+          "name" : "推送报告",
+          "uid" : "cc7baaefb08f7ee7",
+          "parentUid" : "bb43b22cabf043f476c7e83182b82a44",
+          "status" : "passed",
+          "time" : {
+            "start" : 1593333938316,
+            "stop" : 1593333938392,
+            "duration" : 76
+          },
+          "flaky" : false,
+          "newFailed" : false,
+          "parameters" : [ "'{\n    \"appKey\": \"ab99093d26ef45c59eb1cf6bae3a1263\", \n    \"Content-Type\": \"application/json;charset=UTF-8 \"\n}'", "'{'code': 200, 'message': '成功！', 'data': None}'", "'{\n    \"hosBarCode\": \"UC5VUkwuQ04vMFElTCRCUDQtSjpHM0klQkxWOg==\",\n    \"sampleTestNo\": \"10000004\",\n    \"sampleReceiveTime\": \"1593324533\",\n    \"sampleTestTime\": \"1593324533\",\n    \"sampleReportTime\": \"1593324533\",\n    \"testPeople\": \"checkname3\",\n    \"reviewPeople\": \"checkname4\",\n    \"testMethod\": \"人乳头瘤测试0628\",\n    \"sampleType\": 36,\n    \"sampleStatus\": 1,\n    \"sampleStatusShow\": \"合格\",\n    \"testContent\": \"人乳头瘤病毒test0628\",\n    \"testResult\": \"人乳头瘤病毒高危型感染0628\",\n    \"testItem\": [\n        {\n            \"subType\": \"Hpv16\",\n            \"result\": \"阳性\",\n            \"infectUnit\": \"92.16（11.59%）\"\n        },\n        {\n            \"subType\": \"Hpv16\",\n            \"result\": \"阳性\",\n            \"infectUnit\": \"92.16（11.59%）\"\n        }\n    ]\n}'" ]
+        }, {
+          "name" : "推送报告",
+          "uid" : "ffa056eac8f9103d",
+          "parentUid" : "bb43b22cabf043f476c7e83182b82a44",
+          "status" : "passed",
+          "time" : {
+            "start" : 1593333938396,
+            "stop" : 1593333938433,
+            "duration" : 37
+          },
+          "flaky" : false,
+          "newFailed" : false,
+          "parameters" : [ "'{\n        \"appKey\": \"ab99093d26ef45c59eb1cf6bae3a1263\",\n        \"Content-Type\": \"application/json;charset=UTF-8 \"\n}'", "'{'code': 300, 'message': 'hosBarCode不能为空！', 'data': None}'", "'{\n    \"hosBarCode\": \"\",\n    \"sampleTestNo\": \"10000004\",\n    \"sampleReceiveTime\": \"1593324533\",\n    \"sampleTestTime\": \"1593324533\",\n    \"sampleReportTime\": \"1593324533\",\n    \"testPeople\": \"checkname3\",\n    \"reviewPeople\": \"checkname4\",\n    \"testMethod\": \"人乳头瘤测试0628\",\n    \"sampleType\": 36,\n    \"sampleStatus\": 1,\n    \"sampleStatusShow\": \"合格\",\n    \"testContent\": \"人乳头瘤病毒test0628\",\n    \"testResult\": \"人乳头瘤病毒高危型感染0628\",\n    \"testItem\": [\n        {\n            \"subType\": \"Hpv16\",\n            \"result\": \"阳性\",\n            \"infectUnit\": \"92.16（11.59%）\"\n        },\n        {\n            \"subType\": \"Hpv16\",\n            \"result\": \"阳性\",\n            \"infectUnit\": \"92.16（11.59%）\"\n        }\n    ]\n}'" ]
+        }, {
+          "name" : "推送报告",
+          "uid" : "127e607b49ec33fc",
+          "parentUid" : "bb43b22cabf043f476c7e83182b82a44",
+          "status" : "passed",
+          "time" : {
+            "start" : 1593333938436,
+            "stop" : 1593333938474,
+            "duration" : 38
+          },
+          "flaky" : false,
+          "newFailed" : false,
+          "parameters" : [ "'{\n        \"appKey\": \"ab99093d26ef45c59eb1cf6bae3a1263\",\n        \"Content-Type\": \"application/json;charset=UTF-8 \"\n}'", "'{'code': 300, 'message': 'sampleTestNo不能为空！', 'data': None}'", "'{\n    \"hosBarCode\": \"UC5VUkwuQ04vMFElTCRCUDQtSjpHM0klQkxWOg==\",\n    \"sampleTestNo\": \"\",\n    \"sampleReceiveTime\": \"1593324533\",\n    \"sampleTestTime\": \"1593324533\",\n    \"sampleReportTime\": \"1593324533\",\n    \"testPeople\": \"checkname3\",\n    \"reviewPeople\": \"checkname4\",\n    \"testMethod\": \"人乳头瘤测试0628\",\n    \"sampleType\": 36,\n    \"sampleStatus\": 1,\n    \"sampleStatusShow\": \"合格\",\n    \"testContent\": \"人乳头瘤病毒test0628\",\n    \"testResult\": \"人乳头瘤病毒高危型感染0628\",\n    \"testItem\": [\n        {\n            \"subType\": \"Hpv16\",\n            \"result\": \"阳性\",\n            \"infectUnit\": \"92.16（11.59%）\"\n        },\n        {\n            \"subType\": \"Hpv16\",\n            \"result\": \"阳性\",\n            \"infectUnit\": \"92.16（11.59%）\"\n        }\n    ]\n}'" ]
+        }, {
+          "name" : "推送报告",
+          "uid" : "340e6b711a16e95a",
+          "parentUid" : "bb43b22cabf043f476c7e83182b82a44",
+          "status" : "passed",
+          "time" : {
+            "start" : 1593333938477,
+            "stop" : 1593333938513,
+            "duration" : 36
+          },
+          "flaky" : false,
+          "newFailed" : false,
+          "parameters" : [ "'{\n        \"appKey\": \"ab99093d26ef45c59eb1cf6bae3a1263\",\n        \"Content-Type\": \"application/json;charset=UTF-8 \"\n}'", "'{'code': 300, 'message': 'sampleReceiveTime不能为空！', 'data': None}'", "'{\n    \"hosBarCode\": \"UC5VUkwuQ04vMFElTCRCUDQtSjpHM0klQkxWOg==\",\n    \"sampleTestNo\": \"10000004\",\n    \"sampleReceiveTime\": \"\",\n    \"sampleTestTime\": \"1593324533\",\n    \"sampleReportTime\": \"1593324533\",\n    \"testPeople\": \"checkname3\",\n    \"reviewPeople\": \"checkname4\",\n    \"testMethod\": \"人乳头瘤测试0628\",\n    \"sampleType\": 36,\n    \"sampleStatus\": 1,\n    \"sampleStatusShow\": \"合格\",\n    \"testContent\": \"人乳头瘤病毒test0628\",\n    \"testResult\": \"人乳头瘤病毒高危型感染0628\",\n    \"testItem\": [\n        {\n            \"subType\": \"Hpv16\",\n            \"result\": \"阳性\",\n            \"infectUnit\": \"92.16（11.59%）\"\n        },\n        {\n            \"subType\": \"Hpv16\",\n            \"result\": \"阳性\",\n            \"infectUnit\": \"92.16（11.59%）\"\n        }\n    ]\n}'" ]
+        }, {
+          "name" : "推送报告",
+          "uid" : "4c491639e0e260cb",
+          "parentUid" : "bb43b22cabf043f476c7e83182b82a44",
+          "status" : "passed",
+          "time" : {
+            "start" : 1593333938516,
+            "stop" : 1593333938554,
+            "duration" : 38
+          },
+          "flaky" : false,
+          "newFailed" : false,
+          "parameters" : [ "'{\n        \"appKey\": \"ab99093d26ef45c59eb1cf6bae3a1263\",\n        \"Content-Type\": \"application/json;charset=UTF-8 \"\n}'", "'{'code': 300, 'message': 'sampleTestTime不能为空！', 'data': None}'", "'{\n    \"hosBarCode\": \"UC5VUkwuQ04vMFElTCRCUDQtSjpHM0klQkxWOg==\",\n    \"sampleTestNo\": \"10000004\",\n    \"sampleReceiveTime\": \"1593324533\",\n    \"sampleTestTime\": \"\",\n    \"sampleReportTime\": \"1593324533\",\n    \"testPeople\": \"checkname3\",\n    \"reviewPeople\": \"checkname4\",\n    \"testMethod\": \"人乳头瘤测试0628\",\n    \"sampleType\": 36,\n    \"sampleStatus\": 1,\n    \"sampleStatusShow\": \"合格\",\n    \"testContent\": \"人乳头瘤病毒test0628\",\n    \"testResult\": \"人乳头瘤病毒高危型感染0628\",\n    \"testItem\": [\n        {\n            \"subType\": \"Hpv16\",\n            \"result\": \"阳性\",\n            \"infectUnit\": \"92.16（11.59%）\"\n        },\n        {\n            \"subType\": \"Hpv16\",\n            \"result\": \"阳性\",\n            \"infectUnit\": \"92.16（11.59%）\"\n        }\n    ]\n}'" ]
+        }, {
+          "name" : "推送报告",
+          "uid" : "888070ad6a88f70a",
+          "parentUid" : "bb43b22cabf043f476c7e83182b82a44",
+          "status" : "passed",
+          "time" : {
+            "start" : 1593333938557,
+            "stop" : 1593333938592,
+            "duration" : 35
+          },
+          "flaky" : false,
+          "newFailed" : false,
+          "parameters" : [ "'{\n        \"appKey\": \"ab99093d26ef45c59eb1cf6bae3a1263\",\n        \"Content-Type\": \"application/json;charset=UTF-8 \"\n}'", "'{'code': 300, 'message': 'sampleReportTime不能为空！', 'data': None}'", "'{\n    \"hosBarCode\": \"UC5VUkwuQ04vMFElTCRCUDQtSjpHM0klQkxWOg==\",\n    \"sampleTestNo\": \"10000004\",\n    \"sampleReceiveTime\": \"1593324533\",\n    \"sampleTestTime\": \"1593324533\",\n    \"sampleReportTime\": \"\",\n    \"testPeople\": \"checkname3\",\n    \"reviewPeople\": \"checkname4\",\n    \"testMethod\": \"人乳头瘤测试0628\",\n    \"sampleType\": 36,\n    \"sampleStatus\": 1,\n    \"sampleStatusShow\": \"合格\",\n    \"testContent\": \"人乳头瘤病毒test0628\",\n    \"testResult\": \"人乳头瘤病毒高危型感染0628\",\n    \"testItem\": [\n        {\n            \"subType\": \"Hpv16\",\n            \"result\": \"阳性\",\n            \"infectUnit\": \"92.16（11.59%）\"\n        },\n        {\n            \"subType\": \"Hpv16\",\n            \"result\": \"阳性\",\n            \"infectUnit\": \"92.16（11.59%）\"\n        }\n    ]\n}'" ]
+        }, {
+          "name" : "推送报告",
+          "uid" : "639e29527b2bf6f0",
+          "parentUid" : "bb43b22cabf043f476c7e83182b82a44",
+          "status" : "passed",
+          "time" : {
+            "start" : 1593333938595,
+            "stop" : 1593333938633,
+            "duration" : 38
+          },
+          "flaky" : false,
+          "newFailed" : false,
+          "parameters" : [ "'{\n        \"appKey\": \"ab99093d26ef45c59eb1cf6bae3a1263\",\n        \"Content-Type\": \"application/json;charset=UTF-8 \"\n}'", "'{'code': 300, 'message': 'testPeople不能为空！', 'data': None}'", "'{\n    \"hosBarCode\": \"UC5VUkwuQ04vMFElTCRCUDQtSjpHM0klQkxWOg==\",\n    \"sampleTestNo\": \"10000004\",\n    \"sampleReceiveTime\": \"1593324533\",\n    \"sampleTestTime\": \"1593324533\",\n    \"sampleReportTime\": \"1593324533\",\n    \"testPeople\": \"\",\n    \"reviewPeople\": \"checkname4\",\n    \"testMethod\": \"人乳头瘤测试0628\",\n    \"sampleType\": 36,\n    \"sampleStatus\": 1,\n    \"sampleStatusShow\": \"合格\",\n    \"testContent\": \"人乳头瘤病毒test0628\",\n    \"testResult\": \"人乳头瘤病毒高危型感染0628\",\n    \"testItem\": [\n        {\n            \"subType\": \"Hpv16\",\n            \"result\": \"阳性\",\n            \"infectUnit\": \"92.16（11.59%）\"\n        },\n        {\n            \"subType\": \"Hpv16\",\n            \"result\": \"阳性\",\n            \"infectUnit\": \"92.16（11.59%）\"\n        }\n    ]\n}'" ]
+        }, {
+          "name" : "推送报告",
+          "uid" : "5a2aa94d88efa0e2",
+          "parentUid" : "bb43b22cabf043f476c7e83182b82a44",
+          "status" : "passed",
+          "time" : {
+            "start" : 1593333938636,
+            "stop" : 1593333938671,
+            "duration" : 35
+          },
+          "flaky" : false,
+          "newFailed" : false,
+          "parameters" : [ "'{\n        \"appKey\": \"ab99093d26ef45c59eb1cf6bae3a1263\",\n        \"Content-Type\": \"application/json;charset=UTF-8 \"\n}'", "'{'code': 300, 'message': 'reviewPeople不能为空！', 'data': None}'", "'{\n    \"hosBarCode\": \"UC5VUkwuQ04vMFElTCRCUDQtSjpHM0klQkxWOg==\",\n    \"sampleTestNo\": \"10000004\",\n    \"sampleReceiveTime\": \"1593324533\",\n    \"sampleTestTime\": \"1593324533\",\n    \"sampleReportTime\": \"1593324533\",\n    \"testPeople\": \"checkname3\",\n    \"reviewPeople\": \"\",\n    \"testMethod\": \"人乳头瘤测试0628\",\n    \"sampleType\": 36,\n    \"sampleStatus\": 1,\n    \"sampleStatusShow\": \"合格\",\n    \"testContent\": \"人乳头瘤病毒test0628\",\n    \"testResult\": \"人乳头瘤病毒高危型感染0628\",\n    \"testItem\": [\n        {\n            \"subType\": \"Hpv16\",\n            \"result\": \"阳性\",\n            \"infectUnit\": \"92.16（11.59%）\"\n        },\n        {\n            \"subType\": \"Hpv16\",\n            \"result\": \"阳性\",\n            \"infectUnit\": \"92.16（11.59%）\"\n        }\n    ]\n}'" ]
+        }, {
+          "name" : "推送报告",
+          "uid" : "76625a77fb526677",
+          "parentUid" : "bb43b22cabf043f476c7e83182b82a44",
+          "status" : "passed",
+          "time" : {
+            "start" : 1593333938675,
+            "stop" : 1593333938712,
+            "duration" : 37
+          },
+          "flaky" : false,
+          "newFailed" : false,
+          "parameters" : [ "'{\n        \"appKey\": \"ab99093d26ef45c59eb1cf6bae3a1263\",\n        \"Content-Type\": \"application/json;charset=UTF-8 \"\n}'", "'{'code': 300, 'message': 'testMethod不能为空！', 'data': None}'", "'{\n    \"hosBarCode\": \"UC5VUkwuQ04vMFElTCRCUDQtSjpHM0klQkxWOg==\",\n    \"sampleTestNo\": \"10000004\",\n    \"sampleReceiveTime\": \"1593324533\",\n    \"sampleTestTime\": \"1593324533\",\n    \"sampleReportTime\": \"1593324533\",\n    \"testPeople\": \"checkname3\",\n    \"reviewPeople\": \"checkname4\",\n    \"testMethod\": \"\",\n    \"sampleType\": 36,\n    \"sampleStatus\": 1,\n    \"sampleStatusShow\": \"合格\",\n    \"testContent\": \"人乳头瘤病毒test0628\",\n    \"testResult\": \"人乳头瘤病毒高危型感染0628\",\n    \"testItem\": [\n        {\n            \"subType\": \"Hpv16\",\n            \"result\": \"阳性\",\n            \"infectUnit\": \"92.16（11.59%）\"\n        },\n        {\n            \"subType\": \"Hpv16\",\n            \"result\": \"阳性\",\n            \"infectUnit\": \"92.16（11.59%）\"\n        }\n    ]\n}'" ]
+        }, {
+          "name" : "推送报告",
+          "uid" : "9b89230c80b33f3",
+          "parentUid" : "bb43b22cabf043f476c7e83182b82a44",
+          "status" : "passed",
+          "time" : {
+            "start" : 1593333938715,
+            "stop" : 1593333938753,
+            "duration" : 38
+          },
+          "flaky" : false,
+          "newFailed" : false,
+          "parameters" : [ "'{\n        \"appKey\": \"ab99093d26ef45c59eb1cf6bae3a1263\",\n        \"Content-Type\": \"application/json;charset=UTF-8 \"\n}'", "'{'code': 300, 'message': 'sampleType不能为空！', 'data': None}'", "'{\n    \"hosBarCode\": \"UC5VUkwuQ04vMFElTCRCUDQtSjpHM0klQkxWOg==\",\n    \"sampleTestNo\": \"10000004\",\n    \"sampleReceiveTime\": \"1593324533\",\n    \"sampleTestTime\": \"1593324533\",\n    \"sampleReportTime\": \"1593324533\",\n    \"testPeople\": \"checkname3\",\n    \"reviewPeople\": \"checkname4\",\n    \"testMethod\": \"人乳头瘤测试0628\",\n    \"sampleType\": \"\",\n    \"sampleStatus\": 1,\n    \"sampleStatusShow\": \"合格\",\n    \"testContent\": \"人乳头瘤病毒test0628\",\n    \"testResult\": \"人乳头瘤病毒高危型感染0628\",\n    \"testItem\": [\n        {\n            \"subType\": \"Hpv16\",\n            \"result\": \"阳性\",\n            \"infectUnit\": \"92.16（11.59%）\"\n        },\n        {\n            \"subType\": \"Hpv16\",\n            \"result\": \"阳性\",\n            \"infectUnit\": \"92.16（11.59%）\"\n        }\n    ]\n}'" ]
+        }, {
+          "name" : "推送报告",
+          "uid" : "fffaf41cece393e4",
+          "parentUid" : "bb43b22cabf043f476c7e83182b82a44",
+          "status" : "passed",
+          "time" : {
+            "start" : 1593333938756,
+            "stop" : 1593333938792,
+            "duration" : 36
+          },
+          "flaky" : false,
+          "newFailed" : false,
+          "parameters" : [ "'{\n        \"appKey\": \"ab99093d26ef45c59eb1cf6bae3a1263\",\n        \"Content-Type\": \"application/json;charset=UTF-8 \"\n}'", "'{'code': 300, 'message': 'sampleStatus不能为空！', 'data': None}'", "'{\n    \"hosBarCode\": \"UC5VUkwuQ04vMFElTCRCUDQtSjpHM0klQkxWOg==\",\n    \"sampleTestNo\": \"10000004\",\n    \"sampleReceiveTime\": \"1593324533\",\n    \"sampleTestTime\": \"1593324533\",\n    \"sampleReportTime\": \"1593324533\",\n    \"testPeople\": \"checkname3\",\n    \"reviewPeople\": \"checkname4\",\n    \"testMethod\": \"人乳头瘤测试0628\",\n    \"sampleType\": 36,\n    \"sampleStatus\": \"\",\n    \"sampleStatusShow\": \"合格\",\n    \"testContent\": \"人乳头瘤病毒test0628\",\n    \"testResult\": \"人乳头瘤病毒高危型感染0628\",\n    \"testItem\": [\n        {\n            \"subType\": \"Hpv16\",\n            \"result\": \"阳性\",\n            \"infectUnit\": \"92.16（11.59%）\"\n        },\n        {\n            \"subType\": \"Hpv16\",\n            \"result\": \"阳性\",\n            \"infectUnit\": \"92.16（11.59%）\"\n        }\n    ]\n}'" ]
+        }, {
+          "name" : "推送报告",
+          "uid" : "1787e5426b972dfd",
+          "parentUid" : "bb43b22cabf043f476c7e83182b82a44",
+          "status" : "failed",
+          "time" : {
+            "start" : 1593333938912,
+            "stop" : 1593333938964,
+            "duration" : 52
+          },
+          "flaky" : false,
+          "newFailed" : false,
+          "parameters" : [ "'{\n        \"appKey\": \"ab99093d26ef45c59eb1cf6bae3a1263\",\n        \"Content-Type\": \"application/json;charset=UTF-8 \"\n}'", "'{'code': 300, 'message': 'sampleStatusShow不能为空！', 'data': None}'", "'{\n    \"hosBarCode\": \"UC5VUkwuQ04vMFElTCRCUDQtSjpHM0klQkxWOg==\",\n    \"sampleTestNo\": \"10000004\",\n    \"sampleReceiveTime\": \"1593324533\",\n    \"sampleTestTime\": \"1593324533\",\n    \"sampleReportTime\": \"1593324533\",\n    \"testPeople\": \"checkname3\",\n    \"reviewPeople\": \"checkname4\",\n    \"testMethod\": \"人乳头瘤测试0628\",\n    \"sampleType\": 36,\n    \"sampleStatus\": 0,\n    \"sampleStatusShow\": \"\",\n    \"testContent\": \"人乳头瘤病毒test0628\",\n    \"testResult\": \"人乳头瘤病毒高危型感染0628\",\n    \"testItem\": [\n        {\n            \"subType\": \"Hpv16\",\n            \"result\": \"阳性\",\n            \"infectUnit\": \"92.16（11.59%）\"\n        },\n        {\n            \"subType\": \"Hpv16\",\n            \"result\": \"阳性\",\n            \"infectUnit\": \"92.16（11.59%）\"\n        }\n    ]\n}'" ]
+        }, {
+          "name" : "推送报告",
+          "uid" : "4ad9c8ce5a8678d7",
+          "parentUid" : "bb43b22cabf043f476c7e83182b82a44",
+          "status" : "passed",
+          "time" : {
+            "start" : 1593333938997,
+            "stop" : 1593333939036,
+            "duration" : 39
+          },
+          "flaky" : false,
+          "newFailed" : false,
+          "parameters" : [ "'{\n        \"appKey\": \"ab99093d26ef45c59eb1cf6bae3a1263\",\n        \"Content-Type\": \"application/json;charset=UTF-8 \"\n}'", "'{'code': 300, 'message': 'testContent不能为空！', 'data': None}'", "'{\n    \"hosBarCode\": \"UC5VUkwuQ04vMFElTCRCUDQtSjpHM0klQkxWOg==\",\n    \"sampleTestNo\": \"10000004\",\n    \"sampleReceiveTime\": \"1593324533\",\n    \"sampleTestTime\": \"1593324533\",\n    \"sampleReportTime\": \"1593324533\",\n    \"testPeople\": \"checkname3\",\n    \"reviewPeople\": \"checkname4\",\n    \"testMethod\": \"人乳头瘤测试0628\",\n    \"sampleType\": 36,\n    \"sampleStatus\": 1,\n    \"sampleStatusShow\": \"合格\",\n    \"testContent\": \"\",\n    \"testResult\": \"人乳头瘤病毒高危型感染0628\",\n    \"testItem\": [\n        {\n            \"subType\": \"Hpv16\",\n            \"result\": \"阳性\",\n            \"infectUnit\": \"92.16（11.59%）\"\n        },\n        {\n            \"subType\": \"Hpv16\",\n            \"result\": \"阳性\",\n            \"infectUnit\": \"92.16（11.59%）\"\n        }\n    ]\n}'" ]
+        }, {
+          "name" : "推送报告",
+          "uid" : "7b1f14fed3a67ccf",
+          "parentUid" : "bb43b22cabf043f476c7e83182b82a44",
+          "status" : "passed",
+          "time" : {
+            "start" : 1593333939039,
+            "stop" : 1593333939077,
+            "duration" : 38
+          },
+          "flaky" : false,
+          "newFailed" : false,
+          "parameters" : [ "'{\n        \"appKey\": \"ab99093d26ef45c59eb1cf6bae3a1263\",\n        \"Content-Type\": \"application/json;charset=UTF-8 \"\n}'", "'{'code': 300, 'message': 'testResult不能为空！', 'data': None}'", "'{\n    \"hosBarCode\": \"UC5VUkwuQ04vMFElTCRCUDQtSjpHM0klQkxWOg==\",\n    \"sampleTestNo\": \"10000004\",\n    \"sampleReceiveTime\": \"1593324533\",\n    \"sampleTestTime\": \"1593324533\",\n    \"sampleReportTime\": \"1593324533\",\n    \"testPeople\": \"checkname3\",\n    \"reviewPeople\": \"checkname4\",\n    \"testMethod\": \"人乳头瘤测试0628\",\n    \"sampleType\": 36,\n    \"sampleStatus\": 1,\n    \"sampleStatusShow\": \"合格\",\n    \"testContent\": \"人乳头瘤病毒test0628\",\n    \"testResult\": \"\",\n    \"testItem\": [\n        {\n            \"subType\": \"Hpv16\",\n            \"result\": \"阳性\",\n            \"infectUnit\": \"92.16（11.59%）\"\n        },\n        {\n            \"subType\": \"Hpv16\",\n            \"result\": \"阳性\",\n            \"infectUnit\": \"92.16（11.59%）\"\n        }\n    ]\n}'" ]
+        }, {
+          "name" : "推送报告",
+          "uid" : "d2d226ae8da8c4b2",
+          "parentUid" : "bb43b22cabf043f476c7e83182b82a44",
+          "status" : "passed",
+          "time" : {
+            "start" : 1593333939081,
+            "stop" : 1593333939120,
+            "duration" : 39
+          },
+          "flaky" : false,
+          "newFailed" : false,
+          "parameters" : [ "'{\n        \"appKey\": \"ab99093d26ef45c59eb1cf6bae3a1263\",\n        \"Content-Type\": \"application/json;charset=UTF-8 \"\n}'", "'{'code': 300, 'message': 'testItem不能为空！', 'data': None}'", "'{\n    \"hosBarCode\": \"UC5VUkwuQ04vMFElTCRCUDQtSjpHM0klQkxWOg==\",\n    \"sampleTestNo\": \"10000004\",\n    \"sampleReceiveTime\": \"1593324533\",\n    \"sampleTestTime\": \"1593324533\",\n    \"sampleReportTime\": \"1593324533\",\n    \"testPeople\": \"checkname3\",\n    \"reviewPeople\": \"checkname4\",\n    \"testMethod\": \"人乳头瘤测试0628\",\n    \"sampleType\": 36,\n    \"sampleStatus\": 1,\n    \"sampleStatusShow\": \"合格\",\n    \"testContent\": \"人乳头瘤病毒test0628\",\n    \"testResult\": \"人乳头瘤病毒test0628\",\n    \"testItem\":\"\"\n}'" ]
+        }, {
+          "name" : "推送报告",
+          "uid" : "a18cccb9bf8cad8e",
+          "parentUid" : "bb43b22cabf043f476c7e83182b82a44",
+          "status" : "passed",
+          "time" : {
+            "start" : 1593333939124,
+            "stop" : 1593333939161,
+            "duration" : 37
+          },
+          "flaky" : false,
+          "newFailed" : false,
+          "parameters" : [ "'{\n        \"appKey\": \"ab99093d26ef45c59eb1cf6bae3a1263\",\n        \"Content-Type\": \"application/json;charset=UTF-8 \"\n}'", "'{'code': 300, 'message': 'testItem不能为空！', 'data': None}'", "'{\n    \"hosBarCode\": \"UC5VUkwuQ04vMFElTCRCUDQtSjpHM0klQkxWOg==\",\n    \"sampleTestNo\": \"10000004\",\n    \"sampleReceiveTime\": \"1593324533\",\n    \"sampleTestTime\": \"1593324533\",\n    \"sampleReportTime\": \"1593324533\",\n    \"testPeople\": \"checkname3\",\n    \"reviewPeople\": \"checkname4\",\n    \"testMethod\": \"人乳头瘤测试0628\",\n    \"sampleType\": 36,\n    \"sampleStatus\": 1,\n    \"sampleStatusShow\": \"合格\",\n    \"testContent\": \"人乳头瘤病毒test0628\",\n    \"testResult\": \"人乳头瘤病毒test0628\",\n    \"testItem\": [\n]\n}'" ]
+        }, {
+          "name" : "查询用户信息用例",
+          "uid" : "de8de15762867522",
+          "parentUid" : "bb43b22cabf043f476c7e83182b82a44",
+          "status" : "failed",
+          "time" : {
+            "start" : 1595573430645,
+            "stop" : 1595573430679,
+            "duration" : 34
+          },
+          "flaky" : false,
+          "newFailed" : false,
+          "parameters" : [ "'{\"appKey\":\"ab99093d26ef45c59eb1cf6bae3a1263\"}'", "'{'code': 200,\n 'data': {'age': 26,\n          'applyItemCode': '1001',\n          'birthDay': '1994-06-23',\n          'cardNo': '342401199406233411',\n          'id': 4,\n          'name': 'test004',\n          'phone': '15411111114',\n          'sampleCollectionTime': 1592882403,\n          'sampleProperty': None,\n          'sampleType': 36,\n          'sex': 1},\n 'message': '成功！'}'", "'P.URL.CN/0Q%L$BP4-J:G3I%BLV:'" ]
+        }, {
+          "name" : "查询用户信息用例",
+          "uid" : "cef4b2bbd14ca0c0",
+          "parentUid" : "bb43b22cabf043f476c7e83182b82a44",
+          "status" : "passed",
+          "time" : {
+            "start" : 1595573430723,
+            "stop" : 1595573430752,
+            "duration" : 29
+          },
+          "flaky" : false,
+          "newFailed" : false,
+          "parameters" : [ "'{\"appKey\":\"ab99093d26ef45c59eb1cf6bae3a1263\"}'", "'{'code': 300, 'data': None, 'message': '医院外部条形码为空或长度异常！'}'", "''" ]
+        }, {
+          "name" : "查询用户信息用例",
+          "uid" : "61846d97d0665448",
+          "parentUid" : "bb43b22cabf043f476c7e83182b82a44",
+          "status" : "passed",
+          "time" : {
+            "start" : 1595573430755,
+            "stop" : 1595573430793,
+            "duration" : 38
+          },
+          "flaky" : false,
+          "newFailed" : false,
+          "parameters" : [ "'{\"appKey\":\"ab99093d26ef45c59eb1cf6bae3a1263\"}'", "'{'code': 300, 'data': None, 'message': '医院外部条形码对应的样本信息不存在！'}'", "'P.URL.CN/0Q%L$BP4-J:G3I%BLV:1'" ]
+        }, {
+          "name" : "查询用户信息用例",
+          "uid" : "ccbede20f626deb7",
+          "parentUid" : "bb43b22cabf043f476c7e83182b82a44",
+          "status" : "passed",
+          "time" : {
+            "start" : 1595573430797,
+            "stop" : 1595573430835,
+            "duration" : 38
+          },
+          "flaky" : false,
+          "newFailed" : false,
+          "parameters" : [ "'{\"appKey\":\"\"}'", "'{'code': 300, 'data': None, 'message': 'appkey为null，不是有效的请求'}'", "'P.URL.CN/0Q%L$BP4-J:G3I%BLV:'" ]
+        }, {
+          "name" : "查询用户信息用例",
+          "uid" : "55dabc8d9e944b63",
+          "parentUid" : "bb43b22cabf043f476c7e83182b82a44",
+          "status" : "passed",
+          "time" : {
+            "start" : 1595573430838,
+            "stop" : 1595573430873,
+            "duration" : 35
+          },
+          "flaky" : false,
+          "newFailed" : false,
+          "parameters" : [ "'{\"appKey\":\"ab99093d26ef45c59eb1cf6bae3a12631\"}'", "'{'code': 300, 'data': None, 'message': 'appkey不存在或失效，不是有效的请求'}'", "'P.URL.CN/0Q%L$BP4-J:G3I%BLV:'" ]
+        }, {
+          "name" : "查询用户信息用例",
+          "uid" : "8b17e19cb4c6b983",
+          "parentUid" : "bb43b22cabf043f476c7e83182b82a44",
+          "status" : "passed",
+          "time" : {
+            "start" : 1595573430876,
+            "stop" : 1595573430911,
+            "duration" : 35
+          },
+          "flaky" : false,
+          "newFailed" : false,
+          "parameters" : [ "'{\"appKey\":\"ab99093d26ef45c59eb1cf6bae3a12632\"}'", "'{'code': 300, 'data': None, 'message': 'appkey不存在或失效，不是有效的请求'}'", "'P.URL.CN/0Q%L$BP4-J:G3I%BLV:'" ]
+        }, {
+          "name" : "查询用户信息用例",
+          "uid" : "91cec74aed526752",
+          "parentUid" : "bb43b22cabf043f476c7e83182b82a44",
+          "status" : "passed",
+          "time" : {
+            "start" : 1595573430914,
+            "stop" : 1595573430947,
+            "duration" : 33
+          },
+          "flaky" : false,
+          "newFailed" : false,
+          "parameters" : [ "'{ \"appKey\":\"ab99093d26ef45c59eb1cf6bae3a126\"}'", "'{'code': 300, 'data': None, 'message': 'appkey不存在或失效，不是有效的请求'}'", "'P.URL.CN/0Q%L$BP4-J:G3I%BLV:'" ]
+        }, {
+          "name" : "查询用户信息用例",
+          "uid" : "c8cc943c7489e79f",
+          "parentUid" : "bb43b22cabf043f476c7e83182b82a44",
+          "status" : "passed",
+          "time" : {
+            "start" : 1595573430950,
+            "stop" : 1595573430982,
+            "duration" : 32
+          },
+          "flaky" : false,
+          "newFailed" : false,
+          "parameters" : [ "'{\"appKey\":\"ab99093d26ef45c59eb1cf6bae3a1263\"}'", "'{'code': 300, 'data': None, 'message': '医院外部条形码对应的样本信息不存在！'}'", "'P.URL.CN/0Q%L$BP4-J:G3I%BLV:000'" ]
+        }, {
+          "name" : "推送报告",
+          "uid" : "8c7c6543c909613",
+          "parentUid" : "bb43b22cabf043f476c7e83182b82a44",
+          "status" : "broken",
+          "time" : {
+            "start" : 1595573430985,
+            "stop" : 1595573430985,
+            "duration" : 0
+          },
+          "flaky" : false,
+          "newFailed" : false,
+          "parameters" : [ "'{\n    \"appKey\": \"ab99093d26ef45c59eb1cf6bae3a1263\", \n    \"Content-Type\": \"application/json;charset=UTF-8 \"\n}'", "'{'code': 200, 'message': '成功！', 'data': None}'", "'{\n    \"hosBarCode\": \"UC5VUkwuQ04vMFAkOUhCUElIUTZRRE8wRlNGLg==\",\n    \"sampleTestNo\": \"10000002\",\n    \"sampleReceiveTime\": \"1594349278\",\n    \"sampleTestTime\": \"1594349278\",\n    \"sampleReportTime\": \"1594349278\",\n    \"testPeople\": \"checkname\",\n    \"reviewPeople\": \"checkname2\",\n    \"testMethod\": \"人乳头瘤测试\",\n    \"sampleType\": 36,\n    \"sampleStatus\": 1,\n    \"sampleStatusShow\": \"合格\",\n    \"testContent\": \"人乳头瘤病毒test\",\n    \"testResult\": \"人乳头瘤病毒高危型感染\",\n    \"testItem\": [\n        {\n            \"subType\": \"HPV16 \",\n            \"result\": 0,\n            \"infectUnit\": \"92.16（11.59%）\"\n        },\n        {\n            \"subType\": \"HPV18\",\n            \"result\": 0,\n            \"infectUnit\": \"\"\n        },\n        {\n            \"subType\": \"HPV26\",\n            \"result\": 0,\n            \"infectUnit\": \"88.38%（11.59%）\"\n        },\n        {\n            \"subType\": \"HPV31\",\n            \"result\": 0,\n            \"infectUnit\": \"\"\n        },\n        {\n            \"subType\": \"HPV33\",\n            \"result\": 0,\n            \"infectUnit\": \"92.16（11.59%）\"\n        },\n        {\n            \"subType\": \"HPV35\",\n            \"result\": 0,\n            \"infectUnit\": \"\"\n        },\n        {\n            \"subType\": \"HPV39\",\n            \"result\": 0,\n            \"infectUnit\": \"88.38%（11.59%）\"\n        },\n        {\n            \"subType\": \"HPV45\",\n            \"result\": 0,\n            \"infectUnit\": \"\"\n        },\n        {\n            \"subType\": \"HPV51 \",\n            \"result\": 0,\n            \"infectUnit\": \"92.16（11.59%）\"\n        },\n        {\n            \"subType\": \"HPV52\",\n            \"result\": 0,\n            \"infectUnit\": \"\"\n        },\n        {\n            \"subType\": \"HPV53\",\n            \"result\": 0,\n            \"infectUnit\": \"88.38%（11.59%）\"\n        },\n        {\n            \"subType\": \"HPV56\",\n            \"result\": 0,\n            \"infectUnit\": \"\"\n        },\n        {\n            \"subType\": \"HPV58\",\n            \"result\": 0,\n            \"infectUnit\": \"92.16（11.59%）\"\n        },\n        {\n            \"subType\": \"HPV59\",\n            \"result\": 0,\n            \"infectUnit\": \"\"\n        },\n        {\n            \"subType\": \"HPV66\",\n            \"result\": 0,\n            \"infectUnit\": \"88.38%（11.59%）\"\n        },\n        {\n            \"subType\": \"HPV68\",\n            \"result\": 0,\n            \"infectUnit\": \"\"\n        },\n        {\n            \"subType\": \"HPV73\",\n            \"result\": 0,\n            \"infectUnit\": \"88.38%（11.59%）\"\n        },\n        {\n            \"subType\": \"HPV82\",\n            \"result\": 0,\n            \"infectUnit\": \"\"\n        },\n        {\n            \"subType\": \"HPV6\",\n            \"result\": 0,\n            \"infectUnit\": \"\"\n        },\n        {\n            \"subType\": \"HPV11\",\n            \"result\": 0,\n            \"infectUnit\": \"88.38%（11.59%）\"\n        },\n        {\n            \"subType\": \"HPV81\",\n            \"result\": 0,\n            \"infectUnit\": \"\"\n        },\n    ]\n}'" ]
+        }, {
+          "name" : "推送报告",
+          "uid" : "7b491456bc92c309",
+          "parentUid" : "bb43b22cabf043f476c7e83182b82a44",
+          "status" : "broken",
+          "time" : {
+            "start" : 1595573430994,
+            "stop" : 1595573430994,
+            "duration" : 0
+          },
+          "flaky" : false,
+          "newFailed" : false,
+          "parameters" : [ "'{\n        \"appKey\": \"ab99093d26ef45c59eb1cf6bae3a1263\",\n        \"Content-Type\": \"application/json;charset=UTF-8 \"\n}'", "'{'code': 300, 'message': 'hosBarCode不能为空！', 'data': None}'", "'{\n    \"hosBarCode\": \"\",\n    \"sampleTestNo\": \"10000002\",\n    \"sampleReceiveTime\": \"1594349278\",\n    \"sampleTestTime\": \"1594349278\",\n    \"sampleReportTime\": \"1594349278\",\n    \"testPeople\": \"checkname\",\n    \"reviewPeople\": \"checkname2\",\n    \"testMethod\": \"人乳头瘤测试\",\n    \"sampleType\": 36,\n    \"sampleStatus\": 1,\n    \"sampleStatusShow\": \"合格\",\n    \"testContent\": \"人乳头瘤病毒test\",\n    \"testResult\": \"人乳头瘤病毒高危型感染\",\n    \"testItem\": [\n        {\n            \"subType\": \"HPV16 \",\n            \"result\": 0,\n            \"infectUnit\": \"92.16（11.59%）\"\n        },\n        {\n            \"subType\": \"HPV18\",\n            \"result\": 0,\n            \"infectUnit\": \"\"\n        },\n        {\n            \"subType\": \"HPV26\",\n            \"result\": 0,\n            \"infectUnit\": \"88.38%（11.59%）\"\n        },\n        {\n            \"subType\": \"HPV31\",\n            \"result\": 0,\n            \"infectUnit\": \"\"\n        },\n        {\n            \"subType\": \"HPV33\",\n            \"result\": 0,\n            \"infectUnit\": \"92.16（11.59%）\"\n        },\n        {\n            \"subType\": \"HPV35\",\n            \"result\": 0,\n            \"infectUnit\": \"\"\n        },\n        {\n            \"subType\": \"HPV39\",\n            \"result\": 0,\n            \"infectUnit\": \"88.38%（11.59%）\"\n        },\n        {\n            \"subType\": \"HPV45\",\n            \"result\": 0,\n            \"infectUnit\": \"\"\n        },\n        {\n            \"subType\": \"HPV51 \",\n            \"result\": 0,\n            \"infectUnit\": \"92.16（11.59%）\"\n        },\n        {\n            \"subType\": \"HPV52\",\n            \"result\": 0,\n            \"infectUnit\": \"\"\n        },\n        {\n            \"subType\": \"HPV53\",\n            \"result\": 0,\n            \"infectUnit\": \"88.38%（11.59%）\"\n        },\n        {\n            \"subType\": \"HPV56\",\n            \"result\": 0,\n            \"infectUnit\": \"\"\n        },\n        {\n            \"subType\": \"HPV58\",\n            \"result\": 0,\n            \"infectUnit\": \"92.16（11.59%）\"\n        },\n        {\n            \"subType\": \"HPV59\",\n            \"result\": 0,\n            \"infectUnit\": \"\"\n        },\n        {\n            \"subType\": \"HPV66\",\n            \"result\": 0,\n            \"infectUnit\": \"88.38%（11.59%）\"\n        },\n        {\n            \"subType\": \"HPV68\",\n            \"result\": 0,\n            \"infectUnit\": \"\"\n        },\n        {\n            \"subType\": \"HPV73\",\n            \"result\": 0,\n            \"infectUnit\": \"88.38%（11.59%）\"\n        },\n        {\n            \"subType\": \"HPV82\",\n            \"result\": 0,\n            \"infectUnit\": \"\"\n        },\n        {\n            \"subType\": \"HPV6\",\n            \"result\": 0,\n            \"infectUnit\": \"\"\n        },\n        {\n            \"subType\": \"HPV11\",\n            \"result\": 0,\n            \"infectUnit\": \"88.38%（11.59%）\"\n        },\n        {\n            \"subType\": \"HPV81\",\n            \"result\": 0,\n            \"infectUnit\": \"\"\n        },\n    ]\n}'" ]
+        }, {
+          "name" : "推送报告",
+          "uid" : "43ec301a20564b3a",
+          "parentUid" : "bb43b22cabf043f476c7e83182b82a44",
+          "status" : "broken",
+          "time" : {
+            "start" : 1595573431001,
+            "stop" : 1595573431001,
+            "duration" : 0
+          },
+          "flaky" : false,
+          "newFailed" : false,
+          "parameters" : [ "'{\n        \"appKey\": \"ab99093d26ef45c59eb1cf6bae3a1263\",\n        \"Content-Type\": \"application/json;charset=UTF-8 \"\n}'", "'{'code': 300, 'message': 'sampleTestNo不能为空！', 'data': None}'", "'{\n    \"hosBarCode\": \"UC5VUkwuQ04vMFAkOUhCUElIUTZRRE8wRlNGLg==\",\n    \"sampleTestNo\": \"\",\n    \"sampleReceiveTime\": \"1594349278\",\n    \"sampleTestTime\": \"1594349278\",\n    \"sampleReportTime\": \"1594349278\",\n    \"testPeople\": \"checkname\",\n    \"reviewPeople\": \"checkname2\",\n    \"testMethod\": \"人乳头瘤测试\",\n    \"sampleType\": 36,\n    \"sampleStatus\": 1,\n    \"sampleStatusShow\": \"合格\",\n    \"testContent\": \"人乳头瘤病毒test\",\n    \"testResult\": \"人乳头瘤病毒高危型感染\",\n    \"testItem\": [\n        {\n            \"subType\": \"HPV16 \",\n            \"result\": 0,\n            \"infectUnit\": \"92.16（11.59%）\"\n        },\n        {\n            \"subType\": \"HPV18\",\n            \"result\": 0,\n            \"infectUnit\": \"\"\n        },\n        {\n            \"subType\": \"HPV26\",\n            \"result\": 0,\n            \"infectUnit\": \"88.38%（11.59%）\"\n        },\n        {\n            \"subType\": \"HPV31\",\n            \"result\": 0,\n            \"infectUnit\": \"\"\n        },\n        {\n            \"subType\": \"HPV33\",\n            \"result\": 0,\n            \"infectUnit\": \"92.16（11.59%）\"\n        },\n        {\n            \"subType\": \"HPV35\",\n            \"result\": 0,\n            \"infectUnit\": \"\"\n        },\n        {\n            \"subType\": \"HPV39\",\n            \"result\": 0,\n            \"infectUnit\": \"88.38%（11.59%）\"\n        },\n        {\n            \"subType\": \"HPV45\",\n            \"result\": 0,\n            \"infectUnit\": \"\"\n        },\n        {\n            \"subType\": \"HPV51 \",\n            \"result\": 0,\n            \"infectUnit\": \"92.16（11.59%）\"\n        },\n        {\n            \"subType\": \"HPV52\",\n            \"result\": 0,\n            \"infectUnit\": \"\"\n        },\n        {\n            \"subType\": \"HPV53\",\n            \"result\": 0,\n            \"infectUnit\": \"88.38%（11.59%）\"\n        },\n        {\n            \"subType\": \"HPV56\",\n            \"result\": 0,\n            \"infectUnit\": \"\"\n        },\n        {\n            \"subType\": \"HPV58\",\n            \"result\": 0,\n            \"infectUnit\": \"92.16（11.59%）\"\n        },\n        {\n            \"subType\": \"HPV59\",\n            \"result\": 0,\n            \"infectUnit\": \"\"\n        },\n        {\n            \"subType\": \"HPV66\",\n            \"result\": 0,\n            \"infectUnit\": \"88.38%（11.59%）\"\n        },\n        {\n            \"subType\": \"HPV68\",\n            \"result\": 0,\n            \"infectUnit\": \"\"\n        },\n        {\n            \"subType\": \"HPV73\",\n            \"result\": 0,\n            \"infectUnit\": \"88.38%（11.59%）\"\n        },\n        {\n            \"subType\": \"HPV82\",\n            \"result\": 0,\n            \"infectUnit\": \"\"\n        },\n        {\n            \"subType\": \"HPV6\",\n            \"result\": 0,\n            \"infectUnit\": \"\"\n        },\n        {\n            \"subType\": \"HPV11\",\n            \"result\": 0,\n            \"infectUnit\": \"88.38%（11.59%）\"\n        },\n        {\n            \"subType\": \"HPV81\",\n            \"result\": 0,\n            \"infectUnit\": \"\"\n        },\n    ]\n}'" ]
+        }, {
+          "name" : "推送报告",
+          "uid" : "a6f4c8fd9f4a7064",
+          "parentUid" : "bb43b22cabf043f476c7e83182b82a44",
+          "status" : "broken",
+          "time" : {
+            "start" : 1595573431008,
+            "stop" : 1595573431008,
+            "duration" : 0
+          },
+          "flaky" : false,
+          "newFailed" : false,
+          "parameters" : [ "'{\n        \"appKey\": \"ab99093d26ef45c59eb1cf6bae3a1263\",\n        \"Content-Type\": \"application/json;charset=UTF-8 \"\n}'", "'{'code': 300, 'message': 'sampleReceiveTime不能为空！', 'data': None}'", "'{\n    \"hosBarCode\": \"UC5VUkwuQ04vMFAkOUhCUElIUTZRRE8wRlNGLg==\",\n    \"sampleTestNo\": \"10000001\",\n    \"sampleReceiveTime\": \"\",\n    \"sampleTestTime\": \"1594349278\",\n    \"sampleReportTime\": \"1594349278\",\n    \"testPeople\": \"checkname\",\n    \"reviewPeople\": \"checkname2\",\n    \"testMethod\": \"人乳头瘤测试\",\n    \"sampleType\": 36,\n    \"sampleStatus\": 1,\n    \"sampleStatusShow\": \"合格\",\n    \"testContent\": \"人乳头瘤病毒test\",\n    \"testResult\": \"人乳头瘤病毒高危型感染\",\n    \"testItem\": [\n        {\n            \"subType\": \"HPV16 \",\n            \"result\": 0,\n            \"infectUnit\": \"92.16（11.59%）\"\n        },\n        {\n            \"subType\": \"HPV18\",\n            \"result\": 0,\n            \"infectUnit\": \"\"\n        },\n        {\n            \"subType\": \"HPV26\",\n            \"result\": 0,\n            \"infectUnit\": \"88.38%（11.59%）\"\n        },\n        {\n            \"subType\": \"HPV31\",\n            \"result\": 0,\n            \"infectUnit\": \"\"\n        },\n        {\n            \"subType\": \"HPV33\",\n            \"result\": 0,\n            \"infectUnit\": \"92.16（11.59%）\"\n        },\n        {\n            \"subType\": \"HPV35\",\n            \"result\": 0,\n            \"infectUnit\": \"\"\n        },\n        {\n            \"subType\": \"HPV39\",\n            \"result\": 0,\n            \"infectUnit\": \"88.38%（11.59%）\"\n        },\n        {\n            \"subType\": \"HPV45\",\n            \"result\": 0,\n            \"infectUnit\": \"\"\n        },\n        {\n            \"subType\": \"HPV51 \",\n            \"result\": 0,\n            \"infectUnit\": \"92.16（11.59%）\"\n        },\n        {\n            \"subType\": \"HPV52\",\n            \"result\": 0,\n            \"infectUnit\": \"\"\n        },\n        {\n            \"subType\": \"HPV53\",\n            \"result\": 0,\n            \"infectUnit\": \"88.38%（11.59%）\"\n        },\n        {\n            \"subType\": \"HPV56\",\n            \"result\": 0,\n            \"infectUnit\": \"\"\n        },\n        {\n            \"subType\": \"HPV58\",\n            \"result\": 0,\n            \"infectUnit\": \"92.16（11.59%）\"\n        },\n        {\n            \"subType\": \"HPV59\",\n            \"result\": 0,\n            \"infectUnit\": \"\"\n        },\n        {\n            \"subType\": \"HPV66\",\n            \"result\": 0,\n            \"infectUnit\": \"88.38%（11.59%）\"\n        },\n        {\n            \"subType\": \"HPV68\",\n            \"result\": 0,\n            \"infectUnit\": \"\"\n        },\n        {\n            \"subType\": \"HPV73\",\n            \"result\": 0,\n            \"infectUnit\": \"88.38%（11.59%）\"\n        },\n        {\n            \"subType\": \"HPV82\",\n            \"result\": 0,\n            \"infectUnit\": \"\"\n        },\n        {\n            \"subType\": \"HPV6\",\n            \"result\": 0,\n            \"infectUnit\": \"\"\n        },\n        {\n            \"subType\": \"HPV11\",\n            \"result\": 0,\n            \"infectUnit\": \"88.38%（11.59%）\"\n        },\n        {\n            \"subType\": \"HPV81\",\n            \"result\": 0,\n            \"infectUnit\": \"\"\n        },\n    ]\n}'" ]
+        }, {
+          "name" : "推送报告",
+          "uid" : "2d616c3619fc2a62",
+          "parentUid" : "bb43b22cabf043f476c7e83182b82a44",
+          "status" : "broken",
+          "time" : {
+            "start" : 1595573431014,
+            "stop" : 1595573431014,
+            "duration" : 0
+          },
+          "flaky" : false,
+          "newFailed" : false,
+          "parameters" : [ "'{\n        \"appKey\": \"ab99093d26ef45c59eb1cf6bae3a1263\",\n        \"Content-Type\": \"application/json;charset=UTF-8 \"\n}'", "'{'code': 300, 'message': 'sampleTestTime不能为空！', 'data': None}'", "'{\n    \"hosBarCode\": \"UC5VUkwuQ04vMFAkOUhCUElIUTZRRE8wRlNGLg==\",\n    \"sampleTestNo\": \"10000001\",\n    \"sampleReceiveTime\": \"1594349278\",\n    \"sampleTestTime\": \"\",\n    \"sampleReportTime\": \"1594349278\",\n    \"testPeople\": \"checkname\",\n    \"reviewPeople\": \"checkname2\",\n    \"testMethod\": \"人乳头瘤测试\",\n    \"sampleType\": 36,\n    \"sampleStatus\": 1,\n    \"sampleStatusShow\": \"合格\",\n    \"testContent\": \"人乳头瘤病毒test\",\n    \"testResult\": \"人乳头瘤病毒高危型感染\",\n    \"testItem\": [\n        {\n            \"subType\": \"HPV16 \",\n            \"result\": 0,\n            \"infectUnit\": \"92.16（11.59%）\"\n        },\n        {\n            \"subType\": \"HPV18\",\n            \"result\": 0,\n            \"infectUnit\": \"\"\n        },\n        {\n            \"subType\": \"HPV26\",\n            \"result\": 0,\n            \"infectUnit\": \"88.38%（11.59%）\"\n        },\n        {\n            \"subType\": \"HPV31\",\n            \"result\": 0,\n            \"infectUnit\": \"\"\n        },\n        {\n            \"subType\": \"HPV33\",\n            \"result\": 0,\n            \"infectUnit\": \"92.16（11.59%）\"\n        },\n        {\n            \"subType\": \"HPV35\",\n            \"result\": 0,\n            \"infectUnit\": \"\"\n        },\n        {\n            \"subType\": \"HPV39\",\n            \"result\": 0,\n            \"infectUnit\": \"88.38%（11.59%）\"\n        },\n        {\n            \"subType\": \"HPV45\",\n            \"result\": 0,\n            \"infectUnit\": \"\"\n        },\n        {\n            \"subType\": \"HPV51 \",\n            \"result\": 0,\n            \"infectUnit\": \"92.16（11.59%）\"\n        },\n        {\n            \"subType\": \"HPV52\",\n            \"result\": 0,\n            \"infectUnit\": \"\"\n        },\n        {\n            \"subType\": \"HPV53\",\n            \"result\": 0,\n            \"infectUnit\": \"88.38%（11.59%）\"\n        },\n        {\n            \"subType\": \"HPV56\",\n            \"result\": 0,\n            \"infectUnit\": \"\"\n        },\n        {\n            \"subType\": \"HPV58\",\n            \"result\": 0,\n            \"infectUnit\": \"92.16（11.59%）\"\n        },\n        {\n            \"subType\": \"HPV59\",\n            \"result\": 0,\n            \"infectUnit\": \"\"\n        },\n        {\n            \"subType\": \"HPV66\",\n            \"result\": 0,\n            \"infectUnit\": \"88.38%（11.59%）\"\n        },\n        {\n            \"subType\": \"HPV68\",\n            \"result\": 0,\n            \"infectUnit\": \"\"\n        },\n        {\n            \"subType\": \"HPV73\",\n            \"result\": 0,\n            \"infectUnit\": \"88.38%（11.59%）\"\n        },\n        {\n            \"subType\": \"HPV82\",\n            \"result\": 0,\n            \"infectUnit\": \"\"\n        },\n        {\n            \"subType\": \"HPV6\",\n            \"result\": 0,\n            \"infectUnit\": \"\"\n        },\n        {\n            \"subType\": \"HPV11\",\n            \"result\": 0,\n            \"infectUnit\": \"88.38%（11.59%）\"\n        },\n        {\n            \"subType\": \"HPV81\",\n            \"result\": 0,\n            \"infectUnit\": \"\"\n        },\n    ]\n}'" ]
+        }, {
+          "name" : "推送报告",
+          "uid" : "4426fbda114df429",
+          "parentUid" : "bb43b22cabf043f476c7e83182b82a44",
+          "status" : "broken",
+          "time" : {
+            "start" : 1595573431021,
+            "stop" : 1595573431021,
+            "duration" : 0
+          },
+          "flaky" : false,
+          "newFailed" : false,
+          "parameters" : [ "'{\n        \"appKey\": \"ab99093d26ef45c59eb1cf6bae3a1263\",\n        \"Content-Type\": \"application/json;charset=UTF-8 \"\n}'", "'{'code': 300, 'message': 'sampleReportTime不能为空！', 'data': None}'", "'{\n    \"hosBarCode\": \"UC5VUkwuQ04vMFAkOUhCUElIUTZRRE8wRlNGLg==\",\n    \"sampleTestNo\": \"10000001\",\n    \"sampleReceiveTime\": \"1594349278\",\n    \"sampleTestTime\": \"1594349278\",\n    \"sampleReportTime\": \"\",\n    \"testPeople\": \"checkname\",\n    \"reviewPeople\": \"checkname2\",\n    \"testMethod\": \"人乳头瘤测试\",\n    \"sampleType\": 36,\n    \"sampleStatus\": 1,\n    \"sampleStatusShow\": \"合格\",\n    \"testContent\": \"人乳头瘤病毒test\",\n    \"testResult\": \"人乳头瘤病毒高危型感染\",\n    \"testItem\": [\n        {\n            \"subType\": \"HPV16 \",\n            \"result\": 0,\n            \"infectUnit\": \"92.16（11.59%）\"\n        },\n        {\n            \"subType\": \"HPV18\",\n            \"result\": 0,\n            \"infectUnit\": \"\"\n        },\n        {\n            \"subType\": \"HPV26\",\n            \"result\": 0,\n            \"infectUnit\": \"88.38%（11.59%）\"\n        },\n        {\n            \"subType\": \"HPV31\",\n            \"result\": 0,\n            \"infectUnit\": \"\"\n        },\n        {\n            \"subType\": \"HPV33\",\n            \"result\": 0,\n            \"infectUnit\": \"92.16（11.59%）\"\n        },\n        {\n            \"subType\": \"HPV35\",\n            \"result\": 0,\n            \"infectUnit\": \"\"\n        },\n        {\n            \"subType\": \"HPV39\",\n            \"result\": 0,\n            \"infectUnit\": \"88.38%（11.59%）\"\n        },\n        {\n            \"subType\": \"HPV45\",\n            \"result\": 0,\n            \"infectUnit\": \"\"\n        },\n        {\n            \"subType\": \"HPV51 \",\n            \"result\": 0,\n            \"infectUnit\": \"92.16（11.59%）\"\n        },\n        {\n            \"subType\": \"HPV52\",\n            \"result\": 0,\n            \"infectUnit\": \"\"\n        },\n        {\n            \"subType\": \"HPV53\",\n            \"result\": 0,\n            \"infectUnit\": \"88.38%（11.59%）\"\n        },\n        {\n            \"subType\": \"HPV56\",\n            \"result\": 0,\n            \"infectUnit\": \"\"\n        },\n        {\n            \"subType\": \"HPV58\",\n            \"result\": 0,\n            \"infectUnit\": \"92.16（11.59%）\"\n        },\n        {\n            \"subType\": \"HPV59\",\n            \"result\": 0,\n            \"infectUnit\": \"\"\n        },\n        {\n            \"subType\": \"HPV66\",\n            \"result\": 0,\n            \"infectUnit\": \"88.38%（11.59%）\"\n        },\n        {\n            \"subType\": \"HPV68\",\n            \"result\": 0,\n            \"infectUnit\": \"\"\n        },\n        {\n            \"subType\": \"HPV73\",\n            \"result\": 0,\n            \"infectUnit\": \"88.38%（11.59%）\"\n        },\n        {\n            \"subType\": \"HPV82\",\n            \"result\": 0,\n            \"infectUnit\": \"\"\n        },\n        {\n            \"subType\": \"HPV6\",\n            \"result\": 0,\n            \"infectUnit\": \"\"\n        },\n        {\n            \"subType\": \"HPV11\",\n            \"result\": 0,\n            \"infectUnit\": \"88.38%（11.59%）\"\n        },\n        {\n            \"subType\": \"HPV81\",\n            \"result\": 0,\n            \"infectUnit\": \"\"\n        },\n    ]\n}'" ]
+        }, {
+          "name" : "推送报告",
+          "uid" : "576c1ef43992947",
+          "parentUid" : "bb43b22cabf043f476c7e83182b82a44",
+          "status" : "broken",
+          "time" : {
+            "start" : 1595573431028,
+            "stop" : 1595573431028,
+            "duration" : 0
+          },
+          "flaky" : false,
+          "newFailed" : false,
+          "parameters" : [ "'{\n        \"appKey\": \"ab99093d26ef45c59eb1cf6bae3a1263\",\n        \"Content-Type\": \"application/json;charset=UTF-8 \"\n}'", "'{'code': 300, 'message': 'testPeople不能为空！', 'data': None}'", "'{\n    \"hosBarCode\": \"UC5VUkwuQ04vMFAkOUhCUElIUTZRRE8wRlNGLg==\",\n    \"sampleTestNo\": \"10000001\",\n    \"sampleReceiveTime\": \"1594349278\",\n    \"sampleTestTime\": \"1594349278\",\n    \"sampleReportTime\": \"1594349278\",\n    \"testPeople\": \"\",\n    \"reviewPeople\": \"checkname2\",\n    \"testMethod\": \"人乳头瘤测试\",\n    \"sampleType\": 36,\n    \"sampleStatus\": 1,\n    \"sampleStatusShow\": \"合格\",\n    \"testContent\": \"人乳头瘤病毒test\",\n    \"testResult\": \"人乳头瘤病毒高危型感染\",\n    \"testItem\": [\n        {\n            \"subType\": \"HPV16 \",\n            \"result\": 0,\n            \"infectUnit\": \"92.16（11.59%）\"\n        },\n        {\n            \"subType\": \"HPV18\",\n            \"result\": 0,\n            \"infectUnit\": \"\"\n        },\n        {\n            \"subType\": \"HPV26\",\n            \"result\": 0,\n            \"infectUnit\": \"88.38%（11.59%）\"\n        },\n        {\n            \"subType\": \"HPV31\",\n            \"result\": 0,\n            \"infectUnit\": \"\"\n        },\n        {\n            \"subType\": \"HPV33\",\n            \"result\": 0,\n            \"infectUnit\": \"92.16（11.59%）\"\n        },\n        {\n            \"subType\": \"HPV35\",\n            \"result\": 0,\n            \"infectUnit\": \"\"\n        },\n        {\n            \"subType\": \"HPV39\",\n            \"result\": 0,\n            \"infectUnit\": \"88.38%（11.59%）\"\n        },\n        {\n            \"subType\": \"HPV45\",\n            \"result\": 0,\n            \"infectUnit\": \"\"\n        },\n        {\n            \"subType\": \"HPV51 \",\n            \"result\": 0,\n            \"infectUnit\": \"92.16（11.59%）\"\n        },\n        {\n            \"subType\": \"HPV52\",\n            \"result\": 0,\n            \"infectUnit\": \"\"\n        },\n        {\n            \"subType\": \"HPV53\",\n            \"result\": 0,\n            \"infectUnit\": \"88.38%（11.59%）\"\n        },\n        {\n            \"subType\": \"HPV56\",\n            \"result\": 0,\n            \"infectUnit\": \"\"\n        },\n        {\n            \"subType\": \"HPV58\",\n            \"result\": 0,\n            \"infectUnit\": \"92.16（11.59%）\"\n        },\n        {\n            \"subType\": \"HPV59\",\n            \"result\": 0,\n            \"infectUnit\": \"\"\n        },\n        {\n            \"subType\": \"HPV66\",\n            \"result\": 0,\n            \"infectUnit\": \"88.38%（11.59%）\"\n        },\n        {\n            \"subType\": \"HPV68\",\n            \"result\": 0,\n            \"infectUnit\": \"\"\n        },\n        {\n            \"subType\": \"HPV73\",\n            \"result\": 0,\n            \"infectUnit\": \"88.38%（11.59%）\"\n        },\n        {\n            \"subType\": \"HPV82\",\n            \"result\": 0,\n            \"infectUnit\": \"\"\n        },\n        {\n            \"subType\": \"HPV6\",\n            \"result\": 0,\n            \"infectUnit\": \"\"\n        },\n        {\n            \"subType\": \"HPV11\",\n            \"result\": 0,\n            \"infectUnit\": \"88.38%（11.59%）\"\n        },\n        {\n            \"subType\": \"HPV81\",\n            \"result\": 0,\n            \"infectUnit\": \"\"\n        },\n    ]\n}'" ]
+        }, {
+          "name" : "推送报告",
+          "uid" : "728cb3abc7fa6efd",
+          "parentUid" : "bb43b22cabf043f476c7e83182b82a44",
+          "status" : "broken",
+          "time" : {
+            "start" : 1595573431034,
+            "stop" : 1595573431034,
+            "duration" : 0
+          },
+          "flaky" : false,
+          "newFailed" : false,
+          "parameters" : [ "'{\n        \"appKey\": \"ab99093d26ef45c59eb1cf6bae3a1263\",\n        \"Content-Type\": \"application/json;charset=UTF-8 \"\n}'", "'{'code': 300, 'message': 'reviewPeople不能为空！', 'data': None}'", "'{\n    \"hosBarCode\": \"UC5VUkwuQ04vMFAkOUhCUElIUTZRRE8wRlNGLg==\",\n    \"sampleTestNo\": \"10000001\",\n    \"sampleReceiveTime\": \"1594349278\",\n    \"sampleTestTime\": \"1594349278\",\n    \"sampleReportTime\": \"1594349278\",\n    \"testPeople\": \"checkname\",\n    \"reviewPeople\": \"\",\n    \"testMethod\": \"人乳头瘤测试\",\n    \"sampleType\": 36,\n    \"sampleStatus\": 1,\n    \"sampleStatusShow\": \"合格\",\n    \"testContent\": \"人乳头瘤病毒test\",\n    \"testResult\": \"人乳头瘤病毒高危型感染\",\n    \"testItem\": [\n        {\n            \"subType\": \"HPV16 \",\n            \"result\": 0,\n            \"infectUnit\": \"92.16（11.59%）\"\n        },\n        {\n            \"subType\": \"HPV18\",\n            \"result\": 0,\n            \"infectUnit\": \"\"\n        },\n        {\n            \"subType\": \"HPV26\",\n            \"result\": 0,\n            \"infectUnit\": \"88.38%（11.59%）\"\n        },\n        {\n            \"subType\": \"HPV31\",\n            \"result\": 0,\n            \"infectUnit\": \"\"\n        },\n        {\n            \"subType\": \"HPV33\",\n            \"result\": 0,\n            \"infectUnit\": \"92.16（11.59%）\"\n        },\n        {\n            \"subType\": \"HPV35\",\n            \"result\": 0,\n            \"infectUnit\": \"\"\n        },\n        {\n            \"subType\": \"HPV39\",\n            \"result\": 0,\n            \"infectUnit\": \"88.38%（11.59%）\"\n        },\n        {\n            \"subType\": \"HPV45\",\n            \"result\": 0,\n            \"infectUnit\": \"\"\n        },\n        {\n            \"subType\": \"HPV51 \",\n            \"result\": 0,\n            \"infectUnit\": \"92.16（11.59%）\"\n        },\n        {\n            \"subType\": \"HPV52\",\n            \"result\": 0,\n            \"infectUnit\": \"\"\n        },\n        {\n            \"subType\": \"HPV53\",\n            \"result\": 0,\n            \"infectUnit\": \"88.38%（11.59%）\"\n        },\n        {\n            \"subType\": \"HPV56\",\n            \"result\": 0,\n            \"infectUnit\": \"\"\n        },\n        {\n            \"subType\": \"HPV58\",\n            \"result\": 0,\n            \"infectUnit\": \"92.16（11.59%）\"\n        },\n        {\n            \"subType\": \"HPV59\",\n            \"result\": 0,\n            \"infectUnit\": \"\"\n        },\n        {\n            \"subType\": \"HPV66\",\n            \"result\": 0,\n            \"infectUnit\": \"88.38%（11.59%）\"\n        },\n        {\n            \"subType\": \"HPV68\",\n            \"result\": 0,\n            \"infectUnit\": \"\"\n        },\n        {\n            \"subType\": \"HPV73\",\n            \"result\": 0,\n            \"infectUnit\": \"88.38%（11.59%）\"\n        },\n        {\n            \"subType\": \"HPV82\",\n            \"result\": 0,\n            \"infectUnit\": \"\"\n        },\n        {\n            \"subType\": \"HPV6\",\n            \"result\": 0,\n            \"infectUnit\": \"\"\n        },\n        {\n            \"subType\": \"HPV11\",\n            \"result\": 0,\n            \"infectUnit\": \"88.38%（11.59%）\"\n        },\n        {\n            \"subType\": \"HPV81\",\n            \"result\": 0,\n            \"infectUnit\": \"\"\n        },\n    ]\n}'" ]
+        }, {
+          "name" : "推送报告",
+          "uid" : "e6b22f64ece32460",
+          "parentUid" : "bb43b22cabf043f476c7e83182b82a44",
+          "status" : "broken",
+          "time" : {
+            "start" : 1595573431041,
+            "stop" : 1595573431041,
+            "duration" : 0
+          },
+          "flaky" : false,
+          "newFailed" : false,
+          "parameters" : [ "'{\n        \"appKey\": \"ab99093d26ef45c59eb1cf6bae3a1263\",\n        \"Content-Type\": \"application/json;charset=UTF-8 \"\n}'", "'{'code': 300, 'message': 'testMethod不能为空！', 'data': None}'", "'{\n    \"hosBarCode\": \"UC5VUkwuQ04vMFAkOUhCUElIUTZRRE8wRlNGLg==\",\n    \"sampleTestNo\": \"10000001\",\n    \"sampleReceiveTime\": \"1594349278\",\n    \"sampleTestTime\": \"1594349278\",\n    \"sampleReportTime\": \"1594349278\",\n    \"testPeople\": \"checkname\",\n    \"reviewPeople\": \"checkname2\",\n    \"testMethod\": \"\",\n    \"sampleType\": 36,\n    \"sampleStatus\": 1,\n    \"sampleStatusShow\": \"合格\",\n    \"testContent\": \"人乳头瘤病毒test\",\n    \"testResult\": \"人乳头瘤病毒高危型感染\",\n    \"testItem\": [\n        {\n            \"subType\": \"HPV16 \",\n            \"result\": 0,\n            \"infectUnit\": \"92.16（11.59%）\"\n        },\n        {\n            \"subType\": \"HPV18\",\n            \"result\": 0,\n            \"infectUnit\": \"\"\n        },\n        {\n            \"subType\": \"HPV26\",\n            \"result\": 0,\n            \"infectUnit\": \"88.38%（11.59%）\"\n        },\n        {\n            \"subType\": \"HPV31\",\n            \"result\": 0,\n            \"infectUnit\": \"\"\n        },\n        {\n            \"subType\": \"HPV33\",\n            \"result\": 0,\n            \"infectUnit\": \"92.16（11.59%）\"\n        },\n        {\n            \"subType\": \"HPV35\",\n            \"result\": 0,\n            \"infectUnit\": \"\"\n        },\n        {\n            \"subType\": \"HPV39\",\n            \"result\": 0,\n            \"infectUnit\": \"88.38%（11.59%）\"\n        },\n        {\n            \"subType\": \"HPV45\",\n            \"result\": 0,\n            \"infectUnit\": \"\"\n        },\n        {\n            \"subType\": \"HPV51 \",\n            \"result\": 0,\n            \"infectUnit\": \"92.16（11.59%）\"\n        },\n        {\n            \"subType\": \"HPV52\",\n            \"result\": 0,\n            \"infectUnit\": \"\"\n        },\n        {\n            \"subType\": \"HPV53\",\n            \"result\": 0,\n            \"infectUnit\": \"88.38%（11.59%）\"\n        },\n        {\n            \"subType\": \"HPV56\",\n            \"result\": 0,\n            \"infectUnit\": \"\"\n        },\n        {\n            \"subType\": \"HPV58\",\n            \"result\": 0,\n            \"infectUnit\": \"92.16（11.59%）\"\n        },\n        {\n            \"subType\": \"HPV59\",\n            \"result\": 0,\n            \"infectUnit\": \"\"\n        },\n        {\n            \"subType\": \"HPV66\",\n            \"result\": 0,\n            \"infectUnit\": \"88.38%（11.59%）\"\n        },\n        {\n            \"subType\": \"HPV68\",\n            \"result\": 0,\n            \"infectUnit\": \"\"\n        },\n        {\n            \"subType\": \"HPV73\",\n            \"result\": 0,\n            \"infectUnit\": \"88.38%（11.59%）\"\n        },\n        {\n            \"subType\": \"HPV82\",\n            \"result\": 0,\n            \"infectUnit\": \"\"\n        },\n        {\n            \"subType\": \"HPV6\",\n            \"result\": 0,\n            \"infectUnit\": \"\"\n        },\n        {\n            \"subType\": \"HPV11\",\n            \"result\": 0,\n            \"infectUnit\": \"88.38%（11.59%）\"\n        },\n        {\n            \"subType\": \"HPV81\",\n            \"result\": 0,\n            \"infectUnit\": \"\"\n        },\n    ]\n}'" ]
+        }, {
+          "name" : "推送报告",
+          "uid" : "ea786f71c323c730",
+          "parentUid" : "bb43b22cabf043f476c7e83182b82a44",
+          "status" : "broken",
+          "time" : {
+            "start" : 1595573431047,
+            "stop" : 1595573431047,
+            "duration" : 0
+          },
+          "flaky" : false,
+          "newFailed" : false,
+          "parameters" : [ "'{\n        \"appKey\": \"ab99093d26ef45c59eb1cf6bae3a1263\",\n        \"Content-Type\": \"application/json;charset=UTF-8 \"\n}'", "'{'code': 300, 'message': 'sampleType不能为空！', 'data': None}'", "'{\n    \"hosBarCode\": \"UC5VUkwuQ04vMFAkOUhCUElIUTZRRE8wRlNGLg==\",\n    \"sampleTestNo\": \"10000001\",\n    \"sampleReceiveTime\": \"1594349278\",\n    \"sampleTestTime\": \"1594349278\",\n    \"sampleReportTime\": \"1594349278\",\n    \"testPeople\": \"checkname\",\n    \"reviewPeople\": \"checkname2\",\n    \"testMethod\": \"人乳头瘤测试\",\n    \"sampleType\": ,\n    \"sampleStatus\": 1,\n    \"sampleStatusShow\": \"合格\",\n    \"testContent\": \"人乳头瘤病毒test\",\n    \"testResult\": \"人乳头瘤病毒高危型感染\",\n    \"testItem\": [\n        {\n            \"subType\": \"HPV16 \",\n            \"result\": 0,\n            \"infectUnit\": \"92.16（11.59%）\"\n        },\n        {\n            \"subType\": \"HPV18\",\n            \"result\": 0,\n            \"infectUnit\": \"\"\n        },\n        {\n            \"subType\": \"HPV26\",\n            \"result\": 0,\n            \"infectUnit\": \"88.38%（11.59%）\"\n        },\n        {\n            \"subType\": \"HPV31\",\n            \"result\": 0,\n            \"infectUnit\": \"\"\n        },\n        {\n            \"subType\": \"HPV33\",\n            \"result\": 0,\n            \"infectUnit\": \"92.16（11.59%）\"\n        },\n        {\n            \"subType\": \"HPV35\",\n            \"result\": 0,\n            \"infectUnit\": \"\"\n        },\n        {\n            \"subType\": \"HPV39\",\n            \"result\": 0,\n            \"infectUnit\": \"88.38%（11.59%）\"\n        },\n        {\n            \"subType\": \"HPV45\",\n            \"result\": 0,\n            \"infectUnit\": \"\"\n        },\n        {\n            \"subType\": \"HPV51 \",\n            \"result\": 0,\n            \"infectUnit\": \"92.16（11.59%）\"\n        },\n        {\n            \"subType\": \"HPV52\",\n            \"result\": 0,\n            \"infectUnit\": \"\"\n        },\n        {\n            \"subType\": \"HPV53\",\n            \"result\": 0,\n            \"infectUnit\": \"88.38%（11.59%）\"\n        },\n        {\n            \"subType\": \"HPV56\",\n            \"result\": 0,\n            \"infectUnit\": \"\"\n        },\n        {\n            \"subType\": \"HPV58\",\n            \"result\": 0,\n            \"infectUnit\": \"92.16（11.59%）\"\n        },\n        {\n            \"subType\": \"HPV59\",\n            \"result\": 0,\n            \"infectUnit\": \"\"\n        },\n        {\n            \"subType\": \"HPV66\",\n            \"result\": 0,\n            \"infectUnit\": \"88.38%（11.59%）\"\n        },\n        {\n            \"subType\": \"HPV68\",\n            \"result\": 0,\n            \"infectUnit\": \"\"\n        },\n        {\n            \"subType\": \"HPV73\",\n            \"result\": 0,\n            \"infectUnit\": \"88.38%（11.59%）\"\n        },\n        {\n            \"subType\": \"HPV82\",\n            \"result\": 0,\n            \"infectUnit\": \"\"\n        },\n        {\n            \"subType\": \"HPV6\",\n            \"result\": 0,\n            \"infectUnit\": \"\"\n        },\n        {\n            \"subType\": \"HPV11\",\n            \"result\": 0,\n            \"infectUnit\": \"88.38%（11.59%）\"\n        },\n        {\n            \"subType\": \"HPV81\",\n            \"result\": 0,\n            \"infectUnit\": \"\"\n        },\n    ]\n}'" ]
+        }, {
+          "name" : "推送报告",
+          "uid" : "2743fea389595618",
+          "parentUid" : "bb43b22cabf043f476c7e83182b82a44",
+          "status" : "broken",
+          "time" : {
+            "start" : 1595573431054,
+            "stop" : 1595573431054,
+            "duration" : 0
+          },
+          "flaky" : false,
+          "newFailed" : false,
+          "parameters" : [ "'{\n        \"appKey\": \"ab99093d26ef45c59eb1cf6bae3a1263\",\n        \"Content-Type\": \"application/json;charset=UTF-8 \"\n}'", "'{'code': 300, 'message': 'sampleStatus不能为空！', 'data': None}'", "'{\n    \"hosBarCode\": \"UC5VUkwuQ04vMFAkOUhCUElIUTZRRE8wRlNGLg==\",\n    \"sampleTestNo\": \"10000001\",\n    \"sampleReceiveTime\": \"1594349278\",\n    \"sampleTestTime\": \"1594349278\",\n    \"sampleReportTime\": \"1594349278\",\n    \"testPeople\": \"checkname\",\n    \"reviewPeople\": \"checkname2\",\n    \"testMethod\": \"人乳头瘤测试\",\n    \"sampleType\": 36,\n    \"sampleStatus\": ,\n    \"sampleStatusShow\": \"合格\",\n    \"testContent\": \"人乳头瘤病毒test\",\n    \"testResult\": \"人乳头瘤病毒高危型感染\",\n    \"testItem\": [\n        {\n            \"subType\": \"HPV16 \",\n            \"result\": 0,\n            \"infectUnit\": \"92.16（11.59%）\"\n        },\n        {\n            \"subType\": \"HPV18\",\n            \"result\": 0,\n            \"infectUnit\": \"\"\n        },\n        {\n            \"subType\": \"HPV26\",\n            \"result\": 0,\n            \"infectUnit\": \"88.38%（11.59%）\"\n        },\n        {\n            \"subType\": \"HPV31\",\n            \"result\": 0,\n            \"infectUnit\": \"\"\n        },\n        {\n            \"subType\": \"HPV33\",\n            \"result\": 0,\n            \"infectUnit\": \"92.16（11.59%）\"\n        },\n        {\n            \"subType\": \"HPV35\",\n            \"result\": 0,\n            \"infectUnit\": \"\"\n        },\n        {\n            \"subType\": \"HPV39\",\n            \"result\": 0,\n            \"infectUnit\": \"88.38%（11.59%）\"\n        },\n        {\n            \"subType\": \"HPV45\",\n            \"result\": 0,\n            \"infectUnit\": \"\"\n        },\n        {\n            \"subType\": \"HPV51 \",\n            \"result\": 0,\n            \"infectUnit\": \"92.16（11.59%）\"\n        },\n        {\n            \"subType\": \"HPV52\",\n            \"result\": 0,\n            \"infectUnit\": \"\"\n        },\n        {\n            \"subType\": \"HPV53\",\n            \"result\": 0,\n            \"infectUnit\": \"88.38%（11.59%）\"\n        },\n        {\n            \"subType\": \"HPV56\",\n            \"result\": 0,\n            \"infectUnit\": \"\"\n        },\n        {\n            \"subType\": \"HPV58\",\n            \"result\": 0,\n            \"infectUnit\": \"92.16（11.59%）\"\n        },\n        {\n            \"subType\": \"HPV59\",\n            \"result\": 0,\n            \"infectUnit\": \"\"\n        },\n        {\n            \"subType\": \"HPV66\",\n            \"result\": 0,\n            \"infectUnit\": \"88.38%（11.59%）\"\n        },\n        {\n            \"subType\": \"HPV68\",\n            \"result\": 0,\n            \"infectUnit\": \"\"\n        },\n        {\n            \"subType\": \"HPV73\",\n            \"result\": 0,\n            \"infectUnit\": \"88.38%（11.59%）\"\n        },\n        {\n            \"subType\": \"HPV82\",\n            \"result\": 0,\n            \"infectUnit\": \"\"\n        },\n        {\n            \"subType\": \"HPV6\",\n            \"result\": 0,\n            \"infectUnit\": \"\"\n        },\n        {\n            \"subType\": \"HPV11\",\n            \"result\": 0,\n            \"infectUnit\": \"88.38%（11.59%）\"\n        },\n        {\n            \"subType\": \"HPV81\",\n            \"result\": 0,\n            \"infectUnit\": \"\"\n        },\n    ]\n}'" ]
+        }, {
+          "name" : "推送报告",
+          "uid" : "5d5a313204ec2f44",
+          "parentUid" : "bb43b22cabf043f476c7e83182b82a44",
+          "status" : "broken",
+          "time" : {
+            "start" : 1595573431061,
+            "stop" : 1595573431061,
+            "duration" : 0
+          },
+          "flaky" : false,
+          "newFailed" : false,
+          "parameters" : [ "'{\n        \"appKey\": \"ab99093d26ef45c59eb1cf6bae3a1263\",\n        \"Content-Type\": \"application/json;charset=UTF-8 \"\n}'", "'{'code': 300, 'message': 'sampleStatusShow不能为空！', 'data': None}'", "'{\n    \"hosBarCode\": \"UC5VUkwuQ04vMFAkOUhCUElIUTZRRE8wRlNGLg==\",\n    \"sampleTestNo\": \"10000001\",\n    \"sampleReceiveTime\": \"1594349278\",\n    \"sampleTestTime\": \"1594349278\",\n    \"sampleReportTime\": \"1594349278\",\n    \"testPeople\": \"checkname\",\n    \"reviewPeople\": \"checkname2\",\n    \"testMethod\": \"人乳头瘤测试\",\n    \"sampleType\": 36,\n    \"sampleStatus\": 0,\n    \"sampleStatusShow\": \"\",\n    \"testContent\": \"人乳头瘤病毒test\",\n    \"testResult\": \"人乳头瘤病毒高危型感染\",\n    \"testItem\": [\n        {\n            \"subType\": \"HPV16 \",\n            \"result\": 0,\n            \"infectUnit\": \"92.16（11.59%）\"\n        },\n        {\n            \"subType\": \"HPV18\",\n            \"result\": 0,\n            \"infectUnit\": \"\"\n        },\n        {\n            \"subType\": \"HPV26\",\n            \"result\": 0,\n            \"infectUnit\": \"88.38%（11.59%）\"\n        },\n        {\n            \"subType\": \"HPV31\",\n            \"result\": 0,\n            \"infectUnit\": \"\"\n        },\n        {\n            \"subType\": \"HPV33\",\n            \"result\": 0,\n            \"infectUnit\": \"92.16（11.59%）\"\n        },\n        {\n            \"subType\": \"HPV35\",\n            \"result\": 0,\n            \"infectUnit\": \"\"\n        },\n        {\n            \"subType\": \"HPV39\",\n            \"result\": 0,\n            \"infectUnit\": \"88.38%（11.59%）\"\n        },\n        {\n            \"subType\": \"HPV45\",\n            \"result\": 0,\n            \"infectUnit\": \"\"\n        },\n        {\n            \"subType\": \"HPV51 \",\n            \"result\": 0,\n            \"infectUnit\": \"92.16（11.59%）\"\n        },\n        {\n            \"subType\": \"HPV52\",\n            \"result\": 0,\n            \"infectUnit\": \"\"\n        },\n        {\n            \"subType\": \"HPV53\",\n            \"result\": 0,\n            \"infectUnit\": \"88.38%（11.59%）\"\n        },\n        {\n            \"subType\": \"HPV56\",\n            \"result\": 0,\n            \"infectUnit\": \"\"\n        },\n        {\n            \"subType\": \"HPV58\",\n            \"result\": 0,\n            \"infectUnit\": \"92.16（11.59%）\"\n        },\n        {\n            \"subType\": \"HPV59\",\n            \"result\": 0,\n            \"infectUnit\": \"\"\n        },\n        {\n            \"subType\": \"HPV66\",\n            \"result\": 0,\n            \"infectUnit\": \"88.38%（11.59%）\"\n        },\n        {\n            \"subType\": \"HPV68\",\n            \"result\": 0,\n            \"infectUnit\": \"\"\n        },\n        {\n            \"subType\": \"HPV73\",\n            \"result\": 0,\n            \"infectUnit\": \"88.38%（11.59%）\"\n        },\n        {\n            \"subType\": \"HPV82\",\n            \"result\": 0,\n            \"infectUnit\": \"\"\n        },\n        {\n            \"subType\": \"HPV6\",\n            \"result\": 0,\n            \"infectUnit\": \"\"\n        },\n        {\n            \"subType\": \"HPV11\",\n            \"result\": 0,\n            \"infectUnit\": \"88.38%（11.59%）\"\n        },\n        {\n            \"subType\": \"HPV81\",\n            \"result\": 0,\n            \"infectUnit\": \"\"\n        },\n    ]\n}'" ]
+        }, {
+          "name" : "推送报告",
+          "uid" : "d9cfe78d6eb65b2c",
+          "parentUid" : "bb43b22cabf043f476c7e83182b82a44",
+          "status" : "broken",
+          "time" : {
+            "start" : 1595573431068,
+            "stop" : 1595573431068,
+            "duration" : 0
+          },
+          "flaky" : false,
+          "newFailed" : false,
+          "parameters" : [ "'{\n        \"appKey\": \"ab99093d26ef45c59eb1cf6bae3a1263\",\n        \"Content-Type\": \"application/json;charset=UTF-8 \"\n}'", "'{'code': 300, 'message': 'testContent不能为空！', 'data': None}'", "'{\n    \"hosBarCode\": \"UC5VUkwuQ04vMFAkOUhCUElIUTZRRE8wRlNGLg==\",\n    \"sampleTestNo\": \"10000001\",\n    \"sampleReceiveTime\": \"1594349278\",\n    \"sampleTestTime\": \"1594349278\",\n    \"sampleReportTime\": \"1594349278\",\n    \"testPeople\": \"checkname\",\n    \"reviewPeople\": \"checkname2\",\n    \"testMethod\": \"人乳头瘤测试\",\n    \"sampleType\": 36,\n    \"sampleStatus\": 1,\n    \"sampleStatusShow\": \"合格\",\n    \"testContent\": \"\",\n    \"testResult\": \"人乳头瘤病毒高危型感染\",\n    \"testItem\": [\n        {\n            \"subType\": \"HPV16 \",\n            \"result\": 0,\n            \"infectUnit\": \"92.16（11.59%）\"\n        },\n        {\n            \"subType\": \"HPV18\",\n            \"result\": 0,\n            \"infectUnit\": \"\"\n        },\n        {\n            \"subType\": \"HPV26\",\n            \"result\": 0,\n            \"infectUnit\": \"88.38%（11.59%）\"\n        },\n        {\n            \"subType\": \"HPV31\",\n            \"result\": 0,\n            \"infectUnit\": \"\"\n        },\n        {\n            \"subType\": \"HPV33\",\n            \"result\": 0,\n            \"infectUnit\": \"92.16（11.59%）\"\n        },\n        {\n            \"subType\": \"HPV35\",\n            \"result\": 0,\n            \"infectUnit\": \"\"\n        },\n        {\n            \"subType\": \"HPV39\",\n            \"result\": 0,\n            \"infectUnit\": \"88.38%（11.59%）\"\n        },\n        {\n            \"subType\": \"HPV45\",\n            \"result\": 0,\n            \"infectUnit\": \"\"\n        },\n        {\n            \"subType\": \"HPV51 \",\n            \"result\": 0,\n            \"infectUnit\": \"92.16（11.59%）\"\n        },\n        {\n            \"subType\": \"HPV52\",\n            \"result\": 0,\n            \"infectUnit\": \"\"\n        },\n        {\n            \"subType\": \"HPV53\",\n            \"result\": 0,\n            \"infectUnit\": \"88.38%（11.59%）\"\n        },\n        {\n            \"subType\": \"HPV56\",\n            \"result\": 0,\n            \"infectUnit\": \"\"\n        },\n        {\n            \"subType\": \"HPV58\",\n            \"result\": 0,\n            \"infectUnit\": \"92.16（11.59%）\"\n        },\n        {\n            \"subType\": \"HPV59\",\n            \"result\": 0,\n            \"infectUnit\": \"\"\n        },\n        {\n            \"subType\": \"HPV66\",\n            \"result\": 0,\n            \"infectUnit\": \"88.38%（11.59%）\"\n        },\n        {\n            \"subType\": \"HPV68\",\n            \"result\": 0,\n            \"infectUnit\": \"\"\n        },\n        {\n            \"subType\": \"HPV73\",\n            \"result\": 0,\n            \"infectUnit\": \"88.38%（11.59%）\"\n        },\n        {\n            \"subType\": \"HPV82\",\n            \"result\": 0,\n            \"infectUnit\": \"\"\n        },\n        {\n            \"subType\": \"HPV6\",\n            \"result\": 0,\n            \"infectUnit\": \"\"\n        },\n        {\n            \"subType\": \"HPV11\",\n            \"result\": 0,\n            \"infectUnit\": \"88.38%（11.59%）\"\n        },\n        {\n            \"subType\": \"HPV81\",\n            \"result\": 0,\n            \"infectUnit\": \"\"\n        },\n    ]\n}'" ]
+        }, {
+          "name" : "推送报告",
+          "uid" : "681c2d9df9e526ea",
+          "parentUid" : "bb43b22cabf043f476c7e83182b82a44",
+          "status" : "broken",
+          "time" : {
+            "start" : 1595573431074,
+            "stop" : 1595573431074,
+            "duration" : 0
+          },
+          "flaky" : false,
+          "newFailed" : false,
+          "parameters" : [ "'{\n        \"appKey\": \"ab99093d26ef45c59eb1cf6bae3a1263\",\n        \"Content-Type\": \"application/json;charset=UTF-8 \"\n}'", "'{'code': 300, 'message': 'testResult不能为空！', 'data': None}'", "'{\n    \"hosBarCode\": \"UC5VUkwuQ04vMFAkOUhCUElIUTZRRE8wRlNGLg==\",\n    \"sampleTestNo\": \"10000001\",\n    \"sampleReceiveTime\": \"1594349278\",\n    \"sampleTestTime\": \"1594349278\",\n    \"sampleReportTime\": \"1594349278\",\n    \"testPeople\": \"checkname\",\n    \"reviewPeople\": \"checkname2\",\n    \"testMethod\": \"人乳头瘤测试\",\n    \"sampleType\": 36,\n    \"sampleStatus\": 1,\n    \"sampleStatusShow\": \"合格\",\n    \"testContent\": \"人乳头瘤病毒test\",\n    \"testResult\": \"\",\n    \"testItem\": [\n        {\n            \"subType\": \"HPV16 \",\n            \"result\": 0,\n            \"infectUnit\": \"92.16（11.59%）\"\n        },\n        {\n            \"subType\": \"HPV18\",\n            \"result\": 0,\n            \"infectUnit\": \"\"\n        },\n        {\n            \"subType\": \"HPV26\",\n            \"result\": 0,\n            \"infectUnit\": \"88.38%（11.59%）\"\n        },\n        {\n            \"subType\": \"HPV31\",\n            \"result\": 0,\n            \"infectUnit\": \"\"\n        },\n        {\n            \"subType\": \"HPV33\",\n            \"result\": 0,\n            \"infectUnit\": \"92.16（11.59%）\"\n        },\n        {\n            \"subType\": \"HPV35\",\n            \"result\": 0,\n            \"infectUnit\": \"\"\n        },\n        {\n            \"subType\": \"HPV39\",\n            \"result\": 0,\n            \"infectUnit\": \"88.38%（11.59%）\"\n        },\n        {\n            \"subType\": \"HPV45\",\n            \"result\": 0,\n            \"infectUnit\": \"\"\n        },\n        {\n            \"subType\": \"HPV51 \",\n            \"result\": 0,\n            \"infectUnit\": \"92.16（11.59%）\"\n        },\n        {\n            \"subType\": \"HPV52\",\n            \"result\": 0,\n            \"infectUnit\": \"\"\n        },\n        {\n            \"subType\": \"HPV53\",\n            \"result\": 0,\n            \"infectUnit\": \"88.38%（11.59%）\"\n        },\n        {\n            \"subType\": \"HPV56\",\n            \"result\": 0,\n            \"infectUnit\": \"\"\n        },\n        {\n            \"subType\": \"HPV58\",\n            \"result\": 0,\n            \"infectUnit\": \"92.16（11.59%）\"\n        },\n        {\n            \"subType\": \"HPV59\",\n            \"result\": 0,\n            \"infectUnit\": \"\"\n        },\n        {\n            \"subType\": \"HPV66\",\n            \"result\": 0,\n            \"infectUnit\": \"88.38%（11.59%）\"\n        },\n        {\n            \"subType\": \"HPV68\",\n            \"result\": 0,\n            \"infectUnit\": \"\"\n        },\n        {\n            \"subType\": \"HPV73\",\n            \"result\": 0,\n            \"infectUnit\": \"88.38%（11.59%）\"\n        },\n        {\n            \"subType\": \"HPV82\",\n            \"result\": 0,\n            \"infectUnit\": \"\"\n        },\n        {\n            \"subType\": \"HPV6\",\n            \"result\": 0,\n            \"infectUnit\": \"\"\n        },\n        {\n            \"subType\": \"HPV11\",\n            \"result\": 0,\n            \"infectUnit\": \"88.38%（11.59%）\"\n        },\n        {\n            \"subType\": \"HPV81\",\n            \"result\": 0,\n            \"infectUnit\": \"\"\n        },\n    ]\n}'" ]
+        }, {
+          "name" : "推送报告",
+          "uid" : "755482348d1b9c30",
+          "parentUid" : "bb43b22cabf043f476c7e83182b82a44",
+          "status" : "broken",
+          "time" : {
+            "start" : 1595573431081,
+            "stop" : 1595573431081,
+            "duration" : 0
+          },
+          "flaky" : false,
+          "newFailed" : false,
+          "parameters" : [ "'{\n        \"appKey\": \"ab99093d26ef45c59eb1cf6bae3a1263\",\n        \"Content-Type\": \"application/json;charset=UTF-8 \"\n}'", "'{'code': 300, 'message': 'testItem不能为空！', 'data': None}'", "'{\n    \"hosBarCode\": \"UC5VUkwuQ04vMFAkOUhCUElIUTZRRE8wRlNGLg==\",\n    \"sampleTestNo\": \"10000001\",\n    \"sampleReceiveTime\": \"1594349278\",\n    \"sampleTestTime\": \"1594349278\",\n    \"sampleReportTime\": \"1594349278\",\n    \"testPeople\": \"checkname\",\n    \"reviewPeople\": \"checkname2\",\n    \"testMethod\": \"人乳头瘤测试\",\n    \"sampleType\": 36,\n    \"sampleStatus\": 1,\n    \"sampleStatusShow\": \"合格\",\n    \"testContent\": \"人乳头瘤病毒test\",\n    \"testResult\": \"人乳头瘤病毒高危型感染\",\n    \"testItem\": \"\"\n}'" ]
+        }, {
+          "name" : "推送报告",
+          "uid" : "2258d5bff9d890d",
+          "parentUid" : "bb43b22cabf043f476c7e83182b82a44",
+          "status" : "broken",
+          "time" : {
+            "start" : 1595573431087,
+            "stop" : 1595573431087,
+            "duration" : 0
+          },
+          "flaky" : false,
+          "newFailed" : false,
+          "parameters" : [ "'{\n        \"appKey\": \"ab99093d26ef45c59eb1cf6bae3a1263\",\n        \"Content-Type\": \"application/json;charset=UTF-8 \"\n}'", "'{'code': 300, 'message': 'testItem不能为空！', 'data': None}'", "'{\n    \"hosBarCode\": \"UC5VUkwuQ04vMFAkOUhCUElIUTZRRE8wRlNGLg==\",\n    \"sampleTestNo\": \"10000001\",\n    \"sampleReceiveTime\": \"1594349278\",\n    \"sampleTestTime\": \"1594349278\",\n    \"sampleReportTime\": \"1594349278\",\n    \"testPeople\": \"checkname\",\n    \"reviewPeople\": \"checkname2\",\n    \"testMethod\": \"人乳头瘤测试\",\n    \"sampleType\": 36,\n    \"sampleStatus\": 1,\n    \"sampleStatusShow\": \"合格\",\n    \"testContent\": \"人乳头瘤病毒test\",\n    \"testResult\": \"人乳头瘤病毒高危型感染\",\n    \"testItem\": []\n}'" ]
+        }, {
+          "name" : "删除报告",
+          "uid" : "e6af9b6591e531c0",
+          "parentUid" : "bb43b22cabf043f476c7e83182b82a44",
+          "status" : "failed",
+          "time" : {
+            "start" : 1595573431094,
+            "stop" : 1595573431130,
+            "duration" : 36
+          },
+          "flaky" : false,
+          "newFailed" : false,
+          "parameters" : [ "'{\"appKey\":\"ab99093d26ef45c59eb1cf6bae3a1263\"}'", "'{'code': 200, 'message': '成功！', 'data': None}'", "'P.URL.CN/0Q%L$BP4-J:G3I%BLV:'" ]
+        }, {
+          "name" : "删除报告",
+          "uid" : "a65523ec169169c2",
+          "parentUid" : "bb43b22cabf043f476c7e83182b82a44",
+          "status" : "passed",
+          "time" : {
+            "start" : 1595573431136,
+            "stop" : 1595573431167,
+            "duration" : 31
+          },
+          "flaky" : false,
+          "newFailed" : false,
+          "parameters" : [ "'{\"appKey\":\"ab99093d26ef45c59eb1cf6bae3a1263\"}'", "'{'code': 300, 'message': '医院外部条形码为空或长度异常！', 'data': None}'", "''" ]
+        }, {
+          "name" : "删除报告",
+          "uid" : "645d85674c3abdc4",
+          "parentUid" : "bb43b22cabf043f476c7e83182b82a44",
+          "status" : "passed",
+          "time" : {
+            "start" : 1595573431170,
+            "stop" : 1595573431208,
+            "duration" : 38
+          },
+          "flaky" : false,
+          "newFailed" : false,
+          "parameters" : [ "'{\"appKey\":\"ab99093d26ef45c59eb1cf6bae3a1263\"}'", "'{'code': 300, 'message': '样本信息不存在', 'data': None}'", "'P.URL.CN/0Q%L$BP4-J:G3I%BLV:1'" ]
+        }, {
+          "name" : "删除报告",
+          "uid" : "894eea4fa29eff9b",
+          "parentUid" : "bb43b22cabf043f476c7e83182b82a44",
+          "status" : "passed",
+          "time" : {
+            "start" : 1595573431210,
+            "stop" : 1595573431244,
+            "duration" : 34
+          },
+          "flaky" : false,
+          "newFailed" : false,
+          "parameters" : [ "'{\"appKey\":\"\"}'", "'{'code': 300, 'message': 'appkey为null，不是有效的请求', 'data': None}'", "'P.URL.CN/0Q%L$BP4-J:G3I%BLV:'" ]
+        }, {
+          "name" : "删除报告",
+          "uid" : "54c12522b05d2cb9",
+          "parentUid" : "bb43b22cabf043f476c7e83182b82a44",
+          "status" : "passed",
+          "time" : {
+            "start" : 1595573431247,
+            "stop" : 1595573431280,
+            "duration" : 33
+          },
+          "flaky" : false,
+          "newFailed" : false,
+          "parameters" : [ "'{\"appKey\":\"ab99093d26ef45c59eb1cf6bae3a12631\"}'", "'{'code': 300, 'message': 'appkey不存在或失效，不是有效的请求', 'data': None}'", "'P.URL.CN/0Q%L$BP4-J:G3I%BLV:'" ]
+        }, {
+          "name" : "删除报告",
+          "uid" : "b464028831deb711",
+          "parentUid" : "bb43b22cabf043f476c7e83182b82a44",
+          "status" : "passed",
+          "time" : {
+            "start" : 1595573431284,
+            "stop" : 1595573431315,
+            "duration" : 31
+          },
+          "flaky" : false,
+          "newFailed" : false,
+          "parameters" : [ "'{\"appKey\":\"ab99093d26ef45c59eb1cf6bae3a12632\"}'", "'{'code': 300, 'message': 'appkey不存在或失效，不是有效的请求', 'data': None}'", "'P.URL.CN/0Q%L$BP4-J:G3I%BLV:'" ]
+        }, {
+          "name" : "删除报告",
+          "uid" : "e12d7e98909b923a",
+          "parentUid" : "bb43b22cabf043f476c7e83182b82a44",
+          "status" : "passed",
+          "time" : {
+            "start" : 1595573431318,
+            "stop" : 1595573431351,
+            "duration" : 33
+          },
+          "flaky" : false,
+          "newFailed" : false,
+          "parameters" : [ "'{ \"appKey\":\"ab99093d26ef45c59eb1cf6bae3a126\"}'", "'{'code': 300, 'message': 'appkey不存在或失效，不是有效的请求', 'data': None}'", "'P.URL.CN/0Q%L$BP4-J:G3I%BLV:'" ]
+        }, {
+          "name" : "删除报告",
+          "uid" : "ed25d05e2ac52043",
+          "parentUid" : "bb43b22cabf043f476c7e83182b82a44",
+          "status" : "passed",
+          "time" : {
+            "start" : 1595573431354,
+            "stop" : 1595573431387,
+            "duration" : 33
+          },
+          "flaky" : false,
+          "newFailed" : false,
+          "parameters" : [ "'{\"appKey\":\"ab99093d26ef45c59eb1cf6bae3a1263\"}'", "'{'code': 300, 'message': '样本信息不存在', 'data': None}'", "'P.URL.CN/0Q%L$BP4-J:G3I%BLV:000'" ]
+        } ],
+        "uid" : "bb43b22cabf043f476c7e83182b82a44"
+      } ],
+      "uid" : "090da85b0748d0828025e7f7c7bf09c7"
+    } ],
+    "uid" : "7d3977dcbf31acd3e26ecbe96342e45e"
+  } ]
+}

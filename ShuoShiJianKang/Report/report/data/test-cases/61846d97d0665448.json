@@ -1,0 +1,93 @@
+{
+  "uid" : "61846d97d0665448",
+  "name" : "查询用户信息用例",
+  "fullName" : "testcase.test_runner.TestZuser_info#test_chaxun_report",
+  "historyId" : "b9c742c05fe221fce9824005e6555e16",
+  "time" : {
+    "start" : 1595573430755,
+    "stop" : 1595573430793,
+    "duration" : 38
+  },
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "severity",
+    "value" : "normal"
+  }, {
+    "name" : "story",
+    "value" : "01检验所查询用户信息"
+  }, {
+    "name" : "feature",
+    "value" : "接口集"
+  }, {
+    "name" : "tag",
+    "value" : "user_info_select"
+  }, {
+    "name" : "parentSuite",
+    "value" : "testcase"
+  }, {
+    "name" : "suite",
+    "value" : "test_runner"
+  }, {
+    "name" : "subSuite",
+    "value" : "TestZuser_info"
+  }, {
+    "name" : "host",
+    "value" : "DESKTOP-GDCOEPJ"
+  }, {
+    "name" : "thread",
+    "value" : "14656-MainThread"
+  }, {
+    "name" : "framework",
+    "value" : "pytest"
+  }, {
+    "name" : "language",
+    "value" : "cpython3"
+  }, {
+    "name" : "package",
+    "value" : "testcase.test_runner"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ {
+    "name" : "inData",
+    "value" : "'{\"appKey\":\"ab99093d26ef45c59eb1cf6bae3a1263\"}'"
+  }, {
+    "name" : "repsData",
+    "value" : "'{'code': 300, 'data': None, 'message': '医院外部条形码对应的样本信息不存在！'}'"
+  }, {
+    "name" : "twData",
+    "value" : "'P.URL.CN/0Q%L$BP4-J:G3I%BLV:1'"
+  } ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ {
+      "uid" : "588d5e3cb5c6012b",
+      "status" : "passed",
+      "time" : {
+        "start" : 1593333938060,
+        "stop" : 1593333938103,
+        "duration" : 43
+      }
+    }, {
+      "uid" : "51f7ae105a27eee1",
+      "status" : "passed",
+      "time" : {
+        "start" : 1593333883739,
+        "stop" : 1593333883781,
+        "duration" : 42
+      }
+    } ],
+    "categories" : [ ],
+    "tags" : [ "user_info_select" ]
+  },
+  "source" : "61846d97d0665448.json",
+  "parameterValues" : [ "'{\"appKey\":\"ab99093d26ef45c59eb1cf6bae3a1263\"}'", "'{'code': 300, 'data': None, 'message': '医院外部条形码对应的样本信息不存在！'}'", "'P.URL.CN/0Q%L$BP4-J:G3I%BLV:1'" ]
+}

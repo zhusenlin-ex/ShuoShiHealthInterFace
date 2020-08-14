@@ -1,0 +1,75 @@
+{
+  "uid" : "e8f752d75d81f264",
+  "name" : "删除报告",
+  "fullName" : "testcase.test_runner.TestZuser_info#test_delete_report",
+  "historyId" : "deec85b5e0f807782834b36b7364b11d",
+  "time" : {
+    "start" : 1593333884961,
+    "stop" : 1593333884998,
+    "duration" : 37
+  },
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "severity",
+    "value" : "normal"
+  }, {
+    "name" : "story",
+    "value" : "删除报告信息"
+  }, {
+    "name" : "feature",
+    "value" : "检验所模块"
+  }, {
+    "name" : "tag",
+    "value" : "user_info_select"
+  }, {
+    "name" : "parentSuite",
+    "value" : "testcase"
+  }, {
+    "name" : "suite",
+    "value" : "test_runner"
+  }, {
+    "name" : "subSuite",
+    "value" : "TestZuser_info"
+  }, {
+    "name" : "host",
+    "value" : "DESKTOP-GDCOEPJ"
+  }, {
+    "name" : "thread",
+    "value" : "25404-MainThread"
+  }, {
+    "name" : "framework",
+    "value" : "pytest"
+  }, {
+    "name" : "language",
+    "value" : "cpython3"
+  }, {
+    "name" : "package",
+    "value" : "testcase.test_runner"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ {
+    "name" : "inData",
+    "value" : "'{\"appKey\":\"ab99093d26ef45c59eb1cf6bae3a1263\"}'"
+  }, {
+    "name" : "repsData",
+    "value" : "'{'code': 300, 'message': '医院外部条形码为空或长度异常！', 'data': None}'"
+  }, {
+    "name" : "twData",
+    "value" : "''"
+  } ],
+  "links" : [ ],
+  "hidden" : true,
+  "retry" : true,
+  "extra" : {
+    "categories" : [ ],
+    "tags" : [ "user_info_select" ]
+  },
+  "source" : "e8f752d75d81f264.json",
+  "parameterValues" : [ "'{\"appKey\":\"ab99093d26ef45c59eb1cf6bae3a1263\"}'", "'{'code': 300, 'message': '医院外部条形码为空或长度异常！', 'data': None}'", "''" ]
+}

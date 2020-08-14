@@ -1,0 +1,74 @@
+{
+  "uid" : "6e7cbc9d63739ccb",
+  "name" : "查询用户信息用例",
+  "fullName" : "test_runner.TestZuser_info#test_chaxun_report",
+  "historyId" : "b721c8a8223229dadf6626fd3ec1d7e8",
+  "time" : {
+    "start" : 1593333807981,
+    "stop" : 1593333808026,
+    "duration" : 45
+  },
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "feature",
+    "value" : "检验所模块"
+  }, {
+    "name" : "severity",
+    "value" : "normal"
+  }, {
+    "name" : "story",
+    "value" : "检验所查询用户信息"
+  }, {
+    "name" : "tag",
+    "value" : "user_info_select"
+  }, {
+    "name" : "suite",
+    "value" : "test_runner"
+  }, {
+    "name" : "subSuite",
+    "value" : "TestZuser_info"
+  }, {
+    "name" : "host",
+    "value" : "DESKTOP-GDCOEPJ"
+  }, {
+    "name" : "thread",
+    "value" : "5324-MainThread"
+  }, {
+    "name" : "framework",
+    "value" : "pytest"
+  }, {
+    "name" : "language",
+    "value" : "cpython3"
+  }, {
+    "name" : "package",
+    "value" : "test_runner"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ {
+    "name" : "inData",
+    "value" : "'{\"appKey\":\"ab99093d26ef45c59eb1cf6bae3a1263\"}'"
+  }, {
+    "name" : "repsData",
+    "value" : "'{'code': 300, 'data': None, 'message': '医院外部条形码对应的样本信息不存在！'}'"
+  }, {
+    "name" : "twData",
+    "value" : "'P.URL.CN/0Q%L$BP4-J:G3I%BLV:1'"
+  } ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ "user_info_select" ]
+  },
+  "source" : "6e7cbc9d63739ccb.json",
+  "parameterValues" : [ "'{\"appKey\":\"ab99093d26ef45c59eb1cf6bae3a1263\"}'", "'{'code': 300, 'data': None, 'message': '医院外部条形码对应的样本信息不存在！'}'", "'P.URL.CN/0Q%L$BP4-J:G3I%BLV:1'" ]
+}

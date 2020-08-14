@@ -1,0 +1,75 @@
+{
+  "uid" : "66414b72a2f99c0e",
+  "name" : "查询用户信息用例",
+  "fullName" : "testcase.test_runner.TestZuser_info#test_chaxun_report",
+  "historyId" : "608d4fdff104d9a8d1a60c60780168f2",
+  "time" : {
+    "start" : 1593333883785,
+    "stop" : 1593333883818,
+    "duration" : 33
+  },
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "story",
+    "value" : "检验所查询用户信息"
+  }, {
+    "name" : "severity",
+    "value" : "normal"
+  }, {
+    "name" : "feature",
+    "value" : "检验所模块"
+  }, {
+    "name" : "tag",
+    "value" : "user_info_select"
+  }, {
+    "name" : "parentSuite",
+    "value" : "testcase"
+  }, {
+    "name" : "suite",
+    "value" : "test_runner"
+  }, {
+    "name" : "subSuite",
+    "value" : "TestZuser_info"
+  }, {
+    "name" : "host",
+    "value" : "DESKTOP-GDCOEPJ"
+  }, {
+    "name" : "thread",
+    "value" : "25404-MainThread"
+  }, {
+    "name" : "framework",
+    "value" : "pytest"
+  }, {
+    "name" : "language",
+    "value" : "cpython3"
+  }, {
+    "name" : "package",
+    "value" : "testcase.test_runner"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ {
+    "name" : "inData",
+    "value" : "'{\"appKey\":\"\"}'"
+  }, {
+    "name" : "repsData",
+    "value" : "'{'code': 300, 'data': None, 'message': 'appkey为null，不是有效的请求'}'"
+  }, {
+    "name" : "twData",
+    "value" : "'P.URL.CN/0Q%L$BP4-J:G3I%BLV:'"
+  } ],
+  "links" : [ ],
+  "hidden" : true,
+  "retry" : true,
+  "extra" : {
+    "categories" : [ ],
+    "tags" : [ "user_info_select" ]
+  },
+  "source" : "66414b72a2f99c0e.json",
+  "parameterValues" : [ "'{\"appKey\":\"\"}'", "'{'code': 300, 'data': None, 'message': 'appkey为null，不是有效的请求'}'", "'P.URL.CN/0Q%L$BP4-J:G3I%BLV:'" ]
+}

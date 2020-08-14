@@ -1,0 +1,1542 @@
+{
+  "392f6431bff3a786c57240ce1812c7e8" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "7b1f14fed3a67ccf",
+      "status" : "passed",
+      "time" : {
+        "start" : 1593333939039,
+        "stop" : 1593333939077,
+        "duration" : 38
+      }
+    } ]
+  },
+  "831ec40a93b6d27e4f776da36a91aa1c" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "796fbcda88614f8",
+      "status" : "passed",
+      "time" : {
+        "start" : 1593333808472,
+        "stop" : 1593333808513,
+        "duration" : 41
+      }
+    } ]
+  },
+  "587c1347d04fddf0813e4ad02bda617c" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "818a6e576a8f92e2",
+      "status" : "passed",
+      "time" : {
+        "start" : 1593333808516,
+        "stop" : 1593333808552,
+        "duration" : 36
+      }
+    } ]
+  },
+  "e4c0db7f1bbe7cd43dd891be5ad3f715" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "706ec939eb4ed9a3",
+      "status" : "passed",
+      "time" : {
+        "start" : 1593333808029,
+        "stop" : 1593333808065,
+        "duration" : 36
+      }
+    } ]
+  },
+  "6603563229633bf3b012cb5ac9a834f1" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "9b89230c80b33f3",
+      "status" : "passed",
+      "time" : {
+        "start" : 1593333938715,
+        "stop" : 1593333938753,
+        "duration" : 38
+      }
+    } ]
+  },
+  "2c7a23b6cc03b0a6847f7c8c8ec160da" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "df4645bf3181be88",
+      "status" : "passed",
+      "time" : {
+        "start" : 1593333809221,
+        "stop" : 1593333809264,
+        "duration" : 43
+      }
+    } ]
+  },
+  "de4abd7efeb04c8a42610df2d836bb1d" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "b464028831deb711",
+      "status" : "passed",
+      "time" : {
+        "start" : 1595573431284,
+        "stop" : 1595573431315,
+        "duration" : 31
+      }
+    } ]
+  },
+  "b721c8a8223229dadf6626fd3ec1d7e8" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "6e7cbc9d63739ccb",
+      "status" : "passed",
+      "time" : {
+        "start" : 1593333807981,
+        "stop" : 1593333808026,
+        "duration" : 45
+      }
+    } ]
+  },
+  "b9c742c05fe221fce9824005e6555e16" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "61846d97d0665448",
+      "status" : "passed",
+      "time" : {
+        "start" : 1595573430755,
+        "stop" : 1595573430793,
+        "duration" : 38
+      }
+    } ]
+  },
+  "2be1920072b94735b2a9c36b42016565" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "51957de0e52991e3",
+      "status" : "passed",
+      "time" : {
+        "start" : 1593333809437,
+        "stop" : 1593333809468,
+        "duration" : 31
+      }
+    } ]
+  },
+  "8c472f05d852b624f0fe9fec507c4d84" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "d2d226ae8da8c4b2",
+      "status" : "passed",
+      "time" : {
+        "start" : 1593333939081,
+        "stop" : 1593333939120,
+        "duration" : 39
+      }
+    } ]
+  },
+  "d17f49e68f32a8b23cadd19958b730ea" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 1,
+      "skipped" : 0,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "755482348d1b9c30",
+      "status" : "broken",
+      "statusDetails" : "NameError: name 'payload' is not defined",
+      "time" : {
+        "start" : 1595573431081,
+        "stop" : 1595573431081,
+        "duration" : 0
+      }
+    } ]
+  },
+  "6b7bf6ff31866756285cf8b7e18c7d19" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "356718e072288e2",
+      "status" : "passed",
+      "time" : {
+        "start" : 1593333808348,
+        "stop" : 1593333808384,
+        "duration" : 36
+      }
+    } ]
+  },
+  "15fbf31fd5732c3c0aa174b2e5ee7945" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 1,
+      "skipped" : 0,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "7b491456bc92c309",
+      "status" : "broken",
+      "statusDetails" : "NameError: name 'payload' is not defined",
+      "time" : {
+        "start" : 1595573430994,
+        "stop" : 1595573430994,
+        "duration" : 0
+      }
+    } ]
+  },
+  "939a84a82d4f2a5af96ec01c40549394" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 1,
+      "skipped" : 0,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "576c1ef43992947",
+      "status" : "broken",
+      "statusDetails" : "NameError: name 'payload' is not defined",
+      "time" : {
+        "start" : 1595573431028,
+        "stop" : 1595573431028,
+        "duration" : 0
+      }
+    } ]
+  },
+  "deb64aec198fd8f5e6e7bd52aa1055d4" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "894eea4fa29eff9b",
+      "status" : "passed",
+      "time" : {
+        "start" : 1595573431210,
+        "stop" : 1595573431244,
+        "duration" : 34
+      }
+    } ]
+  },
+  "9c697551da587639fae62a4a6ad13928" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "8abfae431169d600",
+      "status" : "passed",
+      "time" : {
+        "start" : 1593333808144,
+        "stop" : 1593333808175,
+        "duration" : 31
+      }
+    } ]
+  },
+  "ddeac0307be89b3e4b3678ec06f0a875" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "c4d69b2c18132202",
+      "status" : "passed",
+      "time" : {
+        "start" : 1593333808428,
+        "stop" : 1593333808468,
+        "duration" : 40
+      }
+    } ]
+  },
+  "06ffb80b1214ed357ef6ccc541c6ad4f" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "b017f67657c603c0",
+      "status" : "passed",
+      "time" : {
+        "start" : 1593333809361,
+        "stop" : 1593333809398,
+        "duration" : 37
+      }
+    } ]
+  },
+  "501f5d9a2df184fd859212a74fb5f58d" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "c1bc5cb23de0a88e",
+      "status" : "passed",
+      "time" : {
+        "start" : 1593333808305,
+        "stop" : 1593333808345,
+        "duration" : 40
+      }
+    } ]
+  },
+  "9eeb53e05bab91c1ba438d9a8c8e242b" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "3ecba085b40c6365",
+      "status" : "passed",
+      "time" : {
+        "start" : 1593333808997,
+        "stop" : 1593333809036,
+        "duration" : 39
+      }
+    } ]
+  },
+  "ca7f42f0611b89c377f9a059c0f78927" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "a146c5aca8b1ddbc",
+      "status" : "passed",
+      "time" : {
+        "start" : 1593333808955,
+        "stop" : 1593333808994,
+        "duration" : 39
+      }
+    } ]
+  },
+  "4b5b6c11dfeac6e386ee1da68d560519" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "8b17e19cb4c6b983",
+      "status" : "passed",
+      "time" : {
+        "start" : 1595573430876,
+        "stop" : 1595573430911,
+        "duration" : 35
+      }
+    } ]
+  },
+  "c4619948f40f76eb91a7572fd44a76ea" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "5411d3ac77f2f103",
+      "status" : "passed",
+      "time" : {
+        "start" : 1593333808222,
+        "stop" : 1593333808301,
+        "duration" : 79
+      }
+    } ]
+  },
+  "9b69bcc071a02d8c3bc39cc6f4d14f98" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "f6283d13eaaf7aff",
+      "status" : "passed",
+      "time" : {
+        "start" : 1593333808068,
+        "stop" : 1593333808101,
+        "duration" : 33
+      }
+    } ]
+  },
+  "ad0c0adfb91253dd90cb62102001b25c" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "6cb97b71e53fc954",
+      "status" : "passed",
+      "time" : {
+        "start" : 1593333808555,
+        "stop" : 1593333808593,
+        "duration" : 38
+      }
+    } ]
+  },
+  "094ca098e8cbf2ada483553704c9cb9f" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "4c491639e0e260cb",
+      "status" : "passed",
+      "time" : {
+        "start" : 1593333938516,
+        "stop" : 1593333938554,
+        "duration" : 38
+      }
+    } ]
+  },
+  "608d4fdff104d9a8d1a60c60780168f2" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "ccbede20f626deb7",
+      "status" : "passed",
+      "time" : {
+        "start" : 1595573430797,
+        "stop" : 1595573430835,
+        "duration" : 38
+      }
+    } ]
+  },
+  "ac142ef7c289e75a5e4272aacf598470" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "54c12522b05d2cb9",
+      "status" : "passed",
+      "time" : {
+        "start" : 1595573431247,
+        "stop" : 1595573431280,
+        "duration" : 33
+      }
+    } ]
+  },
+  "93b39996b92aca985c128ac54f067663" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 1,
+      "skipped" : 0,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "ea786f71c323c730",
+      "status" : "broken",
+      "statusDetails" : "NameError: name 'payload' is not defined",
+      "time" : {
+        "start" : 1595573431047,
+        "stop" : 1595573431047,
+        "duration" : 0
+      }
+    } ]
+  },
+  "42f8ab4aaff28d9dfe1e92e1690e4c91" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 1,
+      "skipped" : 0,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "2258d5bff9d890d",
+      "status" : "broken",
+      "statusDetails" : "NameError: name 'payload' is not defined",
+      "time" : {
+        "start" : 1595573431087,
+        "stop" : 1595573431087,
+        "duration" : 0
+      }
+    } ]
+  },
+  "37e3991830338d436cc8dcaaa807f673" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "2d777cedd2a64f82",
+      "status" : "passed",
+      "time" : {
+        "start" : 1593333808597,
+        "stop" : 1593333808633,
+        "duration" : 36
+      }
+    } ]
+  },
+  "92f06a83cafb27f98ef302b853b58623" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "d46dbe24cc10ef1c",
+      "status" : "passed",
+      "time" : {
+        "start" : 1593333808715,
+        "stop" : 1593333808753,
+        "duration" : 38
+      }
+    } ]
+  },
+  "e9cfcf2bceb6f86d6f4f6da26c1a7cd7" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "2a1b1f3d207e909d",
+      "status" : "passed",
+      "time" : {
+        "start" : 1593333808636,
+        "stop" : 1593333808672,
+        "duration" : 36
+      }
+    } ]
+  },
+  "f4f04cdcde24336029c0e622acd6e2c3" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "639e29527b2bf6f0",
+      "status" : "passed",
+      "time" : {
+        "start" : 1593333938595,
+        "stop" : 1593333938633,
+        "duration" : 38
+      }
+    } ]
+  },
+  "b4fb2969e38841e02e7de6caf8c5d754" : {
+    "statistic" : {
+      "failed" : 1,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "e6af9b6591e531c0",
+      "status" : "failed",
+      "statusDetails" : "AssertionError: assert '样本信息不存在' in \"{'code': 200, 'message': '成功！', 'data': None}\"",
+      "time" : {
+        "start" : 1595573431094,
+        "stop" : 1595573431130,
+        "duration" : 36
+      }
+    } ]
+  },
+  "eeb84481abc9b4741634b44f0b7ee484" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 1,
+      "skipped" : 0,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "43ec301a20564b3a",
+      "status" : "broken",
+      "statusDetails" : "NameError: name 'payload' is not defined",
+      "time" : {
+        "start" : 1595573431001,
+        "stop" : 1595573431001,
+        "duration" : 0
+      }
+    } ]
+  },
+  "feca6adef798daf6973a6c59759b6dc4" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 1,
+      "skipped" : 0,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "4426fbda114df429",
+      "status" : "broken",
+      "statusDetails" : "NameError: name 'payload' is not defined",
+      "time" : {
+        "start" : 1595573431021,
+        "stop" : 1595573431021,
+        "duration" : 0
+      }
+    } ]
+  },
+  "3a21634f541df4fbe9ccae548cae088d" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "652b217f6d539bad",
+      "status" : "passed",
+      "time" : {
+        "start" : 1593333809180,
+        "stop" : 1593333809217,
+        "duration" : 37
+      }
+    } ]
+  },
+  "14d10199b3d46c6ca6752cd5b0d44030" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "4ad9c8ce5a8678d7",
+      "status" : "passed",
+      "time" : {
+        "start" : 1593333938997,
+        "stop" : 1593333939036,
+        "duration" : 39
+      }
+    } ]
+  },
+  "11bf67fbd7ab12059552e13a9cabd3c4" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "2758848519c9a52f",
+      "status" : "passed",
+      "time" : {
+        "start" : 1593333809085,
+        "stop" : 1593333809123,
+        "duration" : 38
+      }
+    } ]
+  },
+  "397632e0dd211a9138f96bbaa307b25e" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "18a3e523ad584bea",
+      "status" : "passed",
+      "time" : {
+        "start" : 1593333808178,
+        "stop" : 1593333808219,
+        "duration" : 41
+      }
+    } ]
+  },
+  "42d2a90429577422c89277670dd1056c" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "80cb95060411d807",
+      "status" : "passed",
+      "time" : {
+        "start" : 1593333809127,
+        "stop" : 1593333809177,
+        "duration" : 50
+      }
+    } ]
+  },
+  "2b51e4d45f77a90c722ee4c248cbb755" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 1,
+      "skipped" : 0,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "d9cfe78d6eb65b2c",
+      "status" : "broken",
+      "statusDetails" : "NameError: name 'payload' is not defined",
+      "time" : {
+        "start" : 1595573431068,
+        "stop" : 1595573431068,
+        "duration" : 0
+      }
+    } ]
+  },
+  "c6eb01b672360a37451cd1b53a24c648" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "55dabc8d9e944b63",
+      "status" : "passed",
+      "time" : {
+        "start" : 1595573430838,
+        "stop" : 1595573430873,
+        "duration" : 35
+      }
+    } ]
+  },
+  "0fe96c6fb8909ebab97c8a7b74c483fa" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "9d2141bfd0f7ee3e",
+      "status" : "passed",
+      "time" : {
+        "start" : 1593333808104,
+        "stop" : 1593333808141,
+        "duration" : 37
+      }
+    } ]
+  },
+  "f2085a381dfce34e12c4b6b2fadce376" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "fffaf41cece393e4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1593333938756,
+        "stop" : 1593333938792,
+        "duration" : 36
+      }
+    } ]
+  },
+  "ada869737b07840e9ddf144122ac63a7" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "cc7baaefb08f7ee7",
+      "status" : "passed",
+      "time" : {
+        "start" : 1593333938316,
+        "stop" : 1593333938392,
+        "duration" : 76
+      }
+    } ]
+  },
+  "41ca25796ecafc819b3df1da1e25c27b" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "a5dda0aa30beddde",
+      "status" : "passed",
+      "time" : {
+        "start" : 1593333807936,
+        "stop" : 1593333807977,
+        "duration" : 41
+      }
+    } ]
+  },
+  "0279fdac47468fc03ac381f2d71d51ac" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "47ef70eb29f0bccc",
+      "status" : "passed",
+      "time" : {
+        "start" : 1593333809401,
+        "stop" : 1593333809433,
+        "duration" : 32
+      }
+    } ]
+  },
+  "deec85b5e0f807782834b36b7364b11d" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "a65523ec169169c2",
+      "status" : "passed",
+      "time" : {
+        "start" : 1595573431136,
+        "stop" : 1595573431167,
+        "duration" : 31
+      }
+    } ]
+  },
+  "51a6d067bb2322ff4d4f058fde5d2530" : {
+    "statistic" : {
+      "failed" : 1,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "1787e5426b972dfd",
+      "status" : "failed",
+      "statusDetails" : "AssertionError: assert '成功！' in \"{'code': 300, 'message': 'sampleStatusShow不能为空！', 'data': None}\"",
+      "time" : {
+        "start" : 1593333938912,
+        "stop" : 1593333938964,
+        "duration" : 52
+      }
+    } ]
+  },
+  "dbdb8b1a9d4506160bd7fdd1d7bc45cd" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "645d85674c3abdc4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1595573431170,
+        "stop" : 1595573431208,
+        "duration" : 38
+      }
+    } ]
+  },
+  "6b37608619f995c94bd2742a2b043ea6" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "67f9c93eb04b285b",
+      "status" : "passed",
+      "time" : {
+        "start" : 1593333809267,
+        "stop" : 1593333809357,
+        "duration" : 90
+      }
+    } ]
+  },
+  "8a4193672a1476adc1888226d0b268f5" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "ed25d05e2ac52043",
+      "status" : "passed",
+      "time" : {
+        "start" : 1595573431354,
+        "stop" : 1595573431387,
+        "duration" : 33
+      }
+    } ]
+  },
+  "0d38678af4fecabfcebd169c84259e1e" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "e12d7e98909b923a",
+      "status" : "passed",
+      "time" : {
+        "start" : 1595573431318,
+        "stop" : 1595573431351,
+        "duration" : 33
+      }
+    } ]
+  },
+  "ca3d218f0ffec2645cfff353ca6fbaec" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "458b5ed5feb6d7b",
+      "status" : "passed",
+      "time" : {
+        "start" : 1593333809039,
+        "stop" : 1593333809082,
+        "duration" : 43
+      }
+    } ]
+  },
+  "8633e973b37e6f72e630e02d808070b4" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "76625a77fb526677",
+      "status" : "passed",
+      "time" : {
+        "start" : 1593333938675,
+        "stop" : 1593333938712,
+        "duration" : 37
+      }
+    } ]
+  },
+  "8f5e0add3063bf0c6231a4d99c77b8bd" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 1,
+      "skipped" : 0,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "2743fea389595618",
+      "status" : "broken",
+      "statusDetails" : "NameError: name 'payload' is not defined",
+      "time" : {
+        "start" : 1595573431054,
+        "stop" : 1595573431054,
+        "duration" : 0
+      }
+    } ]
+  },
+  "75d53c26a3b1a24f4b3d3bfe1f31a9f1" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 1,
+      "skipped" : 0,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "2d616c3619fc2a62",
+      "status" : "broken",
+      "statusDetails" : "NameError: name 'payload' is not defined",
+      "time" : {
+        "start" : 1595573431014,
+        "stop" : 1595573431014,
+        "duration" : 0
+      }
+    } ]
+  },
+  "4acdb0cfb88d8bdbd10a04b9f2ebd957" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 1,
+      "skipped" : 0,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "681c2d9df9e526ea",
+      "status" : "broken",
+      "statusDetails" : "NameError: name 'payload' is not defined",
+      "time" : {
+        "start" : 1595573431074,
+        "stop" : 1595573431074,
+        "duration" : 0
+      }
+    } ]
+  },
+  "a56c6d6985cf3be6c38fda9d1023da84" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 1,
+      "skipped" : 0,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "e6b22f64ece32460",
+      "status" : "broken",
+      "statusDetails" : "NameError: name 'payload' is not defined",
+      "time" : {
+        "start" : 1595573431041,
+        "stop" : 1595573431041,
+        "duration" : 0
+      }
+    } ]
+  },
+  "3bc90ea2ca29d6c80fb1cfdafc264c1e" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 1,
+      "skipped" : 0,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "a6f4c8fd9f4a7064",
+      "status" : "broken",
+      "statusDetails" : "NameError: name 'payload' is not defined",
+      "time" : {
+        "start" : 1595573431008,
+        "stop" : 1595573431008,
+        "duration" : 0
+      }
+    } ]
+  },
+  "76c5c121f39474d651e317b2bd8f306f" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "127e607b49ec33fc",
+      "status" : "passed",
+      "time" : {
+        "start" : 1593333938436,
+        "stop" : 1593333938474,
+        "duration" : 38
+      }
+    } ]
+  },
+  "c93ea2f042072b6314d6c29cc6ab5c6c" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "340e6b711a16e95a",
+      "status" : "passed",
+      "time" : {
+        "start" : 1593333938477,
+        "stop" : 1593333938513,
+        "duration" : 36
+      }
+    } ]
+  },
+  "d25c9ef3668384f5e441583ed4a83f5f" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "cef4b2bbd14ca0c0",
+      "status" : "passed",
+      "time" : {
+        "start" : 1595573430723,
+        "stop" : 1595573430752,
+        "duration" : 29
+      }
+    } ]
+  },
+  "89010a5733adfdc95bd36bc5bde23fc6" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 1,
+      "skipped" : 0,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "5d5a313204ec2f44",
+      "status" : "broken",
+      "statusDetails" : "NameError: name 'payload' is not defined",
+      "time" : {
+        "start" : 1595573431061,
+        "stop" : 1595573431061,
+        "duration" : 0
+      }
+    } ]
+  },
+  "9eb13de57d25c3555e7ce6fe3e286c1d" : {
+    "statistic" : {
+      "failed" : 1,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "f96d9fa98610589a",
+      "status" : "failed",
+      "statusDetails" : "AssertionError: assert '成功！' in \"{'code': 300, 'message': 'sampleStatusShow不能为空！', 'data': None}\"",
+      "time" : {
+        "start" : 1593333808869,
+        "stop" : 1593333808924,
+        "duration" : 55
+      }
+    } ]
+  },
+  "67503eaf4aa86a0835dd9fd3872a9248" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "a18cccb9bf8cad8e",
+      "status" : "passed",
+      "time" : {
+        "start" : 1593333939124,
+        "stop" : 1593333939161,
+        "duration" : 37
+      }
+    } ]
+  },
+  "02792d7bba109b01bbb60f5788a6334c" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "c8cc943c7489e79f",
+      "status" : "passed",
+      "time" : {
+        "start" : 1595573430950,
+        "stop" : 1595573430982,
+        "duration" : 32
+      }
+    } ]
+  },
+  "61817a2a9e270f57e7eeee7f6dcf3051" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "58076e295a55cb0a",
+      "status" : "passed",
+      "time" : {
+        "start" : 1593333808676,
+        "stop" : 1593333808712,
+        "duration" : 36
+      }
+    } ]
+  },
+  "41fb2293f83e4974671107be6deb09ae" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "ffa056eac8f9103d",
+      "status" : "passed",
+      "time" : {
+        "start" : 1593333938396,
+        "stop" : 1593333938433,
+        "duration" : 37
+      }
+    } ]
+  },
+  "f5b5c5a1b4ddeacda11061cbb942a736" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "31a4bf6f88bdad55",
+      "status" : "passed",
+      "time" : {
+        "start" : 1593333807879,
+        "stop" : 1593333807932,
+        "duration" : 53
+      }
+    } ]
+  },
+  "0d687401d694c139791fee8e9f2a30fc" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 1,
+      "skipped" : 0,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "8c7c6543c909613",
+      "status" : "broken",
+      "statusDetails" : "NameError: name 'payload' is not defined",
+      "time" : {
+        "start" : 1595573430985,
+        "stop" : 1595573430985,
+        "duration" : 0
+      }
+    } ]
+  },
+  "02c52a84b9b0df6af121cfe040e6f4c0" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "888070ad6a88f70a",
+      "status" : "passed",
+      "time" : {
+        "start" : 1593333938557,
+        "stop" : 1593333938592,
+        "duration" : 35
+      }
+    } ]
+  },
+  "f3d1935f05f4d02c8073b05f1e292c23" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "2d2adbee2001a26f",
+      "status" : "passed",
+      "time" : {
+        "start" : 1593333809471,
+        "stop" : 1593333809511,
+        "duration" : 40
+      }
+    } ]
+  },
+  "7702f133a6843f3a1cc9c266a5d572ea" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 1,
+      "skipped" : 0,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "728cb3abc7fa6efd",
+      "status" : "broken",
+      "statusDetails" : "NameError: name 'payload' is not defined",
+      "time" : {
+        "start" : 1595573431034,
+        "stop" : 1595573431034,
+        "duration" : 0
+      }
+    } ]
+  },
+  "b39fdb4d33541f3920d6ee9d31915d6d" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "5a2aa94d88efa0e2",
+      "status" : "passed",
+      "time" : {
+        "start" : 1593333938636,
+        "stop" : 1593333938671,
+        "duration" : 35
+      }
+    } ]
+  },
+  "911d6c0348f98a8e9a9242c39ffdec82" : {
+    "statistic" : {
+      "failed" : 1,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "de8de15762867522",
+      "status" : "failed",
+      "statusDetails" : "AssertionError: assert '医院外部条形码对应的样本信息不存在！' in \"{'code': 200,\\n 'data': {'age': 26,\\n          'applyItemCode': '1001',\\n          'birthDay': '1994-06-23',\\n       ... 1592882403,\\n          'sampleProperty': None,\\n          'sampleType': 36,\\n          'sex': 1},\\n 'message': '成功！'}\"",
+      "time" : {
+        "start" : 1595573430645,
+        "stop" : 1595573430679,
+        "duration" : 34
+      }
+    } ]
+  },
+  "8aaa2a53a4f098e964a31dcdabb9ec40" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "91cec74aed526752",
+      "status" : "passed",
+      "time" : {
+        "start" : 1595573430914,
+        "stop" : 1595573430947,
+        "duration" : 33
+      }
+    } ]
+  }
+}

@@ -1,0 +1,99 @@
+{
+  "uid" : "de8de15762867522",
+  "name" : "查询用户信息用例",
+  "fullName" : "testcase.test_runner.TestZuser_info#test_chaxun_report",
+  "historyId" : "911d6c0348f98a8e9a9242c39ffdec82",
+  "time" : {
+    "start" : 1595573430645,
+    "stop" : 1595573430679,
+    "duration" : 34
+  },
+  "status" : "failed",
+  "statusMessage" : "AssertionError: assert '医院外部条形码对应的样本信息不存在！' in \"{'code': 200,\\n 'data': {'age': 26,\\n          'applyItemCode': '1001',\\n          'birthDay': '1994-06-23',\\n       ... 1592882403,\\n          'sampleProperty': None,\\n          'sampleType': 36,\\n          'sex': 1},\\n 'message': '成功！'}\"",
+  "statusTrace" : "self = <testcase.test_runner.TestZuser_info object at 0x042437B0>\ninData = '{\"appKey\":\"ab99093d26ef45c59eb1cf6bae3a1263\"}'\ntwData = 'P.URL.CN/0Q%L$BP4-J:G3I%BLV:'\nrepsData = \"{'code': 200,\\n 'data': {'age': 26,\\n          'applyItemCode': '1001',\\n          'birthDay': '1994-06-23',\\n       ... 1592882403,\\n          'sampleProperty': None,\\n          'sampleType': 36,\\n          'sex': 1},\\n 'message': '成功！'}\"\n\n    @allure.story(\"01检验所查询用户信息\")\n    @allure.title(\"查询用户信息用例\")\n    @pytest.mark.user_info_select\n    @pytest.mark.parametrize('inData,twData,repsData',get_excelData('001检验所接口',1,9,5,6,8))\n    def test_chaxun_report(self,inData,twData,repsData):\n        res = api_getUserInfo(inData,twData)\n>       assert res['message'] in repsData\nE       assert '医院外部条形码对应的样本信息不存在！' in \"{'code': 200,\\n 'data': {'age': 26,\\n          'applyItemCode': '1001',\\n          'birthDay': '1994-06-23',\\n       ... 1592882403,\\n          'sampleProperty': None,\\n          'sampleType': 36,\\n          'sex': 1},\\n 'message': '成功！'}\"\n\ntest_runner.py:26: AssertionError",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "severity",
+    "value" : "normal"
+  }, {
+    "name" : "story",
+    "value" : "01检验所查询用户信息"
+  }, {
+    "name" : "feature",
+    "value" : "接口集"
+  }, {
+    "name" : "tag",
+    "value" : "user_info_select"
+  }, {
+    "name" : "parentSuite",
+    "value" : "testcase"
+  }, {
+    "name" : "suite",
+    "value" : "test_runner"
+  }, {
+    "name" : "subSuite",
+    "value" : "TestZuser_info"
+  }, {
+    "name" : "host",
+    "value" : "DESKTOP-GDCOEPJ"
+  }, {
+    "name" : "thread",
+    "value" : "14656-MainThread"
+  }, {
+    "name" : "framework",
+    "value" : "pytest"
+  }, {
+    "name" : "language",
+    "value" : "cpython3"
+  }, {
+    "name" : "package",
+    "value" : "testcase.test_runner"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ {
+    "name" : "inData",
+    "value" : "'{\"appKey\":\"ab99093d26ef45c59eb1cf6bae3a1263\"}'"
+  }, {
+    "name" : "repsData",
+    "value" : "'{'code': 200,\n 'data': {'age': 26,\n          'applyItemCode': '1001',\n          'birthDay': '1994-06-23',\n          'cardNo': '342401199406233411',\n          'id': 4,\n          'name': 'test004',\n          'phone': '15411111114',\n          'sampleCollectionTime': 1592882403,\n          'sampleProperty': None,\n          'sampleType': 36,\n          'sex': 1},\n 'message': '成功！'}'"
+  }, {
+    "name" : "twData",
+    "value" : "'P.URL.CN/0Q%L$BP4-J:G3I%BLV:'"
+  } ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ {
+      "uid" : "a5aaf3c326ef5927",
+      "status" : "passed",
+      "time" : {
+        "start" : 1593333937965,
+        "stop" : 1593333938013,
+        "duration" : 48
+      }
+    }, {
+      "uid" : "86b7dabdd8a041c7",
+      "status" : "passed",
+      "time" : {
+        "start" : 1593333883647,
+        "stop" : 1593333883698,
+        "duration" : 51
+      }
+    } ],
+    "categories" : [ {
+      "name" : "Product defects",
+      "matchedStatuses" : [ ],
+      "flaky" : false
+    } ],
+    "tags" : [ "user_info_select" ]
+  },
+  "source" : "de8de15762867522.json",
+  "parameterValues" : [ "'{\"appKey\":\"ab99093d26ef45c59eb1cf6bae3a1263\"}'", "'{'code': 200,\n 'data': {'age': 26,\n          'applyItemCode': '1001',\n          'birthDay': '1994-06-23',\n          'cardNo': '342401199406233411',\n          'id': 4,\n          'name': 'test004',\n          'phone': '15411111114',\n          'sampleCollectionTime': 1592882403,\n          'sampleProperty': None,\n          'sampleType': 36,\n          'sex': 1},\n 'message': '成功！'}'", "'P.URL.CN/0Q%L$BP4-J:G3I%BLV:'" ]
+}

@@ -1,0 +1,74 @@
+{
+  "uid" : "9d2141bfd0f7ee3e",
+  "name" : "查询用户信息用例",
+  "fullName" : "test_runner.TestZuser_info#test_chaxun_report",
+  "historyId" : "0fe96c6fb8909ebab97c8a7b74c483fa",
+  "time" : {
+    "start" : 1593333808104,
+    "stop" : 1593333808141,
+    "duration" : 37
+  },
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "feature",
+    "value" : "检验所模块"
+  }, {
+    "name" : "severity",
+    "value" : "normal"
+  }, {
+    "name" : "story",
+    "value" : "检验所查询用户信息"
+  }, {
+    "name" : "tag",
+    "value" : "user_info_select"
+  }, {
+    "name" : "suite",
+    "value" : "test_runner"
+  }, {
+    "name" : "subSuite",
+    "value" : "TestZuser_info"
+  }, {
+    "name" : "host",
+    "value" : "DESKTOP-GDCOEPJ"
+  }, {
+    "name" : "thread",
+    "value" : "5324-MainThread"
+  }, {
+    "name" : "framework",
+    "value" : "pytest"
+  }, {
+    "name" : "language",
+    "value" : "cpython3"
+  }, {
+    "name" : "package",
+    "value" : "test_runner"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ {
+    "name" : "inData",
+    "value" : "'{\"appKey\":\"ab99093d26ef45c59eb1cf6bae3a12632\"}'"
+  }, {
+    "name" : "repsData",
+    "value" : "'{'code': 300, 'data': None, 'message': 'appkey不存在或失效，不是有效的请求'}'"
+  }, {
+    "name" : "twData",
+    "value" : "'P.URL.CN/0Q%L$BP4-J:G3I%BLV:'"
+  } ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ "user_info_select" ]
+  },
+  "source" : "9d2141bfd0f7ee3e.json",
+  "parameterValues" : [ "'{\"appKey\":\"ab99093d26ef45c59eb1cf6bae3a12632\"}'", "'{'code': 300, 'data': None, 'message': 'appkey不存在或失效，不是有效的请求'}'", "'P.URL.CN/0Q%L$BP4-J:G3I%BLV:'" ]
+}
